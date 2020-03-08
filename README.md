@@ -1,5 +1,5 @@
 # Hermitcraft's Maps Coords for Mapcrafter
-This repo contains the markers files used in Hermitcraft's [map renders](https://hermitmaps.confusion.pt/).
+This repo contains the markers files used in Hermitcraft's [map renders](https://hermitcraftmaps.confusion.pt/).
 
 ## Add or edit coordinates and icons
 
