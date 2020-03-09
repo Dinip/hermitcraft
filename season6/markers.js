@@ -49,7 +49,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [+240, -800, 64], "title" : "Sahara Entrance", "icon" : "sahara.png", "iconSize" : [24, 24]},
 				{"pos" : [+240, -900, 64], "title" : "Stock market", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [-620, -724, 68], "title" : "Impulse's Base / iBay", "icon" : "impulse.png", "iconSize" : [24, 24]},
-				{"pos" : [-586, -684, 74], "title" : "Zedaph and Tango's Chicken Fountain", "icon" : ".png", "iconSize" : [24, 24]},
+				{"pos" : [-586, -684, 74], "title" : "Zedaph and Tango's Chicken Fountain", "icon" : "chicken.png", "iconSize" : [24, 24]},
 				
 			],
 		},
