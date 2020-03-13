@@ -20,7 +20,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers" : {
 			// ...in the world "world"
 			"world" : [
-				{"pos" : [0, 0, 64], "title" : "template", "icon" : "poi.png", "iconSize" : [24, 24]},				
+					
 			],
 		},
 	},
@@ -40,7 +40,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers" : {
 			// ...in the world "world"
 			"world" : [
-				{"pos" : [0, 0, 64], "title" : "template", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [258, 191, 64], "title" : "Spawn", "icon" : "poi.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
