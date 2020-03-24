@@ -19,7 +19,8 @@ var MAPCRAFTER_MARKERS = [
 		// markers of this marker group...
 		"markers" : {
 			// ...in the world "world"
-			"world" : [{"pos" : [-1015, 575, 64], "title" : "Iskall85's tree stump (of doom)", "icon" : "iskall.png", "iconSize" : [24, 24]},{"pos" : [-719, 469, 64], "title" : "Iskall starter base", "icon" : "iskall.png", "iconSize" : [24, 24]},
+			"world" : [{"pos" : [-1015, 575, 64], "title" : "Iskall85's tree stump (of doom)", "icon" : "iskall.png", "iconSize" : [24, 24]},
+				   {"pos" : [-719, 469, 64], "title" : "Iskall starter base", "icon" : "iskall.png", "iconSize" : [24, 24]},
 				   {"pos" : [-1394, 597, 64], "title" : "Bumbo Baggins' hobbit hole", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 				   {"pos" : [-1192, 862, 64], "title" : "Grian's hobbit hole", "icon" : "grian.png", "iconSize" : [24, 24]},
 				
