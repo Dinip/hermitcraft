@@ -27,6 +27,13 @@ var MAPCRAFTER_MARKERS = [
 				   {"pos" : [1140, -818, 64], "title" : "Bdubs' half-mansion", "icon" : "bdubs.png", "iconSize" : [24, 24]},
 				   {"pos" : [1540, -972, 64], "title" : "Bdubs' hideout (approximate)", "icon" : "bdubs.png", "iconSize" : [24, 24]},
 				   {"pos" : [-1199, 971, 64], "title" : "Grian's main mansion", "icon" : "grian.png", "iconSize" : [24, 24]},
+				   {"pos" : [51, -395, 64], "title" : "Tango's Toon Towers", "icon" : "tango.png", "iconSize" : [24, 24]},
+				   {"pos" : [-293, -313, 64], "title" : "ImpulseSV's sea-pyramid", "icon" : "impulse.png", "iconSize" : [24, 24]},
+				   {"pos" : [-32, 520, 64], "title" : "Dead Dog Gulch", "icon" : "rendog.png", "iconSize" : [24, 24]},
+				   {"pos" : [531, 10, 64], "title" : "Loser isle", "icon" : "rendog.png", "iconSize" : [24, 24]},
+				   {"pos" : [-622, -409, 64], "title" : "Jevin's no longer floating house", "icon" : "ijevin.png", "iconSize" : [24, 24]},
+				   {"pos" : [-927, 803, 64], "title" : "Stressmonster's rainbow jungle", "icon" : "stress.png", "iconSize" : [24, 24]},
+				   {"pos" : [417, -333, 64], "title" : "false's island", "icon" : "false.png", "iconSize" : [24, 24]},
 				
 			],
 		},
