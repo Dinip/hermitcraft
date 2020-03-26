@@ -33,7 +33,10 @@ var MAPCRAFTER_MARKERS = [
 				   {"pos" : [531, 10, 64], "title" : "Loser isle", "icon" : "rendog.png", "iconSize" : [24, 24]},
 				   {"pos" : [-622, -409, 64], "title" : "Jevin's no longer floating house", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				   {"pos" : [-927, 803, 64], "title" : "Stressmonster's rainbow jungle", "icon" : "stress.png", "iconSize" : [24, 24]},
-				   {"pos" : [417, -333, 64], "title" : "false's island", "icon" : "false.png", "iconSize" : [24, 24]},
+				   {"pos" : [417, -333, 64], "title" : "False's island", "icon" : "false.png", "iconSize" : [24, 24]},
+				   {"pos" : [-2447, -1754, 64], "title" : "xbCrafted village base", "icon" : "xb.png", "iconSize" : [24, 24]},
+				   {"pos" : [-1085, -92, 64], "title" : "Keralis' construction site", "icon" : "keralis.png", "iconSize": [24, 24]},
+				   {"pos" : [-817, -292, 64], "title" : "The Vintage Village (VintageBeef)", "icon" : "poi.png", "iconSize" : [24, 24]},
 				
 			],
 		},
