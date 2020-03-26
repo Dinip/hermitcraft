@@ -36,7 +36,7 @@ var MAPCRAFTER_MARKERS = [
 				   {"pos" : [417, -333, 64], "title" : "False's island", "icon" : "false.png", "iconSize" : [24, 24]},
 				   {"pos" : [-2447, -1754, 64], "title" : "xbCrafted village base", "icon" : "xb.png", "iconSize" : [24, 24]},
 				   {"pos" : [-1085, -92, 64], "title" : "Keralis' construction site", "icon" : "keralis.png", "iconSize": [24, 24]},
-				   {"pos" : [-817, -292, 64], "title" : "The Vintage Village (VintageBeef)", "icon" : "poi.png", "iconSize" : [24, 24]},
+				   {"pos" : [-817, -292, 64], "title" : "The Vintage Village (VintageBeef)", "icon" : "beef.png", "iconSize" : [24, 24]},
 				
 			],
 		},
