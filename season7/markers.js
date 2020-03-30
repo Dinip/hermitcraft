@@ -21,8 +21,12 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world" : [{"pos" : [-1015, 575, 64], "title" : "Iskall85's tree stump (of doom)", "icon" : "iskall.png", "iconSize" : [24, 24]},
 				   {"pos" : [-719, 469, 64], "title" : "Iskall starter base", "icon" : "iskall.png", "iconSize" : [24, 24]},
-				   {"pos" : [-1394, 597, 64], "title" : "Bumbo Baggins' hobbit hole", "icon" : "mumbo.png", "iconSize" : [24, 24]},
+				   {"pos" : [-1391, 610, 64], "title" : "Bumbo Baggins' hobbit hole", "icon" : "mumbo.png", "iconSize" : [24, 24]},
+				   {"pos" : [-1330, 555, 64], "title" : "BaldNBeautiful (Mumbo's main base)", "icon" : "mumbo.png", "iconSize" : [24,24]},
+				   {"pos" : [-762, 671, 64], "title" : "Hermit Challenges Temple", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 				   {"pos" : [-1192, 862, 64], "title" : "Grian's hobbit hole", "icon" : "grian.png", "iconSize" : [24, 24]},
+				   {"pos" : [-1264, 761, 64], "title" : "Larry the Snail (Scar's starter base)", "icon" : "scar.png", "iconSize" : [24, 24]},
+				   {"pos" : [-1363, 765, 64], "title" : "Scar's Cursed Nether Portal", "icon" : "scar.png", "iconSize" : [24, 24]},
 				   {"pos" : [1140, -837, 64], "title" : "Doc's half-mansion", "icon" : "doc.png", "iconSize" : [24, 24]},
 				   {"pos" : [1140, -818, 64], "title" : "Bdubs' half-mansion", "icon" : "bdubs.png", "iconSize" : [24, 24]},
 				   {"pos" : [1540, -972, 64], "title" : "Bdubs' hideout (approximate)", "icon" : "bdubs.png", "iconSize" : [24, 24]},
@@ -57,6 +61,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers" : {
 			// ...in the world "world"
 			"world" : [
+				{"pos" : [0, 0, 64], "title" : "(0, 0)", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [258, 191, 64], "title" : "Spawn", "icon" : "poi.png", "iconSize" : [24, 24]},
 			],
 		},
