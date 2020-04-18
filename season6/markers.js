@@ -125,7 +125,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [+3135, -689, 64], "title" : "Biffa's sea temple base", "icon" : "biffa.png", "iconSize" : [24, 24]},
 				{"pos" : [3352, -375, 64], "title" : "Xisuma Chunk of Death", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [+4484, -988, 64], "title" : "Mining Mesa/Desert", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [+4500, -4500, 64], "title" : "Tomato Yoshi's area", "icon" : "scar.png", "iconSize" : [24, 24]},
+				{"pos" : [+4500, -4500, 64], "title" : "Tomato Yoshi's area", "icon" : "tomatoyoshi.png", "iconSize" : [24, 24]},
 				{"pos" : [+2140, +9800, 64], "title" : "Biffa's Woodland mansion", "icon" : "biffa.png", "iconSize" : [24, 24]},
 				{"pos" : [+240, +2950, 64], "title" : "Iskall's Ice tray", "icon" : "iskall.png", "iconSize" : [24, 24]},
 				{"pos" : [+1360, +1120, 64], "title" : "Impulse's Patreon Monument", "icon" : "impulse.png", "iconSize" : [24, 24]},
