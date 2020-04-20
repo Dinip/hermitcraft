@@ -31,7 +31,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [985, -905, 64], "title" : "JoeHills", "icon" : "hoe.png", "iconSize" : [24, 24]},
 				{"pos" : [1190, -1306, 64], "title" : "Mumbo", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 				{"pos" : [-20, -621, 64], "title" : "PythonGB", "icon" : "python.png", "iconSize" : [24, 24]},
-				{"pos" : [2306, 1200, 64], "title" : "Rendog", "icon" : "ren.png", "iconSize" : [24, 24]},
+				{"pos" : [2306, 1200, 64], "title" : "Rendog", "icon" : "rendog.png", "iconSize" : [24, 24]},
 				{"pos" : [-2184, -1083, 64], "title" : "Stressmonster101", "icon" : "stress.png", "iconSize" : [24, 24]},
 				{"pos" : [443, -69, 64], "title" : "TangoTek", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [-2063, -62, 64], "title" : "TFC", "icon" : "tfc.png", "iconSize" : [24, 24]},
@@ -84,7 +84,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world" : [
 				{"pos" : [843, -1042, 64], "title" : "Castle Ravenloft", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [5133, -2314, 64], "title" : "cub's Charged Creeper Farm", "icon" : "cubb.png", "iconSize" : [24, 24]},
+				{"pos" : [5133, -2314, 64], "title" : "cub's Charged Creeper Farm", "icon" : "cub.png", "iconSize" : [24, 24]},
 				{"pos" : [1539, -4066, 64], "title" : "cub's Slime Farm", "icon" : "cub.png", "iconSize" : [24, 24]},
 				{"pos" : [3219, -4013, 64], "title" : "cub's Witchfarm", "icon" : "cub.png", "iconSize" : [24, 24]},
 				{"pos" : [469, -1020, 64], "title" : "Gaming District", "icon" : "poi.png", "iconSize" : [24, 24]},
