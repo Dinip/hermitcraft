@@ -53,6 +53,7 @@ var MAPCRAFTER_MARKERS = [
 				   {"pos" : [530, 450, 65], "title" : "Cub's Pyramid", "icon" : "cub.png", "iconSize" : [24, 24]},
 				   {"pos" : [875, -250, 64], "title" : "Hypno's island", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				   {"pos" : [-1400, -275, 64], "title" : "Xisuma's area (approximate)", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+				   {"pos" : [-841, -533, 64], "title" : "Welsknight Starter House", "icon" : "wels.png", "iconSize" : [24, 24]},
 				
 			],
 		},
