@@ -54,6 +54,13 @@ var MAPCRAFTER_MARKERS = [
 				   {"pos" : [875, -250, 64], "title" : "Hypno's island", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				   {"pos" : [-1400, -275, 64], "title" : "Xisuma's area (approximate)", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				   {"pos" : [-841, -533, 64], "title" : "Welsknight Starter House", "icon" : "wels.png", "iconSize" : [24, 24]},
+				   {"pos" : [-1976, 851, 64], "title" : "Mumbo's villager district", "icon" : "mumbo.png", "iconSize" : [24, 24]},
+				   {"pos" : [-3044, 1286, 64], "title" : "Iskall's industrial district", "icon" : "iskall.png", "iconSize" : [24, 24]},
+				   {"pos" : [-3204, 1665, 64], "title" : "Mumbo's industrial district", "icon" : "mumbo.png", "iconSize" : [24, 24]},
+				   {"pos" : [-583, -122, 64], "title" : "Jevin's Megabase", "icon" : "ijevin.png", "iconSize" : [24, 24]},
+				   {"pos" : [-680, 988, 64], "title" : "Tatooren", "icon" : "rendog.png", "iconSize" : [24, 24]},
+				   {"pos" : [2275, -284, 64], "title" : "Hypno's Witch Farm", "icon" : "hypno.png", "iconSize" : [24, 24]},
+				   {"pos" : [-1767, 624, 64], "title" : "Big Bud drilling truck", "icon" : "scar.png", "iconSize" : [24, 24]},
 				
 			],
 		},
