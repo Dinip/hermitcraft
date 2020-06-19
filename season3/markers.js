@@ -24,6 +24,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [466, 2294, 64], "title" : "Savanna", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [16, 352, 64], "title" : "Quadruple witch hut", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [1264, -1344, 64], "title" : "Horse farm island", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [908, 4292, 64], "title" : "xB's Base", "icon" : "xb.png", "iconSize" : [24, 24]}
 			],
 		},
 	},
