@@ -32,11 +32,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [245, 2956, 64], "title" : "Impulse's Ghast Catcher", "icon" : "impulse.png", "iconSize" : [24, 24]}, 
 				{"pos" : [-1892, 6255, 64], "title" : "False's Christmas Village", "icon" : "false.png", "iconSize" : [24, 24]}, 
 				{"pos" : [3326, 3653, 64], "title" : "Xisuma's Sheep Farm (Rainbowfall)", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-				{"pos" : [6954, 8873, 64], "title" : "Hermit Hallows", "icon" : "poi.png", "iconSize" : [24, 24]}
-				
-				
-				
-				
+				{"pos" : [6954, 8873, 64], "title" : "Hermit Hallows", "icon" : "poi.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
@@ -71,7 +67,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-4856, 1832, 64], "title" : "Hypno's Base", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				{"pos" : [1226, 782, 64], "title" : "Impulse's Base (Underground)", "icon" : "impulse.png", "iconSize" : [24, 24]},
 				{"pos" : [1427, 700, 64], "title" : "DMac's Base (In Hill)", "icon" : "dmac.png", "iconSize" : [24, 24]},
-				{"pos" : [-1305, 2017, 64], "title" : "Etho's Base", "icon" : "etho.png", "iconSize" : [24, 24]}
+				{"pos" : [-1305, 2017, 64], "title" : "Etho's Base", "icon" : "etho.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
@@ -104,10 +100,6 @@ var MAPCRAFTER_MARKERS = [
 			{"pos" : [1181, 750, 64], "title" : "Mumbo's Hot Air Balloon", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 			{"pos" : [1133, 692, 64], "title" : "xB's House", "icon" : "xb.png", "iconSize" : [24, 24]},
 			{"pos" : [1427, 700, 130], "title" : "Skyzm's House", "icon" : "skyzm.png", "iconSize" : [24, 24]},
-				
-				
-				
-				
 			],
 		},
 	},
