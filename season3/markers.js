@@ -25,13 +25,13 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [16, 352, 64], "title" : "Quadruple witch hut", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [1264, -1344, 64], "title" : "Horse farm island", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [5172, 1105, 64], "title" : "Monkeyfarm's Monkey Island", "icon" : "monkeyfarm.png", "iconSize" : [24, 24]}, 
-				{"pos" : [4222, 3300, 64], "title" : "False's airplane and lighthouse", "icon" : "false.png", "iconSize" : [24, 24]},
-				{"pos" : [4098, 3290, 64], "title" : "Creeper Beach", "icon" : "false.png", "iconSize" : [24, 24]},
 				{"pos" : [1172, 700, 64], "title" : "Hermit Hills", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [880, 835, 64], "title" : "Hermit Thrillz", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [8100, 5377, 64], "title" : "Xisuma's Passive Mob Farm", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [42, 2962, 64], "title" : "Xisuma's Squid Farm", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [245, 2956, 64], "title" : "Impulse's Ghast Catcher", "icon" : "impulse.png", "iconSize" : [24, 24]}, 
+				{"pos" : [-1892, 6255, 64], "title" : "False's Christmas Village", "icon" : "false.png", "iconSize" : [24, 24]}, 
+				
 				
 				
 				
@@ -60,12 +60,14 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [1255, 800, 64], "title" : "Zeuljin's Castle", "icon" : "zueljin.png", "iconSize" : [24, 24]},
 				{"pos" : [1693, 325, 64], "title" : "Cleo's Base", "icon" : "cleo.png", "iconSize" : [24, 24]},
 				{"pos" : [1389, 1755, 64], "title" : "Xisuma's Base", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-				{"pos" : [4136, 3140, 64], "title" : "False's Base", "icon" : "false.png", "iconSize" : [24, 24]},
+				{"pos" : [4136, 3140, 64], "title" : "False's Islands", "icon" : "false.png", "iconSize" : [24, 24]},
 				{"pos" : [896, 597, 64], "title" : "Biffa's Base", "icon" : "biffa.png", "iconSize" : [24, 24]},
 				{"pos" : [908, 4292, 64], "title" : "xB's Base", "icon" : "xb.png", "iconSize" : [24, 24]},
 				{"pos" : [-362, 1536, 64], "title" : "Keralis' Base", "icon" : "keralis.png", "iconSize" : [24, 24]},
 				{"pos" : [802, 128, 64], "title" : "Spumwack's Base", "icon" : "spumwack.png", "iconSize" : [24, 24]},
-				{"pos" : [-4023, 3812, 64], "title" : "Sl1pg8r's Base", "icon" : "sl1pg8r.png", "iconSize" : [24, 24]}
+				{"pos" : [-4023, 3812, 64], "title" : "Sl1pg8r's Base", "icon" : "sl1pg8r.png", "iconSize" : [24, 24]},
+				{"pos" : [1316, 368, 64], "title" : "TopMass's Base", "icon" : "topmass.png", "iconSize" : [24, 24]},
+				{"pos" : [-4856, 1832, 64], "title" : "Hypno's Base", "icon" : "hypno.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
