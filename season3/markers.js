@@ -1,42 +1,6 @@
 // Add your own markers to this file.
 
 var MAPCRAFTER_MARKERS = [
-	//Other:
-	{
-		// id of the marker group, without spaces/other special chars
-		"id" : "other",
-		// name of the marker group, displayed in the webinterface
-		"name" : "Other",
-		// icon of the markers belonging to that group (optional)
-		"icon" : "poi.png",
-		// size of that icon
-		"iconSize" : [24, 24],
-		// whether this marker group is shown by default (optional)
-		"showDefault" : true,
-		// markers of this marker group...
-		"markers" : {
-			// ...in the world "world"
-			"world" : [
-				{"pos" : [4118, -6470, 64], "title" : "Mooshroom island", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [-115, 1412, 64], "title" : "Mesa", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [2023, -4512, 64], "title" : "Ice spikes", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [-768, -227, 64], "title" : "Roofed Forest", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [466, 2294, 64], "title" : "Savanna", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [16, 352, 64], "title" : "Quadruple witch hut", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [1264, -1344, 64], "title" : "Horse farm island", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [5172, 1105, 64], "title" : "Monkeyfarm's Monkey Island", "icon" : "monkeyfarm.png", "iconSize" : [24, 24]}, 
-				{"pos" : [1172, 700, 64], "title" : "Hermit Hills", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [880, 835, 64], "title" : "Hermit Thrillz", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [8100, 5377, 64], "title" : "Xisuma's Passive Mob Farm", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-				{"pos" : [42, 2962, 64], "title" : "Xisuma's Squid Farm", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-				{"pos" : [245, 2956, 64], "title" : "Impulse's Ghast Catcher", "icon" : "impulse.png", "iconSize" : [24, 24]}, 
-				{"pos" : [-1892, 6255, 64], "title" : "False's Christmas Village", "icon" : "false.png", "iconSize" : [24, 24]}, 
-				{"pos" : [3326, 3653, 64], "title" : "Xisuma's Sheep Farm (Rainbowfall)", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-				{"pos" : [6954, 8873, 64], "title" : "Hermit Hallows", "icon" : "poi.png", "iconSize" : [24, 24]},
-			],
-		},
-	},
-	
 	// Bases
 	{
 		// id of the marker group, without spaces/other special chars
@@ -72,7 +36,7 @@ var MAPCRAFTER_MARKERS = [
 		},
 	},
 	
-		// Hermit Hills Houses 
+	// Hermit Hills Houses 
 	{
 		// id of the marker group, without spaces/other special chars
 		"id" : "hermithills",
@@ -91,8 +55,8 @@ var MAPCRAFTER_MARKERS = [
 			{"pos" : [1300, 530, 64], "title" : "Hypno's House", "icon" : "hypno.png", "iconSize" : [24, 24]},
 			{"pos" : [1200, 615, 64], "title" : "Joe's Cheers House", "icon" : "joe.png", "iconSize" : [24, 24]},
 			{"pos" : [1139, 666, 64], "title" : "Xisuma's House", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-			{"pos" : [1100, 630, 64], "title" : "Jevin's House", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-			{"pos" : [1171, 560, 64], "title" : "False's House", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+			{"pos" : [1100, 630, 64], "title" : "Jevin's House", "icon" : "ijevin.png", "iconSize" : [24, 24]},
+			{"pos" : [1171, 560, 64], "title" : "False's House", "icon" : "false.png", "iconSize" : [24, 24]},
 			{"pos" : [1150, 750, 64], "title" : "Tango's House", "icon" : "tango.png", "iconSize" : [24, 24]},
 			{"pos" : [1328, 709, 64], "title" : "Crown Hall", "icon" : "sl1pg8r.png", "iconSize" : [24, 24]},
 			{"pos" : [1405, 685, 64], "title" : "Sl1pg8r's House", "icon" : "sl1pg8r.png", "iconSize" : [24, 24]},
@@ -100,6 +64,42 @@ var MAPCRAFTER_MARKERS = [
 			{"pos" : [1181, 750, 64], "title" : "Mumbo's Hot Air Balloon", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 			{"pos" : [1133, 692, 64], "title" : "xB's House", "icon" : "xb.png", "iconSize" : [24, 24]},
 			{"pos" : [1427, 700, 130], "title" : "Skyzm's House", "icon" : "skyzm.png", "iconSize" : [24, 24]},
+			],
+		},
+	},
+	
+	//Other:
+	{
+		// id of the marker group, without spaces/other special chars
+		"id" : "other",
+		// name of the marker group, displayed in the webinterface
+		"name" : "Other",
+		// icon of the markers belonging to that group (optional)
+		"icon" : "poi.png",
+		// size of that icon
+		"iconSize" : [24, 24],
+		// whether this marker group is shown by default (optional)
+		"showDefault" : true,
+		// markers of this marker group...
+		"markers" : {
+			// ...in the world "world"
+			"world" : [
+				{"pos" : [4118, -6470, 64], "title" : "Mooshroom island", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [-115, 1412, 64], "title" : "Mesa", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [2023, -4512, 64], "title" : "Ice spikes", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [-768, -227, 64], "title" : "Roofed Forest", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [466, 2294, 64], "title" : "Savanna", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [16, 352, 64], "title" : "Quadruple witch hut", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [1264, -1344, 64], "title" : "Horse farm island", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [5172, 1105, 64], "title" : "Monkeyfarm's Monkey Island", "icon" : "monkeyfarm.png", "iconSize" : [24, 24]}, 
+				{"pos" : [1172, 700, 64], "title" : "Hermit Hills", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [880, 835, 64], "title" : "Hermit Thrillz", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [8100, 5377, 64], "title" : "Xisuma's Passive Mob Farm", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+				{"pos" : [42, 2962, 64], "title" : "Xisuma's Squid Farm", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+				{"pos" : [245, 2956, 64], "title" : "Impulse's Ghast Catcher", "icon" : "impulse.png", "iconSize" : [24, 24]}, 
+				{"pos" : [-1892, 6255, 64], "title" : "False's Christmas Village", "icon" : "false.png", "iconSize" : [24, 24]}, 
+				{"pos" : [3326, 3653, 64], "title" : "Xisuma's Sheep Farm (Rainbowfall)", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+				{"pos" : [6954, 8873, 64], "title" : "Hermit Hallows", "icon" : "poi.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
