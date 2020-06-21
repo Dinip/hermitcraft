@@ -62,6 +62,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-680, 988, 64], "title" : "Tatooren", "icon" : "rendog.png", "iconSize" : [24, 24]},
 				{"pos" : [2275, -284, 64], "title" : "Hypno's Witch Farm", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				{"pos" : [-1767, 624, 64], "title" : "Big Bud drilling truck", "icon" : "scar.png", "iconSize" : [24, 24]},
+				{"pos" : [-288, -1888, 64], "title" : "Impulse's guardian farm", "icon" : "impulse.png", "iconSize" : [24, 24]}
 			],
 		},
 	},
@@ -83,6 +84,7 @@ var MAPCRAFTER_MARKERS = [
 			"world" : [
 				{"pos" : [0, 0, 64], "title" : "(0, 0)", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [258, 191, 64], "title" : "Spawn", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [-2264, 264, 64], "title" : "Gaming District (temp name)", "icon" : "poi.png", "iconSize" : [24, 24]}
 			],
 		},
 	},
