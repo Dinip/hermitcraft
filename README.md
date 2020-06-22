@@ -11,10 +11,11 @@ Default icon is `poi.png`, there are more icons available in icons folder and yo
 
 3. After the changes are done **make a pull request**.
 I will verify the requests manually just to prevent abuse. After the approval they will be applied to the respective map.
+*At this stage you can add your reddit username to the pull request comments to be displayed instead of the github username in the "Thanks to" list on the index page of the maps.*
 
 **Note: Don't forget to make the pull request, otherwise the changes will not be applied to the map.**
 
-If you have any doubt or suggestion open a new issue or [comment in the reddit post](https://www.reddit.com/r/HermitCraft/comments/fijfa4/3d_maps_from_season_17_now_available/).
+If you have any doubt or suggestion [open a new issue](https://github.com/Dinip/hermitcraft/issues) or [comment in the reddit post](https://www.reddit.com/r/HermitCraft/comments/fijfa4/3d_maps_from_season_17_now_available/).
 
 Disclaimer: This project is run by the community and is not affiliated directly with [https://hermitcraft.com/](https://hermitcraft.com/).
 Responsible for the project: [Dinip (Github)](https://github.com/dinip) / [Dinip (Reddit)](https://reddit.com/user/Dinip12/).
