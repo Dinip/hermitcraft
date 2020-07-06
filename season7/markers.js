@@ -63,6 +63,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [2275, -284, 64], "title" : "Hypno's Witch Farm", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				{"pos" : [-1767, 624, 64], "title" : "Big Bud drilling truck", "icon" : "scar.png", "iconSize" : [24, 24]},
 				{"pos" : [-288, -1888, 64], "title" : "Impulse's guardian farm", "icon" : "impulse.png", "iconSize" : [24, 24]},
+				{"pos" : [-2980, -520, 64], "title" : "Xisuma's farming village", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
