@@ -85,7 +85,7 @@ var MAPCRAFTER_MARKERS = [
 			"world" : [
 				{"pos" : [20, 180, 64], "title" : "Bigger Logz, Inc.", "icon" : "rendog.png", "iconSize" : [24, 24]},
 				{"pos" : [-115, 180, 64], "title" : "Landscaping Shop", "icon" : "scar.png", "iconSize" : [24, 24]},
-				{"pos" : [150, 100, 64], "title" : "Shade-E-E's", "icon" : "etho.png", "iconSize" : [24, 24]}
+				{"pos" : [150, 100, 64], "title" : "Shade-E-E's", "icon" : "etho.png", "iconSize" : [24, 24]},
 				{"pos" : [-80, 0, 64], "title" : "Emporium / The Barge", "icon" : "grian.png", "iconSize" : [24, 24]},
 				{"pos" : [-100, -25, 64], "title" : "Trident Shop", "icon" : "impulse.png", "iconSize" : [24, 24]},
 				{"pos" : [-102, -38, 64], "title" : "(Impulse, Bdubs) Lamps", "icon" : "poi.png", "iconSize" : [24, 24]},
