@@ -20,8 +20,8 @@ var MAPCRAFTER_MARKERS = [
 		"markers" : {
 			// ...in the world "world"
 			"world" : [
-				{"pos" : [-1015, 575, 64], "title" : "Iskall85's tree stump (of doom)", "icon" : "iskall.png", "iconSize" : [24, 24]},
-				{"pos" : [-719, 469, 64], "title" : "Iskall starter base", "icon" : "iskall.png", "iconSize" : [24, 24]},
+				{"pos" : [-1015, 575, 64], "title" : "Iskall's tree (of doom)", "icon" : "iskall.png", "iconSize" : [24, 24]},
+				{"pos" : [-719, 469, 64], "title" : "Iskall's starter base", "icon" : "iskall.png", "iconSize" : [24, 24]},
 				{"pos" : [-1391, 610, 64], "title" : "Bumbo Baggins' hobbit hole", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 				{"pos" : [-1330, 555, 64], "title" : "BaldNBeautiful (Mumbo's main base)", "icon" : "mumbo.png", "iconSize" : [24,24]},
 				{"pos" : [-762, 671, 64], "title" : "Hermit Challenges Temple", "icon" : "mumbo.png", "iconSize" : [24, 24]},
@@ -31,9 +31,9 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [1140, -837, 64], "title" : "Doc's half-mansion", "icon" : "doc.png", "iconSize" : [24, 24]},
 				{"pos" : [900, -530, 120], "title" : "Doc's Testificate Tower", "icon" : "doc.png", "iconSize" : [24, 24]},
 				{"pos" : [1140, -818, 64], "title" : "Bdubs' half-mansion", "icon" : "bdubs.png", "iconSize" : [24, 24]},
-				{"pos" : [1540, -972, 64], "title" : "Bdubs' base", "icon" : "bdubs.png", "iconSize" : [24, 24]},
-				{"pos" : [-1199, 971, 64], "title" : "Grian's main mansion", "icon" : "grian.png", "iconSize" : [24, 24]},
-				{"pos" : [51, -395, 64], "title" : "Tango's Toon Towers", "icon" : "tango.png", "iconSize" : [24, 24]},
+				{"pos" : [1515, -938, 64], "title" : "Bdubs' base", "icon" : "bdubs.png", "iconSize" : [24, 24]},
+				{"pos" : [-1199, 971, 64], "title" : "Grian's mansion", "icon" : "grian.png", "iconSize" : [24, 24]},
+				{"pos" : [30, -420, 64], "title" : "Tango's Toon Towers", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [-293, -313, 64], "title" : "ImpulseSV's sea-pyramid", "icon" : "impulse.png", "iconSize" : [24, 24]},
 				{"pos" : [-32, 520, 64], "title" : "Dead Dog Gulch", "icon" : "rendog.png", "iconSize" : [24, 24]},
 				{"pos" : [531, 10, 64], "title" : "Loser isle", "icon" : "rendog.png", "iconSize" : [24, 24]},
