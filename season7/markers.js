@@ -155,7 +155,7 @@ var MAPCRAFTER_MARKERS = [
 			"world" : [
 				{"pos" : [0, 0, 64], "title" : "(0, 0)", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [258, 191, 64], "title" : "Spawn", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [-2264, -264, 64], "title" : "Gaming District (temp name)", "icon" : "poi.png", "iconSize" : [24, 24]}
+				{"pos" : [-2264, -264, 64], "title" : "Gaming District (temp name)", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [-45, -84 , 64], "title" : "Town Hall", "icon" : "poi.png", "iconSize" : [24, 24]},
 			],
 		},
