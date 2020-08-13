@@ -99,7 +99,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-93, 60, 64], "title" : "The Honey Pot", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [-98, 60, 64], "title" : "Rock Shop", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [-3, 18, 64], "title" : "The Hedge Games", "icon" : "iskall.png", "iconSize" : [24, 24]},
-				{"pos" : [-48, 48, 64], "title" : "Tek to the Skies", "icon" : "tango.png", "iconSize" : [24, 24]},
+				{"pos" : [-48, 48, 64], "title" : "PyroTEKnics", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [-55, 123, 64], "title" : "Nether shop", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [-40, 115, 64], "title" : "Mob Drops Shop", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [27, 116, 64], "title" : "Potion Shop", "icon" : "stress.png", "iconSize" : [24, 24]},
