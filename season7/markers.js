@@ -2,10 +2,10 @@
 
 var MAPCRAFTER_MARKERS = [
 	
-	//Please add markers in Alphabetical order, First .pgn file, after that marker name, so ZombieCleo is a C because her .pgn file is cleo.png.
+	//Please add markers in Alphabetical order, First .png file, after that marker name, so ZombieCleo is a C because her .png file is cleo.png.
 	//Poi markers are on top. Ignore the names in ()
 
-	//Empty format to Copy, Paste {"pos" : [, , 64], "title" : "", "icon" : ".png", "iconSize" : [24, 24]}, 
+	//Empty format to Copy, Paste {"pos" : [X, Z, 64], "title" : "", "icon" : ".png", "iconSize" : [24, 24]}, 
 	
 	// Bases
 	{
