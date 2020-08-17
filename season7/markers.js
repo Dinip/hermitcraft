@@ -69,7 +69,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [30, -420, 64], "title" : "Tango's Toon Towers", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [64, -624, 64], "title" : "TFC's tower", "icon" : "tfc.png", "iconSize" : [24, 24]},
 				{"pos" : [-841, -533, 64], "title" : "Welsknight Starter House", "icon" : "wels.png", "iconSize" : [24, 24]},
-				{"pos" : [-4400, -4800, 64], "title" : "xBCrafted village base", "icon" : "xb.png", "iconSize" : [24, 24]},
+				{"pos" : [4360, -4840, 64], "title" : "xBCrafted's base", "icon" : "xb.png", "iconSize" : [24, 24]},
 				{"pos" : [-1400, -275, 64], "title" : "Xisuma's area", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [-2980, -520, 64], "title" : "Xisuma's farming village", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [-200, -650, 64], "title" : "Zedaph's Cave of Contraptions", "icon" : "zedaph.png", "iconSize" : [24, 24]},
