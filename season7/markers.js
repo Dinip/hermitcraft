@@ -50,6 +50,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-3044, 1286, 64], "title" : "Iskall's industrial district", "icon" : "iskall.png", "iconSize" : [24, 24]},
 				{"pos" : [-719, 469, 64], "title" : "Iskall's starter base", "icon" : "iskall.png", "iconSize" : [24, 24]},
 				{"pos" : [-1015, 575, 64], "title" : "Iskall's tree (of doom)", "icon" : "iskall.png", "iconSize" : [24, 24]},
+				{"pos" : [830, -1700, 64], "title" : "Iskall's treasure island", "icon" : "iskall.png", "iconSize" : [24, 24]},
 				{"pos" : [1075, -1000, 55], "title" : "Joe Hills's ship", "icon" : "joe.png", "iconSize" : [24, 24]},
 				{"pos" : [1160, -1100, 65], "title" : "Joe Hills's vineyard", "icon" : "joe.png", "iconSize" : [24, 24]},
 				{"pos" : [900, -1060, 64], "title" : "Joerassic Bark", "icon" : "joe.png", "iconSize" : [24, 24]},
