@@ -65,7 +65,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-680, 988, 64], "title" : "Tatooren", "icon" : "rendog.png", "iconSize" : [24, 24]},
 				{"pos" : [-1767, 624, 64], "title" : "Big Bud drilling truck", "icon" : "scar.png", "iconSize" : [24, 24]},
 				{"pos" : [-1363, 765, 64], "title" : "Scar's Cursed Nether Portal", "icon" : "scar.png", "iconSize" : [24, 24]},
-				{"pos" : [-1264, 761, 64], "title" : "Scar's Magical village", "icon" : "scar.png", "iconSize" : [24, 24]},
+				{"pos" : [-1223, 761, 64], "title" : "Scar's Magical village", "icon" : "scar.png", "iconSize" : [24, 24]},
 				{"pos" : [-927, 803, 64], "title" : "Stressmonster's rainbow jungle", "icon" : "stress.png", "iconSize" : [24, 24]},
 				{"pos" : [30, -420, 64], "title" : "Tango's Toon Towers", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [64, -624, 64], "title" : "TFC's tower", "icon" : "tfc.png", "iconSize" : [24, 24]},
