@@ -186,9 +186,8 @@ var MAPCRAFTER_MARKERS = [
 			"world" : [
 				{"pos" : [-1337, -2530, 64], "title" : "Impulse and Tango's wool farm", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [-2975, 325, 64], "title" : "Etho's ice fortress", "icon" : "etho.png", "iconSize" : [24, 24]},
-				{"pos" : [417, -333, 64], "title" : "False's island", "icon" : "false.png", "iconSize" : [24, 24]},
 				{"pos" : [2275, -284, 64], "title" : "Hypno's Witch Farm", "icon" : "hypno.png", "iconSize" : [24, 24]},
-				{"pos" : [-3904, -2032, 64], "title" : "Jevin's Mob Farm", "icon" : "ijevin.png", "iconSize" : [24, 24]},
+				{"pos" : [-3904, -2032, 64], "title" : "Jevin's Guardian Farm", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [-1034, -2538, 128], "title" : "Jevin's Mob Farm", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [-1328, -1392, 64], "title" : "Impulse's guardian farm", "icon" : "impulse.png", "iconSize" : [24, 24]},
 				{"pos" : [-2812, 950, 64], "title" : "Impulse's Ice farm", "icon" : "impulse.png", "iconSize" : [24, 24]},
