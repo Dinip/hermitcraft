@@ -39,7 +39,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-1192, 862, 64], "title" : "Grian's hobbit hole", "icon" : "grian.png", "iconSize" : [24, 24]},
 				{"pos" : [-1199, 971, 64], "title" : "Grian's mansion", "icon" : "grian.png", "iconSize" : [24, 24]},
 				{"pos" : [1490, -250, 64], "title" : "Hypno's boardwalk", "icon" : "hypno.png", "iconSize" : [24, 24]},
-				{"pos" : [875, -250, 64], "title" : "Hypno's island", "icon" : "hypno.png", "iconSize" : [24, 24]},450,-970
+				{"pos" : [875, -250, 64], "title" : "Hypno's island", "icon" : "hypno.png", "iconSize" : [24, 24]},
 				{"pos" : [-583, -122, 64], "title" : "Jevin's Megabase", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [-622, -409, 64], "title" : "Jevin's no longer floating house", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [-293, -313, 64], "title" : "Impulse's sea-pyramid", "icon" : "impulse.png", "iconSize" : [24, 24]},
