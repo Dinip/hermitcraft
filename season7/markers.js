@@ -136,7 +136,7 @@ var MAPCRAFTER_MARKERS = [
 			],
 		},
 	},
-	//Other:
+	// Other:
 	{
 		// id of the marker group, without spaces/other special chars
 		"id" : "other",
@@ -163,12 +163,10 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-762, 671, 64], "title" : "Hermit Challenges Temple", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 				{"pos" : [-225, 0, 64], "title" : "Decked Out", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [-325, -955, 64], "title" : "Zedaph's mini-golf course", "icon" : "zedaph.png", "iconSize" : [24, 24]},
-
-				
 			],
 		},
 	},
-		// Outlying Farms
+	// Outlying Farms
 	{
 		// id of the marker group, without spaces/other special chars
 		"id" : "farms",
