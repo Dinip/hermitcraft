@@ -28,7 +28,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-640, -333, 64], "title" : "iJevin", "icon" : "ijevin.png", "iconSize" : [24, 24]},
 				{"pos" : [-835, 376, 64], "title" : "ImpulseSV", "icon" : "impulse.png", "iconSize" : [24, 24]},
 				{"pos" : [2562, 1019, 64], "title" : "iskall85", "icon" : "iskall.png", "iconSize" : [24, 24]},
-				{"pos" : [985, -905, 64], "title" : "JoeHills", "icon" : "hoe.png", "iconSize" : [24, 24]},
+				{"pos" : [985, -905, 64], "title" : "JoeHills", "icon" : "joe.png", "iconSize" : [24, 24]},
 				{"pos" : [1190, -1306, 64], "title" : "Mumbo", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 				{"pos" : [-20, -621, 64], "title" : "PythonGB", "icon" : "python.png", "iconSize" : [24, 24]},
 				{"pos" : [2306, 1200, 64], "title" : "Rendog", "icon" : "rendog.png", "iconSize" : [24, 24]},

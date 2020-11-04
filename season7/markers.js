@@ -95,7 +95,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [99, 16, 64], "title" : "Stargazers", "icon" : "bdubs.png", "iconSize" : [24, 24]},
 				{"pos" : [-8, -81, 64], "title" : "Beefy Tunes", "icon" : "beef.png", "iconSize" : [24, 24]},
 				{"pos" : [2, -30, 64], "title" : "Bone Zone", "icon" : "beef.png", "iconSize" : [24, 24]},
-				{"pos" : [40, -67, 64], "title" : "Podzol Plus", "icon" : "beef.png", "iconSize" : [24, 24]}
+				{"pos" : [40, -67, 64], "title" : "Podzol Plus", "icon" : "beef.png", "iconSize" : [24, 24]},
 				{"pos" : [16, -77, 64], "title" : "The Spitz", "icon" : "beef.png", "iconSize" : [24, 24]},
 				{"pos" : [30, -100, 64], "title" : "Wallpaper Shop", "icon" : "beef.png", "iconSize" : [24, 24]},
 				{"pos" : [-3, 4, 64], "title" : "Origin", "icon" : "cub.png", "iconSize" : [24, 24]},
