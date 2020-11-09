@@ -180,7 +180,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-762, 671, 64], "title" : "Hermit Challenges Temple", "icon" : "mumbo.png", "iconSize" : [24, 24]},
 				{"pos" : [-155, 307, 100], "title" : "Vote Scar HQ", "icon" : "scar.png", "iconSize" : [24, 24]},
 				{"pos" : [-345, 205, 100], "title" : "Get Gorgeous campaign HQ", "icon" : "stress.png", "iconSize" : [24, 24]},
-				{"pos" : [-4330, 1590, 64], "title" : "Stress's haunted mansion", "icon" : "stress.png", "iconSize" : [24, 24]},
+				{"pos" : [-4330, 1590, 64], "title" : "Stressed Out", "icon" : "stress.png", "iconSize" : [24, 24]},
 				{"pos" : [-225, 0, 64], "title" : "Decked Out", "icon" : "tango.png", "iconSize" : [24, 24]},
 				{"pos" : [-1410, 0, 237], "title" : "Xisuma's Brewery", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 				{"pos" : [-325, -955, 64], "title" : "Zedaph's mini-golf course", "icon" : "zedaph.png", "iconSize" : [24, 24]},
