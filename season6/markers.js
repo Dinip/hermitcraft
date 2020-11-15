@@ -50,6 +50,10 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [+240, -900, 64], "title" : "Stock market", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [-620, -724, 68], "title" : "Impulse's Base / iBay", "icon" : "impulse.png", "iconSize" : [24, 24]},
 				{"pos" : [-586, -684, 74], "title" : "Zedaph and Tango's Chicken Fountain", "icon" : "chicken.png", "iconSize" : [24, 24]},
+				{"pos" : [-658, -1052, 67], "title" : "ConCorp Super Smelter", "icon" : "concorp.png", "iconSize" : [24, 24]},
+				{"pos" : [-576, -1178, 77], "title" : "Tag HQ", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+				{"pos" : [-112, -959, 63], "title" : "Grand Central Station", "icon" : "rendog.png", "iconSize" : [24, 24]},
+				{"pos" : [+42, -916, 75], "title" : "Tek to the Skies", "icon" : "tango.png", "iconSize" : [24, 24]},
 				
 			],
 		},
@@ -283,6 +287,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [+7885, -631, 64], "title" : "Cherry Computers", "icon" : "scar.png", "iconSize" : [24, 24]},
 				{"pos" : [+7916, -533, 64], "title" : "Nuggets for Diamonds", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [+7978, -434, 64], "title" : "The Hermitland Food Truck", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [+60, -870, 72], "title" : "Former Kelp Shop", "icon" : "xisuma.png", "iconSize" : [24, 24]},/tp
 			],
 		},
 	},
