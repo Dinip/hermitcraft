@@ -287,7 +287,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [+7885, -631, 64], "title" : "Cherry Computers", "icon" : "scar.png", "iconSize" : [24, 24]},
 				{"pos" : [+7916, -533, 64], "title" : "Nuggets for Diamonds", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [+7978, -434, 64], "title" : "The Hermitland Food Truck", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [+60, -870, 72], "title" : "Former Kelp Shop", "icon" : "xisuma.png", "iconSize" : [24, 24]},/tp
+				{"pos" : [+60, -870, 72], "title" : "Former Kelp Shop", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
