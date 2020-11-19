@@ -203,7 +203,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				//Mycelium Resistance
 				{"pos" : [30, 120, 64], "title" : "Main Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
-				{"pos" : [30, 50, 64], "title" : "Estimated Fake Base location", "icon" : "myc.png", "iconSize" : [24, 24]},
+				{"pos" : [-55,12050, 64], "title" : "Fake Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
 				
 				//Podzol Party
 				{"pos" : [2772, -187, 64], "title" : "Podzol Party Cabin", "icon" : "podzol.png", "iconSize" : [24, 24]},
