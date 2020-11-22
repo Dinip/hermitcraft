@@ -98,6 +98,7 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-4900, 1530, 64], "title" : "Stress's industrial area", "icon" : "stress.png", "iconSize" : [24, 24]},
 				{"pos" : [-4190, 1770, 64], "title" : "Stress's ink farm", "icon" : "stress.png", "iconSize" : [24, 24]},
 				{"pos" : [-2980, -520, 64], "title" : "Xisuma's farming village", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+				{"pos" : [-5048, -3128, 64], "title" : "Xisuma's ghast killing chamber", "icon" : "xisuma.png", "iconSize" : [24, 24]},
 			],
 		},
 	},
@@ -202,8 +203,9 @@ var MAPCRAFTER_MARKERS = [
 				{"pos" : [-130, -120 , 64], "title" : "Mt. Scarmore/HEP HQ", "icon" : "grass.png", "iconSize" : [24, 24]},
 				
 				//Mycelium Resistance
-				{"pos" : [30, 120, 64], "title" : "Main Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
-				{"pos" : [-55,12050, 64], "title" : "Fake Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
+				{"pos" : [30, 120, 64], "title" : "Main Underground Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
+				{"pos" : [-55, 120, 64], "title" : "Fake Underground Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
+				{"pos" : [100, 140, 64], "title" : "New Surface Base", "icon" : "myc.png", "iconSize" : [24, 24]},
 				
 				//Podzol Party
 				{"pos" : [2772, -187, 64], "title" : "Podzol Party Cabin", "icon" : "podzol.png", "iconSize" : [24, 24]},
