@@ -67,6 +67,42 @@ var MAPCRAFTER_MARKERS = [
 			],
 		},
 	},
+	
+	// Outlying Farms
+	{
+		// id of the marker group, without spaces/other special chars
+		"id" : "farms",
+		// name of the marker group, displayed in the webinterface
+		"name" : "Outlying Farms",
+		// icon of the markers belonging to that group (optional)
+		"icon" : "poi.png",
+		// size of that icon
+		"iconSize" : [24, 24],
+		// whether this marker group is shown by default (optional)
+		"showDefault" : true,
+		// markers of this marker group...
+		"markers" : {
+			// ...in the world "world"
+			"world" : [
+				{"pos" : [-1337, -2530, 64], "title" : "Impulse and Tango's wool farm", "icon" : "poi.png", "iconSize" : [24, 24]},
+				{"pos" : [-2975, 325, 64], "title" : "Etho's ice fortress", "icon" : "etho.png", "iconSize" : [24, 24]},
+				{"pos" : [2275, -284, 64], "title" : "Hypno's Witch Farm", "icon" : "hypno.png", "iconSize" : [24, 24]},
+				{"pos" : [-3904, -2032, 64], "title" : "Jevin's Guardian Farm", "icon" : "ijevin.png", "iconSize" : [24, 24]},
+				{"pos" : [-1034, -2538, 128], "title" : "Jevin's Mob Farm", "icon" : "ijevin.png", "iconSize" : [24, 24]},
+				{"pos" : [-1328, -1392, 64], "title" : "Impulse's guardian farm", "icon" : "impulse.png", "iconSize" : [24, 24]},
+				{"pos" : [-2812, 950, 64], "title" : "Impulse's Ice farm", "icon" : "impulse.png", "iconSize" : [24, 24]},
+				{"pos" : [-3580, -820, 64], "title" : "Impulse's industrial area", "icon" : "impulse.png", "iconSize" : [24, 24]},
+				{"pos" : [-3044, 1286, 64], "title" : "Iskall's industrial district", "icon" : "iskall.png", "iconSize" : [24, 24]},
+				{"pos" : [-3204, 1665, 64], "title" : "Mumbo's industrial district", "icon" : "mumbo.png", "iconSize" : [24, 24]},
+				{"pos" : [-1976, 851, 64], "title" : "Mumbo's villager district", "icon" : "mumbo.png", "iconSize" : [24, 24]},
+				{"pos" : [-4900, 1530, 64], "title" : "Stress's industrial area", "icon" : "stress.png", "iconSize" : [24, 24]},
+				{"pos" : [-4190, 1770, 64], "title" : "Stress's ink farm", "icon" : "stress.png", "iconSize" : [24, 24]},
+				{"pos" : [-2980, -520, 64], "title" : "Xisuma's farming village", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+				{"pos" : [-5048, -3128, 64], "title" : "Xisuma's ghast killing chamber", "icon" : "xisuma.png", "iconSize" : [24, 24]},
+			],
+		},
+	},
+	
 	// Shops:
 	{
 	// id of the marker group, without spaces/other special chars
@@ -144,6 +180,39 @@ var MAPCRAFTER_MARKERS = [
 			],
 		},
 	},
+	
+	// Turf War Bases
+	{
+		// id of the marker group, without spaces/other special chars
+		"id" : "turfWar",
+		// name of the marker group, displayed in the webinterface
+		"name" : "Turf War Bases",
+		// icon of the markers belonging to that group (optional)
+		"icon" : "poi.png",
+		// size of that icon
+		"iconSize" : [24, 24],
+		// whether this marker group is shown by default (optional)
+		"showDefault" : true,
+		// markers of this marker group...
+		"markers" : {
+			// ...in the world "world"
+			"world" : [
+				//HEP (Grass)
+				{"pos" : [-240, -90 , 64], "title" : "HEP Factory", "icon" : "grass.png", "iconSize" : [24, 24]},
+				{"pos" : [-260, 75 , 64], "title" : "HEP Laser Drill", "icon" : "grass.png", "iconSize" : [24, 24]},
+				{"pos" : [-130, -120 , 64], "title" : "Mt. Scarmore/HEP HQ", "icon" : "grass.png", "iconSize" : [24, 24]},
+				
+				//Mycelium Resistance
+				{"pos" : [30, 120, 64], "title" : "Main Underground Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
+				{"pos" : [-55, 120, 64], "title" : "Fake Underground Base enterance", "icon" : "myc.png", "iconSize" : [24, 24]},
+				{"pos" : [100, 140, 64], "title" : "New Surface Base", "icon" : "myc.png", "iconSize" : [24, 24]},
+				
+				//Podzol Party
+				{"pos" : [2772, -187, 64], "title" : "Podzol Party Cabin", "icon" : "podzol.png", "iconSize" : [24, 24]},
+			],
+		},
+	},
+	
 	// Other:
 	{
 		// id of the marker group, without spaces/other special chars
@@ -162,12 +231,8 @@ var MAPCRAFTER_MARKERS = [
 			"world" : [
 				{"pos" : [0, 0, 64], "title" : "(0, 0)", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [-1770, 2820, 64], "title" : "Get Gorgeous Map", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [-240, -90 , 64], "title" : "HEP Factory", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [-260, 75 , 64], "title" : "HEP Laser Drill", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [2100, 2300, 64], "title" : "Map District", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [-130, -120 , 64], "title" : "Mt. Scarmore/HEP HQ", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [-350, 30, 64], "title" : "Mumbo for Mayor HQ/Grumbot", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [2772, -187, 64], "title" : "Podzol Party Cabin", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [258, 191, 64], "title" : "Spawn", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [130, -830 , 64], "title" : "Tango & Zedaph's Build Battle", "icon" : "poi.png", "iconSize" : [24, 24]},
 				{"pos" : [-2264, -264, 64], "title" : "The Nether-Lands", "icon" : "poi.png", "iconSize" : [24, 24]},
@@ -188,37 +253,5 @@ var MAPCRAFTER_MARKERS = [
 			],
 		},
 	},
-	// Outlying Farms
-	{
-		// id of the marker group, without spaces/other special chars
-		"id" : "farms",
-		// name of the marker group, displayed in the webinterface
-		"name" : "Outlying Farms",
-		// icon of the markers belonging to that group (optional)
-		"icon" : "poi.png",
-		// size of that icon
-		"iconSize" : [24, 24],
-		// whether this marker group is shown by default (optional)
-		"showDefault" : true,
-		// markers of this marker group...
-		"markers" : {
-			// ...in the world "world"
-			"world" : [
-				{"pos" : [-1337, -2530, 64], "title" : "Impulse and Tango's wool farm", "icon" : "poi.png", "iconSize" : [24, 24]},
-				{"pos" : [-2975, 325, 64], "title" : "Etho's ice fortress", "icon" : "etho.png", "iconSize" : [24, 24]},
-				{"pos" : [2275, -284, 64], "title" : "Hypno's Witch Farm", "icon" : "hypno.png", "iconSize" : [24, 24]},
-				{"pos" : [-3904, -2032, 64], "title" : "Jevin's Guardian Farm", "icon" : "ijevin.png", "iconSize" : [24, 24]},
-				{"pos" : [-1034, -2538, 128], "title" : "Jevin's Mob Farm", "icon" : "ijevin.png", "iconSize" : [24, 24]},
-				{"pos" : [-1328, -1392, 64], "title" : "Impulse's guardian farm", "icon" : "impulse.png", "iconSize" : [24, 24]},
-				{"pos" : [-2812, 950, 64], "title" : "Impulse's Ice farm", "icon" : "impulse.png", "iconSize" : [24, 24]},
-				{"pos" : [-3580, -820, 64], "title" : "Impulse's industrial area", "icon" : "impulse.png", "iconSize" : [24, 24]},
-				{"pos" : [-3044, 1286, 64], "title" : "Iskall's industrial district", "icon" : "iskall.png", "iconSize" : [24, 24]},
-				{"pos" : [-3204, 1665, 64], "title" : "Mumbo's industrial district", "icon" : "mumbo.png", "iconSize" : [24, 24]},
-				{"pos" : [-1976, 851, 64], "title" : "Mumbo's villager district", "icon" : "mumbo.png", "iconSize" : [24, 24]},
-				{"pos" : [-4900, 1530, 64], "title" : "Stress's industrial area", "icon" : "stress.png", "iconSize" : [24, 24]},
-				{"pos" : [-4190, 1770, 64], "title" : "Stress's ink farm", "icon" : "stress.png", "iconSize" : [24, 24]},
-				{"pos" : [-2980, -520, 64], "title" : "Xisuma's farming village", "icon" : "xisuma.png", "iconSize" : [24, 24]},
-			],
-		},
-	},
+	
 ];
