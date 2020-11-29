@@ -4,20 +4,20 @@ var MAPCRAFTER_MARKERS = [
 	//Other:
 	{
 		// id of the marker group, without spaces/other special chars
-		"id" : "other",
+		"id": "other",
 		// name of the marker group, displayed in the webinterface
-		"name" : "Other",
+		"name": "Other",
 		// icon of the markers belonging to that group (optional)
-		"icon" : "poi.png",
+		"icon": "poi.png",
 		// size of that icon
-		"iconSize" : [24, 24],
+		"iconSize": [24, 24],
 		// whether this marker group is shown by default (optional)
-		"showDefault" : true,
+		"showDefault": true,
 		// markers of this marker group...
-		"markers" : {
+		"markers": {
 			// ...in the world "world"
-			"world" : [
-				{"pos" : [0, 0, 64], "title" : "Spawn", "icon" : "poi.png", "iconSize" : [24, 24]},
+			"world": [
+				{ "pos": [0, 0, 64], "title": "Spawn", "icon": "poi.png", "iconSize": [24, 24] },
 			],
 		},
 	},
