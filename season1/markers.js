@@ -1,4 +1,4 @@
-// Add your own markers to this file.
+//Empty format to Copy, Paste { "pos" : [X, Z, 64], "title" : "", "icon" : ".png" }, 
 
 var MAPCRAFTER_MARKERS = [
 	//Other:
@@ -17,7 +17,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [0, 0, 64], "title": "Spawn", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [0, 0, 64], "title": "Spawn", "icon": "poi.png" },
 			],
 		},
 	},
