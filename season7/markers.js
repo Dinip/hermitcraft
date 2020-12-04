@@ -83,7 +83,6 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				
 				{ "pos": [11, -105, 64], "title": "Stat Poker (Etho, Tango)", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [130, -830, 64], "title": "Tango & Zedaph's Build Battle", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [-2264, -264, 64], "title": "The Netherlands", "icon": "poi.png", "iconSize": [24, 24] },
@@ -132,7 +131,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1976, 851, 64], "title": "Mumbo's villager district", "icon": "mumbo.png", "iconSize": [24, 24] },
 				{ "pos": [-4900, 1530, 64], "title": "Stress's industrial area", "icon": "stress.png", "iconSize": [24, 24] },
 				{ "pos": [-4190, 1770, 64], "title": "Stress's ink farm", "icon": "stress.png", "iconSize": [24, 24] },
-				{ "pos": [-870, -790, 64], "title": "Wels' mob farm", "icon": "stress.png", "iconSize": [24, 24] },
+				{ "pos": [-870, -790, 64], "title": "Wels' mob farm", "icon": "wels.png", "iconSize": [24, 24] },
 				{ "pos": [-2980, -520, 64], "title": "Xisuma's farming village", "icon": "xisuma.png", "iconSize": [24, 24] },
 				{ "pos": [-5048, -3128, 64], "title": "Xisuma's ghast killing chamber", "icon": "xisuma.png", "iconSize": [24, 24] },
 				{ "pos": [-3560, -375, 64], "title": "Xisuma's wandering trader platform", "icon": "xisuma.png", "iconSize": [24, 24] },
