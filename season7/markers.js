@@ -67,6 +67,41 @@ var MAPCRAFTER_MARKERS = [
 		},
 	},
 
+	// Minigames
+	{
+		// id of the marker group, without spaces/other special chars
+		"id": "minigames",
+		// name of the marker group, displayed in the webinterface
+		"name": "Minigames & Event Locations",
+		// icon of the markers belonging to that group (optional)
+		"icon": "poi.png",
+		// size of that icon
+		"iconSize": [24, 24],
+		// whether this marker group is shown by default (optional)
+		"showDefault": true,
+		// markers of this marker group...
+		"markers": {
+			// ...in the world "world"
+			"world": [
+				{ "pos": [11, -105, 64], "title": "Stat Poker (Etho, Tango)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [130, -830, 64], "title": "Tango & Zedaph's Build Battle", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-2264, -264, 64], "title": "The Netherlands", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-142, -80, 64], "title": "Turf Time", "icon": "bdubs.png", "iconSize": [24, 24] },
+				{ "pos": [1500, 1070, 64], "title": "Head Games arena", "icon": "cleo.png", "iconSize": [24, 24] },
+				{ "pos": [-2680, 250, 64], "title": "Hurtin' Hermits", "icon": "etho.png", "iconSize": [24, 24] },
+				{ "pos": [-1240, 1480, 64], "title": "Barge Quest puzzle box", "icon": "grian.png", "iconSize": [24, 24] },
+				{ "pos": [-2300, 1030, 64], "title": "Barge Quest trident course", "icon": "grian.png", "iconSize": [24, 24] },
+				{ "pos": [-3455, 785, 64], "title": "Barge Quest wither spawn", "icon": "grian.png", "iconSize": [24, 24] },
+				{ "pos": [116, -90, 64], "title": "Treasure Island Level 1", "icon": "iskall.png", "iconSize": [24, 24] },
+				{ "pos": [830, -1700, 64], "title": "Treasure Island Level 2", "icon": "iskall.png", "iconSize": [24, 24] },
+				{ "pos": [-7, 80, 64], "title": "HWF Arena", "icon": "rendog.png", "iconSize": [24, 24] },
+				{ "pos": [-4330, 1590, 64], "title": "Stressed Out", "icon": "stress.png", "iconSize": [24, 24] },
+				{ "pos": [-225, 0, 64], "title": "Decked Out", "icon": "tango.png", "iconSize": [24, 24] },
+				{ "pos": [-325, -955, 64], "title": "Zedaph's mini-golf course", "icon": "zedaph.png", "iconSize": [24, 24] },
+			],
+		},
+	},
+	
 	// Outlying Farms
 	{
 		// id of the marker group, without spaces/other special chars
@@ -85,19 +120,22 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [-1337, -2530, 64], "title": "Impulse and Tango's wool farm", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [-2975, 325, 64], "title": "Etho's ice fortress", "icon": "etho.png", "iconSize": [24, 24] },
-				{ "pos": [2275, -284, 64], "title": "Hypno's Witch Farm", "icon": "hypno.png", "iconSize": [24, 24] },
-				{ "pos": [-3904, -2032, 64], "title": "Jevin's Guardian Farm", "icon": "ijevin.png", "iconSize": [24, 24] },
-				{ "pos": [-1034, -2538, 128], "title": "Jevin's Mob Farm", "icon": "ijevin.png", "iconSize": [24, 24] },
+				{ "pos": [2275, -284, 64], "title": "Hypno's witch Farm", "icon": "hypno.png", "iconSize": [24, 24] },
+				{ "pos": [-3904, -2032, 64], "title": "Jevin's guardian Farm", "icon": "ijevin.png", "iconSize": [24, 24] },
+				{ "pos": [-1034, -2538, 128], "title": "Jevin's mob Farm", "icon": "ijevin.png", "iconSize": [24, 24] },
 				{ "pos": [-1328, -1392, 64], "title": "Impulse's guardian farm", "icon": "impulse.png", "iconSize": [24, 24] },
-				{ "pos": [-2812, 950, 64], "title": "Impulse's Ice farm", "icon": "impulse.png", "iconSize": [24, 24] },
+				{ "pos": [-2812, 950, 64], "title": "Impulse's ice farm", "icon": "impulse.png", "iconSize": [24, 24] },
 				{ "pos": [-3580, -820, 64], "title": "Impulse's industrial area", "icon": "impulse.png", "iconSize": [24, 24] },
 				{ "pos": [-3044, 1286, 64], "title": "Iskall's industrial district", "icon": "iskall.png", "iconSize": [24, 24] },
 				{ "pos": [-3204, 1665, 64], "title": "Mumbo's industrial district", "icon": "mumbo.png", "iconSize": [24, 24] },
 				{ "pos": [-1976, 851, 64], "title": "Mumbo's villager district", "icon": "mumbo.png", "iconSize": [24, 24] },
 				{ "pos": [-4900, 1530, 64], "title": "Stress's industrial area", "icon": "stress.png", "iconSize": [24, 24] },
 				{ "pos": [-4190, 1770, 64], "title": "Stress's ink farm", "icon": "stress.png", "iconSize": [24, 24] },
+				{ "pos": [-870, -790, 64], "title": "Wels' mob farm", "icon": "wels.png", "iconSize": [24, 24] },
 				{ "pos": [-2980, -520, 64], "title": "Xisuma's farming village", "icon": "xisuma.png", "iconSize": [24, 24] },
 				{ "pos": [-5048, -3128, 64], "title": "Xisuma's ghast killing chamber", "icon": "xisuma.png", "iconSize": [24, 24] },
+				{ "pos": [-3560, -375, 64], "title": "Xisuma's wandering trader platform", "icon": "xisuma.png", "iconSize": [24, 24] },
+				{ "pos": [-4800, 310, 64], "title": "Xisuma's witch farm", "icon": "xisuma.png", "iconSize": [24, 24] },
 			],
 		},
 	},
@@ -118,17 +156,16 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [99, 28, 64], "title": "(Bdubs, Impulse, Tango) The Boomers", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [-177, -4, 64], "title": "(Impulse, Tango) Color Complete", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [-115, 80, 64], "title": "(Xisuma, Keralis) Concrete shop", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [-140, -20, 64], "title": "(Zombiecleo, Cubfan) Hermiton Herald", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [-102, -38, 64], "title": "(Impulse, Bdubs) Lamps Plus", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [-8, -64, 64], "title": "(Beef, Etho) Little Etho's Little Music Box", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [-135, -50, 64], "title": "(xBCrafted, Bdubs) Red Zone", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [11, -105, 64], "title": "(Etho, Tango) Stat Poker", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [99, 28, 64], "title": "The Boomers (Bdubs, Impulse, Tango)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-177, -4, 64], "title": "Color Complete (Impulse, Tango)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-115, 80, 64], "title": "Concrete shop (Xisuma, Keralis)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-140, -20, 64], "title": "Hermiton Herald (Cleo, Cub)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-102, -38, 64], "title": "Lamps Plus (Impulse, Bdubs)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-8, -64, 64], "title": "Little Etho's Little Music Box (Beef, Etho)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [237, 327, 64], "title": "Pacific (Iskall, Mumbo)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-135, -50, 64], "title": "Red Zone (xB, Bdubs)", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [99, 0, 64], "title": "Concrete shop", "icon": "bdubs.png", "iconSize": [24, 24] },
 				{ "pos": [99, 16, 64], "title": "Stargazers", "icon": "bdubs.png", "iconSize": [24, 24] },
-				{ "pos": [-142, -80, 64], "title": "Turf Time", "icon": "bdubs.png", "iconSize": [24, 24] },
 				{ "pos": [-8, -81, 64], "title": "Beefy Tunes", "icon": "beef.png", "iconSize": [24, 24] },
 				{ "pos": [2, -30, 64], "title": "Bone Zone", "icon": "beef.png", "iconSize": [24, 24] },
 				{ "pos": [40, -67, 64], "title": "Podzol Plus", "icon": "beef.png", "iconSize": [24, 24] },
@@ -138,7 +175,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [17, 8, 64], "title": "Cinnabun", "icon": "cub.png", "iconSize": [24, 24] },
 				{ "pos": [11, -117, 64], "title": "Gold Rush", "icon": "cub.png", "iconSize": [24, 24] },
 				{ "pos": [-16, -25, 64], "title": "Five Goats", "icon": "doc.png", "iconSize": [24, 24] },
-				{ "pos": [103, 50, 64], "title": "Ice Shop", "icon": "etho.png", "iconSize": [24, 24] },
+				{ "pos": [103, 50, 64], "title": "Ice-E-E's", "icon": "etho.png", "iconSize": [24, 24] },
 				{ "pos": [150, 100, 64], "title": "Shade-E-E's", "icon": "etho.png", "iconSize": [24, 24] },
 				{ "pos": [140, -35, 64], "title": "End & Nether Shop", "icon": "false.png", "iconSize": [24, 24] },
 				{ "pos": [70, 150, 64], "title": "Terracotta Cove", "icon": "false.png", "iconSize": [24, 24] },
@@ -153,19 +190,15 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [112, 28, 64], "title": "Trader Jev's", "icon": "ijevin.png", "iconSize": [24, 24] },
 				{ "pos": [-30, 150, 64], "title": "Wither Shop", "icon": "ijevin.png", "iconSize": [24, 24] },
 				{ "pos": [22, -28, 64], "title": "Em and Em's Emporium", "icon": "impulse.png", "iconSize": [24, 24] },
-				{ "pos": [-65, -40, 64], "title": "Guardian Goodies", "icon": "impulse.png", "iconSize": [24, 24] },
 				{ "pos": [20, 60, 64], "title": "Omega Store", "icon": "iskall.png", "iconSize": [24, 24] },
-				{ "pos": [-3, 18, 64], "title": "The Hedge Games", "icon": "iskall.png", "iconSize": [24, 24] },
 				{ "pos": [40, 40, 64], "title": "Slime Shop", "icon": "iskall.png", "iconSize": [24, 24] },
-				{ "pos": [116, -90, 64], "title": "Treasure Island Level 1", "icon": "iskall.png", "iconSize": [24, 24] },
 				{ "pos": [88, 50, 64], "title": "Lookie Lookie at my Bookie", "icon": "keralis.png", "iconSize": [24, 24] },
 				{ "pos": [73, 55, 64], "title": "Lookie Lookie at my Cookie", "icon": "keralis.png", "iconSize": [24, 24] },
 				{ "pos": [104, 84, 64], "title": "Industrial Day Pass store", "icon": "mumbo.png", "iconSize": [24, 24] },
 				{ "pos": [66, 96, 64], "title": "ODEA", "icon": "mumbo.png", "iconSize": [24, 24] },
 				{ "pos": [20, 180, 64], "title": "Bigger Logz, Inc.", "icon": "rendog.png", "iconSize": [24, 24] },
-				{ "pos": [-7, 80, 64], "title": "HWF Arena", "icon": "rendog.png", "iconSize": [24, 24] },
 				{ "pos": [152, 16, 64], "title": "The Chest Monster Shop", "icon": "scar.png", "iconSize": [24, 24] },
-				{ "pos": [-115, 180, 64], "title": "Landscaping Shop", "icon": "scar.png", "iconSize": [24, 24] },
+				{ "pos": [-115, 180, 64], "title": "The Little Shop of Scars", "icon": "scar.png", "iconSize": [24, 24] },
 				{ "pos": [0, 116, 64], "title": "Frankenstein's Monster", "icon": "stress.png", "iconSize": [24, 24] },
 				{ "pos": [84, -16, 64], "title": "Glass shop", "icon": "stress.png", "iconSize": [24, 24] },
 				{ "pos": [27, 116, 64], "title": "Monster's Brew", "icon": "stress.png", "iconSize": [24, 24] },
@@ -202,8 +235,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-130, -120, 64], "title": "Mt. Scarmore/HEP HQ", "icon": "grass.png", "iconSize": [24, 24] },
 
 				//Mycelium Resistance
-				{ "pos": [30, 120, 64], "title": "Main Underground Base enterance", "icon": "myc.png", "iconSize": [24, 24] },
-				{ "pos": [-55, 120, 64], "title": "Fake Underground Base enterance", "icon": "myc.png", "iconSize": [24, 24] },
+				{ "pos": [140, 190, 64], "title": "Main Underground Base entrance", "icon": "myc.png", "iconSize": [24, 24] },
+				{ "pos": [-55, 120, 64], "title": "Fake Underground Base entrance", "icon": "myc.png", "iconSize": [24, 24] },
 				{ "pos": [100, 140, 64], "title": "New Surface Base", "icon": "myc.png", "iconSize": [24, 24] },
 
 				//Podzol Party
@@ -229,26 +262,20 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png", "iconSize": [24, 24] },
+				{ "pos": [-3060, 120, 64], "title": "Christmas District", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [-1770, 2820, 64], "title": "Get Gorgeous Map", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [2100, 2300, 64], "title": "Map District", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [-350, 30, 64], "title": "Mumbo for Mayor HQ/Grumbot", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [258, 191, 64], "title": "Spawn", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [130, -830, 64], "title": "Tango & Zedaph's Build Battle", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [-2264, -264, 64], "title": "The Nether-Lands", "icon": "poi.png", "iconSize": [24, 24] },
 				{ "pos": [-45, -84, 64], "title": "Town Hall", "icon": "poi.png", "iconSize": [24, 24] },
-				{ "pos": [1500, 1070, 64], "title": "Head Games Arena", "icon": "cleo.png", "iconSize": [24, 24] },
-				{ "pos": [-2680, 250, 64], "title": "Hurtin' Hermits", "icon": "etho.png", "iconSize": [24, 24] },
 				{ "pos": [430, -970, 64], "title": "False's St Jude monument", "icon": "false.png", "iconSize": [24, 24] },
 				{ "pos": [295, -95, 64], "title": "False for Mayor HQ", "icon": "false.png", "iconSize": [24, 24] },
-				{ "pos": [830, -1700, 64], "title": "Iskall's treasure island Level 2", "icon": "iskall.png", "iconSize": [24, 24] },
 				{ "pos": [-1028, 140, 64], "title": "IskallMAN HQ", "icon": "iskall.png", "iconSize": [24, 24] },
 				{ "pos": [-762, 671, 64], "title": "Hermit Challenges Temple", "icon": "mumbo.png", "iconSize": [24, 24] },
 				{ "pos": [-155, 307, 100], "title": "Vote Scar HQ", "icon": "scar.png", "iconSize": [24, 24] },
 				{ "pos": [-345, 205, 100], "title": "Get Gorgeous campaign HQ", "icon": "stress.png", "iconSize": [24, 24] },
-				{ "pos": [-4330, 1590, 64], "title": "Stressed Out", "icon": "stress.png", "iconSize": [24, 24] },
-				{ "pos": [-225, 0, 64], "title": "Decked Out", "icon": "tango.png", "iconSize": [24, 24] },
 				{ "pos": [-1410, 237, 64], "title": "Xisuma's Brewery", "icon": "xisuma.png", "iconSize": [24, 24] },
-				{ "pos": [-325, -955, 64], "title": "Zedaph's mini-golf course", "icon": "zedaph.png", "iconSize": [24, 24] },
+				
 			],
 		},
 	},
