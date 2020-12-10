@@ -18,7 +18,8 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "Spawn", "icon": "poi.png" },
-			],
+				{ "pos" : [-815, 587, 64], "title" : "Biffas Base", "icon" : "biffa.png" },
+			], 
 		},
 	},
 ];
