@@ -22,6 +22,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [1515, -938, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
+				{ "pos": [1780, -900, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
 				{ "pos": [1140, -818, 64], "title": "Bdubs' half-mansion", "icon": "bdubs.png" },
 				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
 				{ "pos": [-817, -292, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
@@ -84,6 +85,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [11, -105, 64], "title": "Stat Poker (Etho, Tango)", "icon": "poi.png" },
 				{ "pos": [130, -830, 64], "title": "Tango & Zedaph's Build Battle", "icon": "poi.png" },
 				{ "pos": [-2264, -264, 64], "title": "The Netherlands", "icon": "poi.png" },
+				{ "pos": [0, 370, 64], "title": "Turf War finale minigames", "icon": "poi.png" },
 				{ "pos": [-142, -80, 64], "title": "Turf Time", "icon": "bdubs.png" },
 				{ "pos": [1500, 1070, 64], "title": "Head Games arena", "icon": "cleo.png" },
 				{ "pos": [-2680, 250, 64], "title": "Hurtin' Hermits", "icon": "etho.png" },
@@ -260,7 +262,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
-				{ "pos": [-3060, 120, 64], "title": "Christmas District", "icon": "poi.png" },
+				{ "pos": [-3060, -120, 64], "title": "Christmas District", "icon": "poi.png" },
 				{ "pos": [-1770, 2820, 64], "title": "Get Gorgeous Map", "icon": "poi.png" },
 				{ "pos": [2100, 2300, 64], "title": "Map District", "icon": "poi.png" },
 				{ "pos": [-350, 30, 64], "title": "Mumbo for Mayor HQ/Grumbot", "icon": "poi.png" },
@@ -270,6 +272,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [295, -95, 64], "title": "False for Mayor HQ", "icon": "false.png" },
 				{ "pos": [-1028, 140, 64], "title": "IskallMAN HQ", "icon": "iskall.png" },
 				{ "pos": [-762, 671, 64], "title": "Hermit Challenges Temple", "icon": "mumbo.png" },
+				{ "pos": [685, 285, 100], "title": "Scar's Magic Crystals", "icon": "scar.png" },
 				{ "pos": [-155, 307, 100], "title": "Vote Scar HQ", "icon": "scar.png" },
 				{ "pos": [-345, 205, 100], "title": "Get Gorgeous campaign HQ", "icon": "stress.png" },
 				{ "pos": [-1410, 237, 64], "title": "Xisuma's Brewery", "icon": "xisuma.png" },
