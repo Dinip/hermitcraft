@@ -22,7 +22,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos" : [388, -504, 64], "title" : "Game District", "icon" : "poi.png" },
 				{ "pos" : [2013, -2163, 64], "title" : "Hypno's Villager Base and Iron Farm", "icon" : "hypno.png" },
 				{ "pos" : [2249, -3976, 64], "title" : "Joehill's Base", "icon" : "joe.png" },
-				{ "pos" : [2313, -10369, 64], "title" : "CilantroGamer's Base", "icon" : "poi.png" }.
+				{ "pos" : [2313, -10369, 64], "title" : "CilantroGamer's Base", "icon" : "poi.png" },
 				{ "pos" : [2914, -592, 64], "title" : "GenerikB's Base", "icon" : "poi.png" },
 				{ "pos" : [1202, -211, 64], "title" : "Shawnvmartin's Base", "icon" : "poi.png" },
 				{ "pos" : [16356, -7432, 64], "title" : "Hypno's Base", "icon" : "hypno.png" },
