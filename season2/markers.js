@@ -34,9 +34,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos" : [511, 855, 64], "title" : "Monkeyfarm's Base", "icon" : "monkeyfarm.png" },
 				{ "pos" : [19, 1194, 64], "title" : "Mumbo's Base", "icon" : "mumbo.png" },
 				{ "pos" : [-3583, 1320, 64], "title" : "New Hermit Town", "icon" : "poi.png" },
-				{ "pos" : [-3675, 1553, 64], "title" : "sl1pg8tr's Base", "icon" : "sl1pg8r.png" },
-				{ "pos" : [X, Z, 64], "title" : "", "icon" : ".png" },
-				
+				{ "pos" : [-3675, 1553, 64], "title" : "sl1pg8tr's Base", "icon" : "sl1pg8r.png" },				
 			],
 		},
 	},
