@@ -276,7 +276,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
 				{ "pos": [-3060, -120, 64], "title": "Christmas District", "icon": "poi.png" },
-				{ "pos": [-960, 580, 64], "title" : "'Etho smells like...'", "icon" : "poi.png" },
+				{ "pos": [-960, 580, 64], "title" : "'Etho smells like...' Sentence", "icon" : "poi.png" },
 				{ "pos": [-1770, 2820, 64], "title": "Get Gorgeous Map", "icon": "poi.png" },
 				{ "pos": [2100, 2300, 64], "title": "Map District", "icon": "poi.png" },
 				{ "pos": [-350, 30, 64], "title": "Mumbo for Mayor HQ/Grumbot", "icon": "poi.png" },
