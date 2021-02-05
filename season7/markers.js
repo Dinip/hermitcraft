@@ -281,6 +281,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-350, 30, 64], "title": "Mumbo for Mayor HQ/Grumbot", "icon": "poi.png" },
 				{ "pos": [258, 191, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [-45, -84, 64], "title": "Town Hall", "icon": "poi.png" },
+				{ "pos": [-3355, -1742, 64], "title": "Iskall and Impulse's secret doomsday bunker", "icon": "poi.png" },
 				{ "pos": [430, -970, 64], "title": "False's St Jude monument", "icon": "false.png" },
 				{ "pos": [295, -95, 64], "title": "False for Mayor HQ", "icon": "false.png" },
 				{ "pos": [-1028, 140, 64], "title": "IskallMAN HQ", "icon": "poi.png" },
