@@ -39,7 +39,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos" : [-3549, 600, 64], "title" : "King Happy's Base", "icon" : "poi.png" },
 				{ "pos" : [-3541, 1330, 64], "title" : "Mumbo's New Hermiton House", "icon" : "mumbo.png" },
 				{ "pos" : [-3410, 1363, 64], "title" : "Mumbo's New Hermiton redstone Consultancy", "icon" : "mumbo.png" },
-				{ "pos" : [354, 809, 64], "title" : "Mumbo's Old Redtone Consultancy", "icon" : ".png" },
+				{ "pos" : [354, 809, 64], "title" : "Mumbo's Old Redtone Consultancy", "icon" : "mumbo.png" },
 			],
 		},
 	},
