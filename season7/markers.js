@@ -21,68 +21,51 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				//Done
-				{ "pos": [-1391, 610, 64], "title": "Bumbo Baggins' hobbit hole (Scar) (Originally Mumbo's)", "icon": "scar.png" },
-				{ "pos": [-1330, 555, 64], "title": "Scar's main base (Originally Mumbo's)", "icon": "scar.png" },
-				{ "pos": [-1685, 695, 64], "title": "The Big Dig (Mumbo) (Originally Scar's)", "icon": "scar.png" },
-				{ "pos": [-1363, 765, 64], "title": "Mumbo's Cursed Nether Portal (Originally Scar's)", "icon": "mumbo.png" },
-				{ "pos": [-1223, 761, 64], "title": "Mumbo's Magical village (Originally Scar's)", "icon": "mumbo.png" },
-
-				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Iskall) (Originally Beef's)", "icon": "iskall.png" },
-				{ "pos": [-817, -292, 64], "title": "Iskall's hacienda and village (Originally Beef's)", "icon": "iskall.png" },
-				{ "pos": [-719, 469, 64], "title": "Beef's starter base (Originally Iskall's)", "icon": "beef.png" },
-				{ "pos": [-1015, 575, 64], "title": "Beef's Omega Tree (of Doom) (Originally Iskall's)", "icon": "beef.png" },
-
-				{ "pos": [-293, -313, 64], "title": "Stress's sea-pyramid (Originally Impulse's)", "icon": "stress.png" },
-				{ "pos": [-383, -390, 64], "title": "Stress's starter village (Originally Impulse's)", "icon": "stress.png" },
-				{ "pos": [-927, 803, 64], "title": "Impulse's rainbow jungle (Originally Stress's)", "icon": "impulse.png" },
-
-				{ "pos": [615, 615, 64], "title": "Doc's Great Pyramid (Originally Cub's)", "icon": "doc.png" },
-				{ "pos": [530, 450, 65], "title": "Doc's Pyramid (Originally Cub's)", "icon": "doc.png" },
-				{ "pos": [1140, -837, 64], "title": "Cub's half-mansion (Originally Doc's)", "icon": "cub.png" },
-				{ "pos": [900, -530, 120], "title": "Cub's Testificate Tower (Originally Doc's)", "icon": "cub.png" },
-
-				{ "pos": [-200, -650, 64], "title": "The Cave of Contraptions (Grian) (Orginally Zedaph's)", "icon": "grian.png" },
-				{ "pos": [-255, -667, 64], "title": "The Oval of Life (Grian) (Orginally Zedaph's)", "icon": "grian.png" },
-				{ "pos": [-1192, 862, 64], "title": "Zedaph's hobbit hole (Orginally Grian's)", "icon": "zedaph.png" },
-				{ "pos": [-1199, 971, 64], "title": "Zedaph's mansion (Orginally Grian's)", "icon": "zedaph.png" },
-
-				{ "pos": [-1085, -92, 64], "title": "Cleo's construction site (Originally Keralis's)", "icon": "cleo.png" },
-				{ "pos": [1600, 600, 65], "title": "Keralis's zoo (Originally Cleo's)", "icon": "keralis.png" },
-
-				{ "pos": [-120, -400, 64], "title": "False's starter house (Originally Tango's)", "icon": "false.png" },
-				{ "pos": [30, -420, 64], "title": "False Towers (Originally Tango's)", "icon": "false.png" },
-				{ "pos": [417, -333, 64], "title": "Tango's base (Originally False's)", "icon": "tango.png" },
-
-				{ "pos": [4360, -4840, 64], "title": "JoeHills's base (Originally xBCrafted's)", "icon": "joe.png" },
-				{ "pos": [1075, -1000, 55], "title": "xBCrafted's ship (Originally Joe Hills's)", "icon": "xb.png" },
-				{ "pos": [1160, -1100, 65], "title": "xBCrafted's vineyard (Originally  Joe Hills's)", "icon": "xb.png" },
-				{ "pos": [900, -1060, 64], "title": "Joerassic Bark (xBCrafted) (Originally  Joe Hills's)", "icon": "xb.png" },
-
-				//Untouched
 				{ "pos": [1515, -938, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
 				{ "pos": [1780, -900, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
 				{ "pos": [1140, -818, 64], "title": "Bdubs' half-mansion", "icon": "bdubs.png" },
-
+				{ "pos": [-719, 469, 64], "title": "Beef's starter base (Originally Iskall's)", "icon": "beef.png" },
+				{ "pos": [-1015, 575, 64], "title": "Beef's Omega Tree (of Doom) (Originally Iskall's)", "icon": "beef.png" },
+				{ "pos": [-1085, -92, 64], "title": "Cleo's construction site (Originally Keralis's)", "icon": "cleo.png" },
+				{ "pos": [1140, -837, 64], "title": "Cub's half-mansion (Originally Doc's)", "icon": "cub.png" },
+				{ "pos": [900, -530, 120], "title": "Cub's Testificate Tower (Originally Doc's)", "icon": "cub.png" },
+				{ "pos": [615, 615, 64], "title": "Doc's Great Pyramid (Originally Cub's)", "icon": "doc.png" },
+				{ "pos": [530, 450, 65], "title": "Doc's Pyramid (Originally Cub's)", "icon": "doc.png" },
 				{ "pos": [-1440, -435, 64], "title": "Etho's Monstrosity", "icon": "etho.png" },
-
+				{ "pos": [-120, -400, 64], "title": "False's starter house (Originally Tango's)", "icon": "false.png" },
+				{ "pos": [30, -420, 64], "title": "False Towers (Originally Tango's)", "icon": "false.png" },
+				{ "pos": [-200, -650, 64], "title": "The Cave of Contraptions (Grian) (Orginally Zedaph's)", "icon": "grian.png" },
+				{ "pos": [-255, -667, 64], "title": "The Oval of Life (Grian) (Orginally Zedaph's)", "icon": "grian.png" },
 				{ "pos": [1490, -250, 64], "title": "Hypno's boardwalk", "icon": "hypno.png" },
-				{ "pos": [875, -250, 64], "title": "Hypno's island", "icon": "hypno.png" },
-
+				{ "pos": [875, -250, 64], "title": "Hypno's island", "icon": "hypno.png" },	
 				{ "pos": [-583, -122, 64], "title": "Jevin's Megabase", "icon": "ijevin.png" },
 				{ "pos": [-622, -409, 64], "title": "Jevin's no longer floating house", "icon": "ijevin.png" },
-
+				{ "pos": [-927, 803, 64], "title": "Impulse's rainbow jungle (Originally Stress's)", "icon": "impulse.png" },
+				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Iskall) (Originally Beef's)", "icon": "iskall.png" },
+				{ "pos": [-817, -292, 64], "title": "Iskall's hacienda and village (Originally Beef's)", "icon": "iskall.png" },
+				{ "pos": [4360, -4840, 64], "title": "JoeHills's base (Originally xBCrafted's)", "icon": "joe.png" },
+				{ "pos": [1600, 600, 65], "title": "Keralis's zoo (Originally Cleo's)", "icon": "keralis.png" },
+				{ "pos": [-1363, 765, 64], "title": "Mumbo's Cursed Nether Portal (Originally Scar's)", "icon": "mumbo.png" },
+				{ "pos": [-1223, 761, 64], "title": "Mumbo's Magical village (Originally Scar's)", "icon": "mumbo.png" },
 				{ "pos": [-32, 520, 64], "title": "Dead Dog Gulch (Rendog)", "icon": "rendog.png" },
 				{ "pos": [531, 10, 64], "title": "Loser isle (Rendog)", "icon": "rendog.png" },
 				{ "pos": [-680, 988, 64], "title": "Tatooren (Rendog)", "icon": "rendog.png" },
 				{ "pos": [-747, 996, 64], "title": "The Emperor's Fortress", "icon": "rendog.png" },
 				{ "pos": [-718, 1098, 64], "title": "The Emperor's Talon", "icon": "rendog.png" },
-
+				{ "pos": [-1391, 610, 64], "title": "Bumbo Baggins' hobbit hole (Scar) (Originally Mumbo's)", "icon": "scar.png" },
+				{ "pos": [-1330, 555, 64], "title": "Scar's main base (Originally Mumbo's)", "icon": "scar.png" },
+				{ "pos": [-1685, 695, 64], "title": "The Big Dig (Mumbo) (Originally Scar's)", "icon": "scar.png" },
+				{ "pos": [-293, -313, 64], "title": "Stress's sea-pyramid (Originally Impulse's)", "icon": "stress.png" },
+				{ "pos": [-383, -390, 64], "title": "Stress's starter village (Originally Impulse's)", "icon": "stress.png" },
+				{ "pos": [417, -333, 64], "title": "Tango's base (Originally False's)", "icon": "tango.png" },
 				{ "pos": [64, -624, 64], "title": "TFC's tower", "icon": "tfc.png" },
-
 				{ "pos": [-841, -533, 64], "title": "Welsknight's starter house", "icon": "wels.png" },
-
+				{ "pos": [1075, -1000, 55], "title": "xBCrafted's ship (Originally Joe Hills's)", "icon": "xb.png" },
+				{ "pos": [1160, -1100, 65], "title": "xBCrafted's vineyard (Originally  Joe Hills's)", "icon": "xb.png" },
+				{ "pos": [900, -1060, 64], "title": "Joerassic Bark (xBCrafted) (Originally  Joe Hills's)", "icon": "xb.png" },
 				{ "pos": [-1400, -275, 64], "title": "Xisuma's area", "icon": "xisuma.png" },
+				{ "pos": [-1192, 862, 64], "title": "Zedaph's hobbit hole (Orginally Grian's)", "icon": "zedaph.png" },
+				{ "pos": [-1199, 971, 64], "title": "Zedaph's mansion (Orginally Grian's)", "icon": "zedaph.png" },
 			],
 		},
 	},
