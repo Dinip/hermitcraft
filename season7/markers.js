@@ -104,6 +104,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-4330, 1590, 64], "title": "Stressed Out", "icon": "stress.png" },
 				{ "pos": [-225, 0, 64], "title": "Decked Out", "icon": "tango.png" },
 				{ "pos": [-325, -955, 64], "title": "Zedaph's mini-golf course", "icon": "zedaph.png" },
+				{"pos" : [187, 49, 64], "title" : "Brain-E-E's", "icon" : "etho.png",
 			],
 		},
 	},
