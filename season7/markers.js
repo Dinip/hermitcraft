@@ -28,8 +28,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1780, -900, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
 				{ "pos": [1140, -818, 64], "title": "Bdubs' half-mansion", "icon": "bdubs.png" },
 
-				{ "pos": [-719, 469, 64], "title": "Beef's starter base (Originally Iskall's)", "icon": "beef.png" },
-				{ "pos": [-1015, 575, 64], "title": "Beef's Omega Tree (of Doom) (Originally Iskall's)", "icon": "beef.png" },
+				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
+				{ "pos": [-817, -292, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
 
 				{ "pos": [615, 615, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
 				{ "pos": [530, 450, 65], "title": "Cub's Pyramid", "icon": "cub.png" },
@@ -53,8 +53,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-293, -313, 64], "title": "Impulse's sea-pyramid", "icon": "impulse.png" },
 				{ "pos": [-383, -390, 64], "title": "Impulse's starter village", "icon": "impulse.png" },
 
-				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Iskall) (Originally Beef's)", "icon": "iskall.png" },
-				{ "pos": [-817, -292, 64], "title": "Iskall's hacienda and village (Originally Beef's)", "icon": "iskall.png" },
+				{ "pos": [-719, 469, 64], "title": "Iskall's starter base", "icon": "iskall.png" },
+				{ "pos": [-1015, 575, 64], "title": "Iskall's Omega Tree (of Doom)", "icon": "iskall.png" },
 
 				{ "pos": [1075, -1000, 55], "title": "Joe Hills's ship", "icon": "joe.png" },
 				{ "pos": [1160, -1100, 65], "title": "Joe Hills's vineyard", "icon": "joe.png" },
