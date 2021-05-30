@@ -30,6 +30,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
 				{ "pos": [-817, -292, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
+				{ "pos": [-5180, 50, 64], "title": "Beef's vacation home", "icon": "beef.png" },
 
 				{ "pos": [615, 615, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
 				{ "pos": [530, 450, 65], "title": "Cub's Pyramid", "icon": "cub.png" },
