@@ -119,7 +119,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [1500, 1070, 64], "title": "Head Games arena", "icon": "cleo.png" },
 
-				{ "pos": [-2680, 250, 64], "title": "Hurtin' Hermits", "icon": "etho.png" },
+				{ "pos": [-2667, 247, 70], "title": "Hurtin' Hermits", "icon": "etho.png" },
 
 				{ "pos": [-1240, 1480, 64], "title": "Barge Quest puzzle box", "icon": "grian.png" },
 				{ "pos": [-2300, 1030, 64], "title": "Barge Quest trident course", "icon": "grian.png" },
@@ -162,7 +162,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [845, 1833, 65], "title": "Cub's Early Season Witch Farm", "icon": "cub.png" },
 
-				{ "pos": [-2975, 325, 64], "title": "Etho's ice fortress", "icon": "etho.png" },
+				{ "pos": [-2986, 318, 63], "title": "Etho's ice fortress", "icon": "etho.png" },
 
 				{ "pos": [2275, -284, 64], "title": "Hypno's witch Farm", "icon": "hypno.png" },
 
@@ -385,7 +385,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-345, 205, 64], "title": "Get Gorgeous campaign HQ", "icon": "stress.png" },
 
 				{ "pos": [-1410, 237, 64], "title": "The Brewery", "icon": "xisuma.png" },
-				{ "pos": [-1313, -50, 65], "title": "Xisuma's Museum", "icon": "xisuma.png" },
+				{ "pos": [-1306, -13, 69], "title": "Xisuma's Museum", "icon": "xisuma.png" },
 			],
 		},
 	},
