@@ -386,7 +386,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-1410, 237, 64], "title": "The Brewery", "icon": "xisuma.png" },
 				{ "pos": [-1306, -13, 69], "title": "Xisuma's Museum", "icon": "xisuma.png" },
-				{ "pos": [513, 1742, 64], "title": "End Portal", "icon": "poi.png" },
+				{ "pos": [513, 1742, 86], "title": "End Portal", "icon": "poi.png" },
 			],
 		},
 	},
