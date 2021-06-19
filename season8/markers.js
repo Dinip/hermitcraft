@@ -106,7 +106,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
-				{ "pos": [253, 596, 64], "title": "Spawn", "icon": "poi.png" },
+				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 			],
 		},
 	},
