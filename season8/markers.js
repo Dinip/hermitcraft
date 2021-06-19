@@ -22,6 +22,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "poi.png" },
+				{ "pos": [535, 780, 155], "title": "Iskall and Etho's starter base", "icon": "poi.png" },
 				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
 				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
