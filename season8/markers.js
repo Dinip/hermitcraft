@@ -22,6 +22,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "poi.png" },
+				{ "pos": [523, 154, 771], "title": "Etho and Iskall's starter base", "icon": "poi.png"},
 				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
 				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
@@ -29,6 +30,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [850, -650, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
 				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
 				{ "pos": [1350, 80, 64], "title": "Tango's starter base", "icon": "tango.png" },
+				{ "pos": [-303, 73, 310], "title": "Welsknight's starter base", "icon": "wels.png" },
 				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" },
 			],
 		},
