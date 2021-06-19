@@ -115,7 +115,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
 				{ "pos": [860, -690, 64], "title": "Boatem Pole", "icon": "poi.png" },
-				{ "pos": [253, 596, 64], "title": "Spawn", "icon": "poi.png" },
+				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
 			],
 		},
