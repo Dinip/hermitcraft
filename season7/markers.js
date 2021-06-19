@@ -190,6 +190,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-5048, -3128, 64], "title": "Xisuma's ghast killing chamber", "icon": "xisuma.png" },
 				{ "pos": [-3560, -375, 64], "title": "Xisuma's wandering trader platform", "icon": "xisuma.png" },
 				{ "pos": [-4800, 310, 64], "title": "Xisuma's witch farm", "icon": "xisuma.png" },
+				{ "pos": [32434, -3463, 64], "title": "Etho's nether base portal", "icon": "etho.png" },
 			],
 		},
 	},
