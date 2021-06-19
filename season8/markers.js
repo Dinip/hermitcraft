@@ -21,7 +21,15 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-
+				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "poi.png" },
+				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
+				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
+				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
+				{ "pos": [835, -715, 64], "title": "Mumbo's starter bus", "icon": "mumbo.png" },
+				{ "pos": [850, -650, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
+				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
+				{ "pos": [1350, 80, 64], "title": "Tango's starter base", "icon": "tango.png" },
+				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" },
 			],
 		},
 	},
@@ -106,7 +114,9 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
+				{ "pos": [860, -690, 64], "title": "Boatem Pole", "icon": "poi.png" },
 				{ "pos": [253, 596, 64], "title": "Spawn", "icon": "poi.png" },
+				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
 			],
 		},
 	},
