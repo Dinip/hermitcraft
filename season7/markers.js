@@ -384,7 +384,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-345, 205, 64], "title": "Get Gorgeous campaign HQ", "icon": "stress.png" },
 
-				{ "pos": [-1410, 237, 64], "title": "The Brewery", "icon": "xisuma.png" },
+				{ "pos": [-1365, 246, 72], "title": "The Brewery", "icon": "xisuma.png" },
 				{ "pos": [-1306, -13, 69], "title": "Xisuma's Museum", "icon": "xisuma.png" },
 			],
 		},
