@@ -29,6 +29,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [850, -650, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
 				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
 				{ "pos": [1350, 80, 64], "title": "Tango's starter base", "icon": "tango.png" },
+				{ "pos": [-303, 73, 310], "title": "Welsknight's starter base", "icon": "wels.png" },
 				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" },
 			],
 		},
