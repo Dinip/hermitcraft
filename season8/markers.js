@@ -25,6 +25,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter base", "icon": "poi.png"},
 				{ "pos": [523, 771, 154], "title": "Etho and Iskall's starter base", "icon": "poi.png"},
 				{ "pos": [1465, 10, 73], "title": "Bdubs' starter base", "icon": "bdubs.png" },
+				{ "pos": [895, -30, 75], "title": "Beef's base", "icon": "beef.png" },
 				{ "pos": [1175, -605, 64], "title": "Cub's starter hole", "icon": "cub.png" },
 				{ "pos": [725, 465, 75], "title": "False's starter base", "icon": "false.png" },
 				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
