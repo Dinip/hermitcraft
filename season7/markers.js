@@ -26,16 +26,16 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [1495, -946, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
 				{ "pos": [1787, -891, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
-				{ "pos": [1140, -818, 64], "title": "Bdubs' half-mansion", "icon": "bdubs.png" },
+				{ "pos": [1128, -798, 64], "title": "Orignial site of Bdubs' half-mansion", "icon": "bdubs.png" },
 
-				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
+				{ "pos": [190, -1323, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
 				{ "pos": [-817, -292, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
 				{ "pos": [-5180, 50, 64], "title": "Beef's vacation home", "icon": "beef.png" },
 
 				{ "pos": [616, 616, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
 				{ "pos": [530, 455, 65], "title": "Cub's Pyramid", "icon": "cub.png" },
 
-				{ "pos": [1140, -837, 64], "title": "Doc's Chateau", "icon": "doc.png" },
+				{ "pos": [1130, -817, 64], "title": "Doc's Chateau", "icon": "doc.png" },
 				{ "pos": [906, -513, 120], "title": "Doc's Testificate Tower", "icon": "doc.png" },
 
 				{ "pos": [-1440, -435, 64], "title": "Etho's Monstrosity", "icon": "etho.png" },
@@ -57,9 +57,9 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-755, 479, 64], "title": "Iskall's starter base", "icon": "iskall.png" },
 				{ "pos": [-1015, 600, 64], "title": "Iskall's Omega Tree (of Doom)", "icon": "iskall.png" },
 
-				{ "pos": [1075, -1000, 55], "title": "Joe Hills's ship", "icon": "joe.png" },
-				{ "pos": [1160, -1100, 65], "title": "Joe Hills's vineyard", "icon": "joe.png" },
-				{ "pos": [900, -1060, 64], "title": "Joerassic Bark (Joe Hills)", "icon": "joe.png" },
+				{ "pos": [1044, -1053, 64], "title": "Joe Hills's ship", "icon": "joe.png" },
+				{ "pos": [1154, -1043, 64], "title": "Joe Hills's vineyard", "icon": "joe.png" },
+				{ "pos": [891, -1042, 64], "title": "Joerassic Bark (Joe Hills)", "icon": "joe.png" },
 
 				{ "pos": [-1411, 604, 64], "title": "Bumbo Baggins' hobbit hole (Mumbo)", "icon": "mumbo.png" },
 				{ "pos": [-1313, 581, 64], "title": "Mumbo's main base", "icon": "mumbo.png" },
@@ -79,15 +79,15 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-120, -400, 64], "title": "Tango's starter house", "icon": "tango.png" },
 				{ "pos": [30, -420, 64], "title": "Toon Towers (Tango)", "icon": "tango.png" },
 
-				{ "pos": [64, -624, 64], "title": "TFC's tower", "icon": "tfc.png" },
+				{ "pos": [63, -625, 64], "title": "TFC's tower", "icon": "tfc.png" },
 
 				{ "pos": [-841, -533, 64], "title": "Welsknight's starter house", "icon": "wels.png" },
 
-				{ "pos": [4360, -4840, 64], "title": "xBCrafted's base", "icon": "xb.png" },
+				{ "pos": [4358, -4843, 64], "title": "xBCrafted's base", "icon": "xb.png" },
 
 				{ "pos": [-1529, -130, 64], "title": "Xisuma's area", "icon": "xisuma.png" },
 
-				{ "pos": [-200, -650, 64], "title": "The Cave of Contraptions (Zedaph)", "icon": "zedaph.png" },
+				{ "pos": [-267, -664, 64], "title": "The Cave of Contraptions (Zedaph)", "icon": "zedaph.png" },
 				{ "pos": [-255, -667, 64], "title": "The Oval of Life (Zedaph)", "icon": "zedaph.png" },
 			],
 		},
