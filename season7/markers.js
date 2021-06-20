@@ -21,7 +21,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [-1085, -92, 64], "title": "Keralis & Cleo's city (Originally just Keralis's)", "icon": "poi.png" },
+				{ "pos": [-1171, 61, 64], "title": "Keralis & Cleo's city (Originally just Keralis's)", "icon": "poi.png" },
 				{ "pos": [1600, 600, 65], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "poi.png" },
 				
 				{ "pos": [1515, -938, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
@@ -42,8 +42,8 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [417, -333, 64], "title": "False's cyberpunk city", "icon": "false.png" },
 
-				{ "pos": [-1192, 862, 64], "title": "Grian's hobbit hole", "icon": "grian.png" },
-				{ "pos": [-1199, 971, 64], "title": "Grian's mansion", "icon": "grian.png" },
+				{ "pos": [-1196, 870, 64], "title": "Grian's hobbit hole", "icon": "grian.png" },
+				{ "pos": [-1213, 1006, 64], "title": "Grian's mansion", "icon": "grian.png" },
 
 				{ "pos": [1490, -250, 64], "title": "Hypno's boardwalk", "icon": "hypno.png" },
 				{ "pos": [875, -250, 64], "title": "Hypno's island", "icon": "hypno.png" },	
@@ -54,27 +54,27 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-293, -313, 64], "title": "Impulse's sea-pyramid", "icon": "impulse.png" },
 				{ "pos": [-383, -390, 64], "title": "Impulse's starter village", "icon": "impulse.png" },
 
-				{ "pos": [-719, 469, 64], "title": "Iskall's starter base", "icon": "iskall.png" },
-				{ "pos": [-1015, 575, 64], "title": "Iskall's Omega Tree (of Doom)", "icon": "iskall.png" },
+				{ "pos": [-755, 479, 64], "title": "Iskall's starter base", "icon": "iskall.png" },
+				{ "pos": [-1015, 600, 64], "title": "Iskall's Omega Tree (of Doom)", "icon": "iskall.png" },
 
 				{ "pos": [1075, -1000, 55], "title": "Joe Hills's ship", "icon": "joe.png" },
 				{ "pos": [1160, -1100, 65], "title": "Joe Hills's vineyard", "icon": "joe.png" },
 				{ "pos": [900, -1060, 64], "title": "Joerassic Bark (Joe Hills)", "icon": "joe.png" },
 
-				{ "pos": [-1391, 610, 64], "title": "Bumbo Baggins' hobbit hole (Mumbo)", "icon": "mumbo.png" },
-				{ "pos": [-1330, 555, 64], "title": "Mumbo's main base", "icon": "mumbo.png" },
+				{ "pos": [-1411, 604, 64], "title": "Bumbo Baggins' hobbit hole (Mumbo)", "icon": "mumbo.png" },
+				{ "pos": [-1313, 581, 64], "title": "Mumbo's main base", "icon": "mumbo.png" },
 
 				{ "pos": [-32, 520, 64], "title": "Dead Dog Gulch (Rendog)", "icon": "rendog.png" },
 				{ "pos": [531, 10, 64], "title": "Loser Isle (Rendog)", "icon": "rendog.png" },
 				{ "pos": [-680, 988, 64], "title": "Valley of Tatooren (Rendog)", "icon": "rendog.png" },
-				{ "pos": [-747, 996, 64], "title": "The Emperor's Fortress", "icon": "rendog.png" },
+				{ "pos": [-776, 1030, 64], "title": "The Emperor's Fortress", "icon": "rendog.png" },
 				{ "pos": [-718, 1098, 64], "title": "The Emperor's Talon", "icon": "rendog.png" },
 
-				{ "pos": [-1363, 765, 64], "title": "Scar's Cursed Nether Portal", "icon": "scar.png" },
-				{ "pos": [-1223, 761, 64], "title": "Scar's Magical village", "icon": "scar.png" },
-				{ "pos": [-1685, 695, 64], "title": "ScarX (Scar)", "icon": "scar.png" },
+				{ "pos": [-1358, 815, 64], "title": "Scar's Cursed Nether Portal", "icon": "scar.png" },
+				{ "pos": [-1293, 825, 64], "title": "Scar's Magical village", "icon": "scar.png" },
+				{ "pos": [-1662, 177, 64], "title": "ScarX (Scar)", "icon": "scar.png" },
 
-				{ "pos": [-927, 803, 64], "title": "Stress's rainbow jungle", "icon": "stress.png" },
+				{ "pos": [-963, 802, 64], "title": "Stress's rainbow jungle", "icon": "stress.png" },
 
 				{ "pos": [-120, -400, 64], "title": "Tango's starter house", "icon": "tango.png" },
 				{ "pos": [30, -420, 64], "title": "Toon Towers (Tango)", "icon": "tango.png" },
@@ -85,7 +85,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [4360, -4840, 64], "title": "xBCrafted's base", "icon": "xb.png" },
 
-				{ "pos": [-1400, -275, 64], "title": "Xisuma's area", "icon": "xisuma.png" },
+				{ "pos": [-1529, -130, 64], "title": "Xisuma's area", "icon": "xisuma.png" },
 
 				{ "pos": [-200, -650, 64], "title": "The Cave of Contraptions (Zedaph)", "icon": "zedaph.png" },
 				{ "pos": [-255, -667, 64], "title": "The Oval of Life (Zedaph)", "icon": "zedaph.png" },
@@ -376,7 +376,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1028, 140, 64], "title": "IskallMAN HQ", "icon": "iskall.png" },
 
-				{ "pos": [-762, 671, 64], "title": "Hermit Challenges Temple", "icon": "mumbo.png" },
+				{ "pos": [-760, 673, 64], "title": "Hermit Challenges Temple", "icon": "mumbo.png" },
 
 				{ "pos": [685, 285, 64], "title": "Scar's Magic Crystals", "icon": "scar.png" },
 				{ "pos": [-155, 307, 64], "title": "Vote Scar HQ", "icon": "scar.png" },
