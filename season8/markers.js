@@ -22,6 +22,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "poi.png" },
+				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter base", "icon": "poi.png"},
 				{ "pos": [523, 771, 154], "title": "Etho and Iskall's starter base", "icon": "poi.png"},
 				{ "pos": [1465, 10, 73], "title": "Bdubs' starter base", "icon": "bdubs.png" },
 				{ "pos": [1175, -605, 64], "title": "Cub's starter hole", "icon": "cub.png" },
@@ -126,6 +127,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
 				{ "pos": [860, -690, 64], "title": "Boatem Pole", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
+				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
 				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
 			],
 		},
