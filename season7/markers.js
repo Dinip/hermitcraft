@@ -22,31 +22,31 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [-1171, 61, 64], "title": "Keralis & Cleo's city (Originally just Keralis's)", "icon": "poi.png" },
-				{ "pos": [1600, 600, 65], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "poi.png" },
+				{ "pos": [1598, 602, 65], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "poi.png" },
 				
-				{ "pos": [1515, -938, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
-				{ "pos": [1780, -900, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
+				{ "pos": [1495, -946, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
+				{ "pos": [1787, -891, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
 				{ "pos": [1140, -818, 64], "title": "Bdubs' half-mansion", "icon": "bdubs.png" },
 
 				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
 				{ "pos": [-817, -292, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
 				{ "pos": [-5180, 50, 64], "title": "Beef's vacation home", "icon": "beef.png" },
 
-				{ "pos": [615, 615, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
-				{ "pos": [530, 450, 65], "title": "Cub's Pyramid", "icon": "cub.png" },
+				{ "pos": [616, 616, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
+				{ "pos": [530, 455, 65], "title": "Cub's Pyramid", "icon": "cub.png" },
 
 				{ "pos": [1140, -837, 64], "title": "Doc's Chateau", "icon": "doc.png" },
-				{ "pos": [900, -530, 120], "title": "Doc's Testificate Tower", "icon": "doc.png" },
+				{ "pos": [906, -513, 120], "title": "Doc's Testificate Tower", "icon": "doc.png" },
 
 				{ "pos": [-1440, -435, 64], "title": "Etho's Monstrosity", "icon": "etho.png" },
 
-				{ "pos": [417, -333, 64], "title": "False's cyberpunk city", "icon": "false.png" },
+				{ "pos": [494, -378, 64], "title": "False's cyberpunk city", "icon": "false.png" },
 
 				{ "pos": [-1196, 870, 64], "title": "Grian's hobbit hole", "icon": "grian.png" },
 				{ "pos": [-1213, 1006, 64], "title": "Grian's mansion", "icon": "grian.png" },
 
-				{ "pos": [1490, -250, 64], "title": "Hypno's boardwalk", "icon": "hypno.png" },
-				{ "pos": [875, -250, 64], "title": "Hypno's island", "icon": "hypno.png" },	
+				{ "pos": [1503, -282, 64], "title": "Hypno's boardwalk", "icon": "hypno.png" },
+				{ "pos": [864, -250, 64], "title": "Hypno's island", "icon": "hypno.png" },	
 
 				{ "pos": [-583, -122, 64], "title": "Jevin's Megabase", "icon": "ijevin.png" },
 				{ "pos": [-622, -409, 64], "title": "Jevin's no longer floating house", "icon": "ijevin.png" },
@@ -64,11 +64,11 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1411, 604, 64], "title": "Bumbo Baggins' hobbit hole (Mumbo)", "icon": "mumbo.png" },
 				{ "pos": [-1313, 581, 64], "title": "Mumbo's main base", "icon": "mumbo.png" },
 
-				{ "pos": [-32, 520, 64], "title": "Dead Dog Gulch (Rendog)", "icon": "rendog.png" },
-				{ "pos": [531, 10, 64], "title": "Loser Isle (Rendog)", "icon": "rendog.png" },
-				{ "pos": [-680, 988, 64], "title": "Valley of Tatooren (Rendog)", "icon": "rendog.png" },
+				{ "pos": [-11, 507, 64], "title": "Dead Dog Gulch (Rendog)", "icon": "rendog.png" },
+				{ "pos": [527, 5, 64], "title": "Loser Isle (Rendog)", "icon": "rendog.png" },
+				{ "pos": [-677, 952, 64], "title": "Valley of Tatooren (Rendog)", "icon": "rendog.png" },
 				{ "pos": [-776, 1030, 64], "title": "The Emperor's Fortress", "icon": "rendog.png" },
-				{ "pos": [-718, 1098, 64], "title": "The Emperor's Talon", "icon": "rendog.png" },
+				{ "pos": [-662, 1101, 64], "title": "The Emperor's Talon", "icon": "rendog.png" },
 
 				{ "pos": [-1358, 815, 64], "title": "Scar's Cursed Nether Portal", "icon": "scar.png" },
 				{ "pos": [-1293, 825, 64], "title": "Scar's Magical village", "icon": "scar.png" },
