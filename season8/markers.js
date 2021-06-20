@@ -35,7 +35,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
 				{ "pos": [835, 95, 55], "title": "Stress' starter cave", "icon": "stress.png" },
 				{ "pos": [1350, 80, 64], "title": "Tango's starter base", "icon": "tango.png" },
-				{ "pos": [-303, 310, 73], "title": "Welsknight's starter base", "icon": "wels.png" },
+				{ "pos": [-303, -310, 73], "title": "Welsknight's starter base", "icon": "wels.png" },
 				{ "pos": [1650, 1500, 70], "title": "xB's starter base", "icon": "xb.png" },
 				{ "pos": [1525, -275, 64], "title": "Xisuma's giant statue", "icon": "xisuma.png" },
 				{ "pos": [1590, -265, 75], "title": "Xisuma's starter base", "icon": "xisuma.png" },
