@@ -42,6 +42,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1525, -275, 64], "title": "Xisuma's giant statue", "icon": "xisuma.png" },
 				{ "pos": [1590, -265, 75], "title": "Xisuma's starter base", "icon": "xisuma.png" },
 				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" },
+				{ "pos": [1064, -872, 62], "title": "Tinfoil Chef's Tower", "icon": "tfc.png"},
 			],
 		},
 	},
