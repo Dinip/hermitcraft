@@ -22,23 +22,23 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [-1171, 61, 64], "title": "Keralis & Cleo's city (Originally just Keralis's)", "icon": "poi.png" },
-				{ "pos": [1598, 602, 65], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "poi.png" },
+				{ "pos": [1598, 602, 64], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "poi.png" },
 				
 				{ "pos": [1495, -946, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
 				{ "pos": [1787, -891, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
 				{ "pos": [1128, -798, 64], "title": "Orignial site of Bdubs' half-mansion", "icon": "bdubs.png" },
 
 				{ "pos": [190, -1323, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
-				{ "pos": [-817, -292, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
-				{ "pos": [-5180, 50, 64], "title": "Beef's vacation home", "icon": "beef.png" },
+				{ "pos": [-786, -291, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
+				{ "pos": [-5180, 54, 64], "title": "Beef's vacation home", "icon": "beef.png" },
 
 				{ "pos": [616, 616, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
-				{ "pos": [530, 455, 65], "title": "Cub's Pyramid", "icon": "cub.png" },
+				{ "pos": [530, 455, 64], "title": "Cub's Pyramid", "icon": "cub.png" },
 
 				{ "pos": [1130, -817, 64], "title": "Doc's Chateau", "icon": "doc.png" },
 				{ "pos": [906, -513, 120], "title": "Doc's Testificate Tower", "icon": "doc.png" },
 
-				{ "pos": [-1440, -435, 64], "title": "Etho's Monstrosity", "icon": "etho.png" },
+				{ "pos": [-1365, -484, 64], "title": "Etho's Monstrosity", "icon": "etho.png" },
 
 				{ "pos": [494, -378, 64], "title": "False's cyberpunk city", "icon": "false.png" },
 
@@ -48,11 +48,11 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1503, -282, 64], "title": "Hypno's boardwalk", "icon": "hypno.png" },
 				{ "pos": [864, -250, 64], "title": "Hypno's island", "icon": "hypno.png" },	
 
-				{ "pos": [-583, -122, 64], "title": "Jevin's Megabase", "icon": "ijevin.png" },
-				{ "pos": [-622, -409, 64], "title": "Jevin's no longer floating house", "icon": "ijevin.png" },
+				{ "pos": [-585, -121, 64], "title": "Jevin's Megabase", "icon": "ijevin.png" },
+				{ "pos": [-629, -413, 64], "title": "Jevin's no longer floating house", "icon": "ijevin.png" },
 
-				{ "pos": [-293, -313, 64], "title": "Impulse's sea-pyramid", "icon": "impulse.png" },
-				{ "pos": [-383, -390, 64], "title": "Impulse's starter village", "icon": "impulse.png" },
+				{ "pos": [-248, -300, 64], "title": "Impulse's sea-pyramid", "icon": "impulse.png" },
+				{ "pos": [-389, -389, 64], "title": "Impulse's starter village", "icon": "impulse.png" },
 
 				{ "pos": [-755, 479, 64], "title": "Iskall's starter base", "icon": "iskall.png" },
 				{ "pos": [-1015, 600, 64], "title": "Iskall's Omega Tree (of Doom)", "icon": "iskall.png" },
@@ -77,11 +77,11 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-963, 802, 64], "title": "Stress's rainbow jungle", "icon": "stress.png" },
 
 				{ "pos": [-120, -400, 64], "title": "Tango's starter house", "icon": "tango.png" },
-				{ "pos": [30, -420, 64], "title": "Toon Towers (Tango)", "icon": "tango.png" },
+				{ "pos": [31, -402, 64], "title": "Toon Towers (Tango)", "icon": "tango.png" },
 
 				{ "pos": [63, -625, 64], "title": "TFC's tower", "icon": "tfc.png" },
 
-				{ "pos": [-841, -533, 64], "title": "Welsknight's starter house", "icon": "wels.png" },
+				{ "pos": [-847, -542, 64], "title": "Welsknight's starter house", "icon": "wels.png" },
 
 				{ "pos": [4358, -4843, 64], "title": "xBCrafted's base", "icon": "xb.png" },
 
