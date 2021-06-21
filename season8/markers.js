@@ -29,6 +29,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1175, -605, 64], "title": "Cub's starter hole", "icon": "cub.png" },
 				{ "pos": [725, 465, 75], "title": "False's starter base", "icon": "false.png" },
 				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
+				{ "pos": [1416, 1417, 64], "title": "Hypno's starter base", "icon": "hypno.png" },
 				{ "pos": [950, 500, 64], "title": "iJevin's starter base", "icon": "ijevin.png" },
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
 				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
