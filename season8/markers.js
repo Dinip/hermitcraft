@@ -130,6 +130,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
 				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
+				{ "pos": [950, 921, 64], "title": "Tango's Turtle Breeding Area", "icon": "tango.png" },
+
 			],
 		},
 	},
