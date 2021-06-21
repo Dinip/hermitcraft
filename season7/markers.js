@@ -21,9 +21,6 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [-1085, -92, 64], "title": "Keralis & Cleo's city (Originally just Keralis's)", "icon": "poi.png" },
-				{ "pos": [1600, 600, 65], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "poi.png" },
-				
 				{ "pos": [1515, -938, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
 				{ "pos": [1780, -900, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
 				{ "pos": [1140, -818, 64], "title": "Bdubs' half-mansion", "icon": "bdubs.png" },
@@ -31,6 +28,9 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [210, -1310, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
 				{ "pos": [-817, -292, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
 				{ "pos": [-5180, 50, 64], "title": "Beef's vacation home", "icon": "beef.png" },
+				
+				{ "pos": [-1085, -92, 64], "title": "Keralis & Cleo's city", "icon": "cleo-keralis.png" },
+				{ "pos": [1600, 600, 65], "title": "Cleo & Keralis' zoo", "icon": "cleo-keralis.png" },
 
 				{ "pos": [615, 615, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
 				{ "pos": [530, 450, 65], "title": "Cub's Pyramid", "icon": "cub.png" },
