@@ -76,7 +76,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-963, 802, 64], "title": "Stress's rainbow jungle", "icon": "stress.png" },
 
-				{ "pos": [-120, -400, 64], "title": "Tango's starter house", "icon": "tango.png" },
+				{ "pos": [-116, -409, 64], "title": "Tango's starter house", "icon": "tango.png" },
 				{ "pos": [31, -402, 64], "title": "Toon Towers (Tango)", "icon": "tango.png" },
 
 				{ "pos": [63, -625, 64], "title": "TFC's tower", "icon": "tfc.png" },
@@ -88,7 +88,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1529, -130, 64], "title": "Xisuma's area", "icon": "xisuma.png" },
 
 				{ "pos": [-267, -664, 64], "title": "The Cave of Contraptions (Zedaph)", "icon": "zedaph.png" },
-				{ "pos": [-255, -667, 64], "title": "The Oval of Life (Zedaph)", "icon": "zedaph.png" },
+				{ "pos": [-267, -664, 64], "title": "The Oval of Life (Zedaph)", "icon": "zedaph.png" },
 			],
 		},
 	},
