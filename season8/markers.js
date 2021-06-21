@@ -21,12 +21,12 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "poi.png" },
-				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter base", "icon": "poi.png"},
-				{ "pos": [523, 771, 154], "title": "Etho and Iskall's starter base", "icon": "poi.png"},
 				{ "pos": [1465, 10, 73], "title": "Bdubs' starter base", "icon": "bdubs.png" },
 				{ "pos": [895, -30, 75], "title": "Beef's base", "icon": "beef.png" },
+				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "cleo-joe.png" },
 				{ "pos": [1175, -605, 64], "title": "Cub's starter hole", "icon": "cub.png" },
+				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter base", "icon": "doc-rendog.png"},
+				{ "pos": [523, 771, 154], "title": "Etho and Iskall's starter base", "icon": "etho-iskall.png"},
 				{ "pos": [725, 465, 75], "title": "False's starter base", "icon": "false.png" },
 				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
 				{ "pos": [1416, 1417, 64], "title": "Hypno's starter base", "icon": "hypno.png" },
