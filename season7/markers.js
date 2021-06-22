@@ -323,18 +323,18 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				//HEP (Grass)
-				{ "pos": [-240, -90, 64], "title": "HEP Factory", "icon": "grass.png" },
-				{ "pos": [-260, 75, 64], "title": "HEP Laser Drill", "icon": "grass.png" },
-				{ "pos": [-130, -120, 64], "title": "Mt. Scarmore/HEP HQ", "icon": "grass.png" },
-				{ "pos": [-96, -67, 64], "title": "HEP training area", "icon": "grass.png" },
+				{ "pos": [-280, -86, 64], "title": "HEP Factory", "icon": "grass.png" },
+				{ "pos": [-266, 61, 64], "title": "HEP Laser Drill", "icon": "grass.png" },
+				{ "pos": [-130, -142, 64], "title": "HEP HQ", "icon": "grass.png" },
+				{ "pos": [-103, -86, 64], "title": "HEP Training Area", "icon": "grass.png" },
 
 				//Mycelium Resistance
-				{ "pos": [140, 190, 64], "title": "Main Underground Base entrance", "icon": "myc.png" },
-				{ "pos": [-55, 120, 64], "title": "Fake Underground Base entrance", "icon": "myc.png" },
-				{ "pos": [100, 140, 64], "title": "New Surface Base", "icon": "myc.png" },
+				{ "pos": [30, 106, 64], "title": "Main Resistance Base entrance", "icon": "myc.png" },
+				{ "pos": [-20, 83, 64], "title": "Fake Resistance Base entrance", "icon": "myc.png" },
+				{ "pos": [134, 200, 64], "title": "New Resistance Base", "icon": "myc.png" },
 
 				//Podzol Party
-				{ "pos": [2772, -187, 64], "title": "Podzol Party Cabin", "icon": "podzol.png" },
+				{ "pos": [2769, -186, 64], "title": "Podzol Party Cabin", "icon": "podzol.png" },
 			],
 		},
 	},
@@ -362,6 +362,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-350, 30, 64], "title": "Mumbo for Mayor HQ/Grumbot", "icon": "poi.png" },
 				{ "pos": [258, 191, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [-45, -84, 64], "title": "Town Hall", "icon": "poi.png" },
+				{ "pos": [-95, -99, 64], "title": "Mt. Scarmore", "icon": "poi.png" },
 				{ "pos": [-3355, -1742, 64], "title": "Iskall and Impulse's secret doomsday bunker", "icon": "poi.png" },
 				{ "pos": [-44, -49, 64], "title": "Main Street", "icon": "poi.png" },
 				{ "pos": [-3062, -186, 64], "title": "2020 Christmas Advent Calender", "icon": "poi.png" },
