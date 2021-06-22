@@ -109,33 +109,34 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [11, -105, 64], "title": "Stat Poker (Etho, Tango)", "icon": "poi.png" },
-				{ "pos": [130, -830, 64], "title": "Tango & Zedaph's Build Battle", "icon": "poi.png" },
-				{ "pos": [-2264, -264, 64], "title": "The Netherlands", "icon": "poi.png" },
-				{ "pos": [0, 370, 64], "title": "Turf War finale minigames", "icon": "poi.png" },
-				{ "pos": [-4, 54, 64], "title": "Impulse and Tango Halloween store", "icon": "poi.png" },
+				{ "pos": [11, -102, 64], "title": "Stat Poker (Etho, Tango)", "icon": "poi.png" },
+				{ "pos": [138, -828, 64], "title": "Tango & Zedaph's Build Battle", "icon": "poi.png" },
+				{ "pos": [-2284, -246, 64], "title": "The Netherlands", "icon": "poi.png" },
+				{ "pos": [-15, 411, 64], "title": "Turf War finale minigames", "icon": "poi.png" },
+				{ "pos": [-7, 72, 64], "title": "Impulse and Tango Halloween store", "icon": "poi.png" },
 
-				{ "pos": [-142, -80, 64], "title": "Turf Time", "icon": "bdubs.png" },
+				{ "pos": [-149, -90, 64], "title": "Turf Time", "icon": "bdubs.png" },
 
-				{ "pos": [1500, 1070, 64], "title": "Head Games arena", "icon": "cleo.png" },
+				{ "pos": [1470, 1066, 64], "title": "Head Games arena", "icon": "cleo.png" },
 
-				{ "pos": [-2667, 247, 70], "title": "Hurtin' Hermits", "icon": "etho.png" },
+				{ "pos": [-2664, 247, 70], "title": "Hurtin' Hermits", "icon": "etho.png" },
 
-				{ "pos": [-1240, 1480, 64], "title": "Barge Quest puzzle box", "icon": "grian.png" },
-				{ "pos": [-2300, 1030, 64], "title": "Barge Quest trident course", "icon": "grian.png" },
-				{ "pos": [-3455, 785, 64], "title": "Barge Quest wither spawn", "icon": "grian.png" },
+				{ "pos": [-1241, 1477, 64], "title": "Barge Quest puzzle box", "icon": "grian.png" },
+				{ "pos": [-2315, 1022, 64], "title": "Barge Quest trident course", "icon": "grian.png" },
+				{ "pos": [-3457, 782, 64], "title": "Barge Quest wither spawn", "icon": "grian.png" },
 
-				{ "pos": [116, -90, 64], "title": "Treasure Island Level 1", "icon": "iskall.png" },
-				{ "pos": [830, -1700, 64], "title": "Treasure Island Level 2", "icon": "iskall.png" },
-				{ "pos": [5, 34, 64], "title": "Bernie from The Hedge Games", "icon": "iskall.png" },
+				{ "pos": [115, -89, 64], "title": "Treasure Island (Info Board)", "icon": "iskall.png" },
+				{ "pos": [830, -1700, 64], "title": "Treasure Island (Play Area))", "icon": "iskall.png" },
+				{ "pos": [5, 34, 64], "title": "Original site of Bernie from The Hedge Games", "icon": "iskall.png" },
 
-				{ "pos": [-7, 80, 64], "title": "HWF Arena", "icon": "rendog.png" },
+				{ "pos": [-10, 82, 64], "title": "HWF Arena", "icon": "rendog.png" },
 
-				{ "pos": [-4330, 1590, 64], "title": "Stressed Out", "icon": "stress.png" },
+				{ "pos": [45, 144, 64], "title": "Frankenstein's Monster", "icon": "stress.png" },
+				{ "pos": [-4339, 1594, 64], "title": "Stressed Out", "icon": "stress.png" },
 
-				{ "pos": [-225, 0, 64], "title": "Decked Out", "icon": "tango.png" },
+				{ "pos": [-222, -4, 64], "title": "Decked Out", "icon": "tango.png" },
 
-				{ "pos": [-325, -955, 64], "title": "Zedaph's mini-golf course", "icon": "zedaph.png" },
+				{ "pos": [-346, -895, 64], "title": "Zedaph's mini-golf course", "icon": "zedaph.png" },
 			],
 		},
 	},
@@ -282,7 +283,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-55, -165, 64], "title": "Moopop Cafe", "icon": "scar.png" },
 				{ "pos": [-10, -165, 64], "title": "Good Times Realty", "icon": "scar.png" },
 
-				{ "pos": [0, 116, 64], "title": "Frankenstein's Monster", "icon": "stress.png" },
 				{ "pos": [84, -16, 64], "title": "Glass shop", "icon": "stress.png" },
 				{ "pos": [27, 116, 64], "title": "Monster's Brew", "icon": "stress.png" },
 
