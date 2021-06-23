@@ -29,12 +29,13 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [523, 771, 154], "title": "Etho and Iskall's starter base", "icon": "etho-iskall.png"},
 				{ "pos": [725, 465, 75], "title": "False's starter base", "icon": "false.png" },
 				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
+				{ "pos": [888, -700 64], "title": "Grian's starter base", "icon": "grian.png" },
 				{ "pos": [1416, 1417, 64], "title": "Hypno's starter base", "icon": "hypno.png" },
 				{ "pos": [950, 500, 64], "title": "iJevin's starter base", "icon": "ijevin.png" },
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
 				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
 				{ "pos": [835, -715, 64], "title": "Mumbo's starter bus", "icon": "mumbo.png" },
-				{ "pos": [850, -650, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
+				{ "pos": [850, -622, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
 				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
 				{ "pos": [835, 95, 55], "title": "Stress' starter cave", "icon": "stress.png" },
 				{ "pos": [1350, 80, 64], "title": "Tango's starter base", "icon": "tango.png" },
@@ -128,7 +129,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
-				{ "pos": [860, -690, 64], "title": "Boatem Pole", "icon": "poi.png" },
+				{ "pos": [829, -681, 64], "title": "Boatem Hole and Boatem Pole", "icon": "poi.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix First Solution", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
