@@ -366,7 +366,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-44, -49, 64], "title": "Main Street", "icon": "poi.png" },
 				{ "pos": [-3062, -186, 64], "title": "2020 Christmas Advent Calender", "icon": "poi.png" },
 				{ "pos": [72, -125, 64], "title": "AquaTown Theater", "icon": "poi.png" },
-
+				{ "pos": [513, 1742, 86], "title": "End Portal", "icon": "poi.png" },
+				
 				{ "pos": [430, -970, 64], "title": "False's St Jude monument", "icon": "false.png" },
 				{ "pos": [295, -95, 64], "title": "False for Mayor HQ", "icon": "false.png" },
 				{ "pos": [10, -180, 64], "title": "False's Aquatown House", "icon": "false.png" },
