@@ -108,7 +108,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [853, -714, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
-				{ "pos": [538,781,154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
+				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 			],
 		},
 	},
