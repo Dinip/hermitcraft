@@ -29,7 +29,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [523, 771, 154], "title": "Etho and Iskall's starter base", "icon": "etho-iskall.png"},
 				{ "pos": [725, 465, 75], "title": "False's starter base", "icon": "false.png" },
 				{ "pos": [560, 172, 70], "title": "Gemini's starter base", "icon": "gemini.png" },
-				{ "pos": [888, -700 64], "title": "Grian's starter base", "icon": "grian.png" },
+				{ "pos": [888, -700, 64], "title": "Grian's starter base", "icon": "grian.png" },
 				{ "pos": [1416, 1417, 64], "title": "Hypno's starter base", "icon": "hypno.png" },
 				{ "pos": [950, 500, 64], "title": "iJevin's starter base", "icon": "ijevin.png" },
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
