@@ -86,6 +86,8 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos": [1304, 47, 64], "title": "Tango's Honey Farm", "icon": "tango.png" },
+				{ "pos": [1007, 1242, 64], "title": "Joe and Cleo's Flower Stall", "icon": "cleo-joe.png" },
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
 
 			],
@@ -108,6 +110,8 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
+				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
 				{ "pos": [853, -714, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
@@ -133,6 +137,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
 				{ "pos": [829, -681, 64], "title": "Boatem Hole and Boatem Pole", "icon": "poi.png" },
+				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "poi.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix First Solution", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
