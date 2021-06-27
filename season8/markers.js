@@ -86,9 +86,9 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [1304, 47, 64], "title": "Tango's Honey Farm", "icon": "tango.png" },
 				{ "pos": [1007, 1242, 64], "title": "Joe and Cleo's Flower Stall", "icon": "cleo-joe.png" },
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
+				{ "pos": [1304, 47, 64], "title": "Tango's Honey Farm", "icon": "tango.png" },
 
 			],
 		},
@@ -111,10 +111,10 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
-				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
 				{ "pos": [853, -714, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
+				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
 			],
 		},
 	},
