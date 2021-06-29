@@ -143,7 +143,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
 				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
 				{ "pos": [950, 921, 64], "title": "Tango's Turtle Breeding Area", "icon": "tango.png" },
-
+				{ "pos": [1443, 762, 64], "title": "Deadman Bay named after Henry Deadman", "icon": "poi.png" },
 			],
 		},
 	},
