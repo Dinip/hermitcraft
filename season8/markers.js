@@ -115,6 +115,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
+				{ "pos": [827, -558, 64], "title": "iSOUR", "icon": "impulse.png" },
 			],
 		},
 	},
