@@ -110,7 +110,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
+				{ "pos": [867, -680, 64], "title": "The Grain Train", "icon": "grian.png" },
 				{ "pos": [853, -714, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
