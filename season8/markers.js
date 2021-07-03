@@ -110,17 +110,17 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
-				{ "pos": [853, -714, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
-				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
-				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
-				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
 				{ "pos": [950, -430, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [1073, 215, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [550, 240, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [130, 190, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [650, 650, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [1030, 1130, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
+				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
+				{ "pos": [853, -714, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
+				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
+				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
+				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
 			],
 		},
 	},
