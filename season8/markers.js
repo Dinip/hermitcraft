@@ -88,6 +88,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [1007, 1242, 64], "title": "Joe and Cleo's Flower Stall", "icon": "cleo-joe.png" },
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
+				{ "pos": [1800, 10, 64], "title": "Tango's Copper Farm", "icon": "tango.png" },
 				{ "pos": [1304, 47, 64], "title": "Tango's Honey Farm", "icon": "tango.png" },
 
 			],
@@ -122,6 +123,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1362, 129, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
 				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
+				{ "pos": [1655, 1505, 64], "title": "Glow Inc!", "icon": "xb.png" },
 			],
 		},
 	},
@@ -147,6 +149,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1443, 762, 64], "title": "Deadman Bay named after Henry Deadman", "icon": "poi.png" },
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "poi.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix First Solution", "icon": "poi.png" },
+				{ "pos": [540, 760, 21], "title": "Iskall's No Wing Club", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
 				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
