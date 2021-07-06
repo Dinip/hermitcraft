@@ -65,7 +65,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-
+				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" }
 			],
 		},
 	},
