@@ -87,8 +87,10 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
+				{ "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
 				{ "pos": [1800, 10, 64], "title": "Tango's Copper Farm", "icon": "tango.png" },
 				{ "pos": [1304, 47, 64], "title": "Tango's Honey Farm", "icon": "tango.png" },
+
 
 			],
 		},
