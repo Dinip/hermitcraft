@@ -88,6 +88,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
 				{ "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
