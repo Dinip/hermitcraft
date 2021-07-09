@@ -154,6 +154,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "poi.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix First Solution", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
+				{ "pos": [790, -740, 64], "title": "Tango's Bedrock Service", "icon": "tango.png" },
 			],
 		},
 	},
