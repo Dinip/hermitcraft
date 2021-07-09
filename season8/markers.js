@@ -120,7 +120,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [130, 190, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [650, 650, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [1030, 1130, 64], "title": "Big Eye Come On In and Buy!", "icon": "bigeye.png" },
-				{ "pos": [1007, 1242, 64], "title": "Joe and Cleo's Flower Stall", "icon": "cleo-joe.png" },				
+				{ "pos": [1007, 1242, 64], "title": "Joe's Flower Stall", "icon": "joe.png" },
 				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
 				{ "pos": [827, -558, 64], "title": "iSOAR", "icon": "impulse.png" },
 				{ "pos": [853, -714, 64], "title": "Mumbo's Potato Vending Machine", "icon": "mumbo.png" },
