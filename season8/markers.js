@@ -1,7 +1,7 @@
 //Please add markers in Alphabetical order, First .png file, after that marker name, so ZombieCleo is a C because her .png file is cleo.png.
 //Poi markers are on top. Ignore the names in ()
 
-//Empty format to Copy, Paste { "pos" : [X, Z, 64], "title" : "", "icon" : ".png" }, 
+//Empty format to Copy, Paste { "pos" : [X, Z, 64], "title" : "", "icon" : ".png" },
 
 var MAPCRAFTER_MARKERS = [
 
@@ -28,7 +28,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter bus", "icon": "doc-rendog.png"},
 				{ "pos": [523, 771, 154], "title": "Etho and Iskall's base", "icon": "etho-iskall.png"},
 				{ "pos": [725, 465, 75], "title": "False's starter base", "icon": "false.png" },
-				{ "pos": [560, 172, 70], "title": "Gemini's Cottage Core House", "icon": "gemini.png" },
+				{ "pos": [560, 172, 70], "title": "Gemini's Cottagecore House", "icon": "gemini.png" },
 				{ "pos": [888, -700, 64], "title": "Grian's starter base", "icon": "grian.png" },
 				{ "pos": [1416, 1417, 64], "title": "Hypno's starter base", "icon": "hypno.png" },
 				{ "pos": [950, 500, 64], "title": "iJevin's starter base", "icon": "ijevin.png" },
