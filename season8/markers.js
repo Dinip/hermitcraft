@@ -87,10 +87,12 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
 				{ "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
 				{ "pos": [1800, 10, 64], "title": "Tango's Copper Farm", "icon": "tango.png" },
 				{ "pos": [1304, 47, 64], "title": "Tango's Honey Farm", "icon": "tango.png" },
+				{ "pos": [950, 921, 64], "title": "Tango's Turtle Breeding Area", "icon": "tango.png" },
 			],
 		},
 	},
@@ -151,8 +153,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "poi.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix First Solution", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
-				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
-				{ "pos": [950, 921, 64], "title": "Tango's Turtle Breeding Area", "icon": "tango.png" },
 			],
 		},
 	},
