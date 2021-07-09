@@ -39,7 +39,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
 				{ "pos": [835, 95, 55], "title": "Stress' ravine", "icon": "stress.png" },
 				{ "pos": [1350, 80, 64], "title": "Tango's starter base", "icon": "tango.png" },
-				{ "pos": [1170, -864, 62], "title": "Tinfoil Chef's Tower", "icon": "tfc.png"},
+				{ "pos": [1230, -970, 64], "title": "Tinfoil Chef's Tower", "icon": "tfc.png"},
 				{ "pos": [-303, -310, 73], "title": "Welsknight's starter base", "icon": "wels.png" },
 				{ "pos": [1650, 1500, 70], "title": "xB's starter base", "icon": "xb.png" },
 				{ "pos": [1525, -275, 64], "title": "Xisuma's giant statue", "icon": "xisuma.png" },
