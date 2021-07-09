@@ -66,6 +66,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" },
+				{ "pos": [540, 760, 21], "title": "Iskall's No Wing Club", "icon": "iskall.png" },
 			],
 		},
 	},
@@ -151,7 +152,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1443, 762, 64], "title": "Deadman Bay named after Henry Deadman", "icon": "poi.png" },
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "poi.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix First Solution", "icon": "poi.png" },
-				{ "pos": [540, 760, 21], "title": "Iskall's No Wing Club", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
 				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
