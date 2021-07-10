@@ -66,7 +66,6 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" },
-				{ "pos": [860, -715, 64], "title": "TEGG", "icon": "grian.png" },
 				{ "pos": [540, 760, 121], "title": "Iskall's No Wings Club", "icon": "iskall.png" },
 			],
 		},
