@@ -22,7 +22,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [1465, 10, 73], "title": "Bdubs' Moon", "icon": "bdubs.png" },
-				{ "pos": [895, -30, 75], "title": "Beef's base", "icon": "beef.png" },
+				{ "pos": [895, -30, 75], "title": "The Prawn (Beef's base)", "icon": "beef.png" },
 				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "cleo-joe.png" },
 				{ "pos": [1175, -605, 64], "title": "Cub's starter hole", "icon": "cub.png" },
 				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter bus", "icon": "doc-rendog.png"},
