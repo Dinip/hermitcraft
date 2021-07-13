@@ -89,10 +89,10 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-        { "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
+				{ "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
 				{ "pos": [180, 555, 64], "title": "Etho's drowned farm", "icon": "etho.png" },
-        { "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
-        { "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
+				{ "pos": [975, -800, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
+				{ "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
 				{ "pos": [760, -1200, 64], "title": "Impulse's hostile mob farm", "icon": "grian.png" },
 				{ "pos": [-1240, 1050, 64], "title": "Stress's flower forest <3", "icon": "stress.png" },
 				{ "pos": [1304, 47, 64], "title": "Tango's honey farm", "icon": "tango.png" },
