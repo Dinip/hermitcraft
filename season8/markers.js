@@ -66,8 +66,9 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos": [1190, 510, 64], "title": "Horse Course", "icon": "bdubs-etho.png" },
 				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" },
-        { "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
+				{ "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
 				{ "pos": [540, 760, 121], "title": "Iskall's No Wings Club", "icon": "iskall.png" },
 			],
 		},
@@ -126,7 +127,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1030, 1130, 64], "title": "Big Eye Stop On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
 				{ "pos": [827, -558, 64], "title": "iSOAR", "icon": "impulse.png" },
-        { "pos": [1007, 1242, 64], "title": "Joe's Flower Stall", "icon": "joe.png" },
+				{ "pos": [1007, 1242, 64], "title": "Joe's Flower Stall", "icon": "joe.png" },
 				{ "pos": [853, -714, 64], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
 				{ "pos": [1362, 129, 64], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
