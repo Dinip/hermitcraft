@@ -66,10 +66,10 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-        { "pos": [-56, 466, 64], "title": "Yes Wings Club", "icon": "poi.png" },
 				{ "pos": [1190, 510, 64], "title": "Horse Course", "icon": "bdubs-etho.png" },
 				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" },
 				{ "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
+				{ "pos": [-56, 466, 64], "title": "Yes Wings Club", "icon": "impulse-wels.png" },
 				{ "pos": [540, 760, 121], "title": "Iskall's No Wings Club", "icon": "iskall.png" },
 			],
 		},
