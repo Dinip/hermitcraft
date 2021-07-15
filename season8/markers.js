@@ -67,7 +67,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" },
-        { "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
+				{ "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
 				{ "pos": [540, 760, 121], "title": "Iskall's No Wings Club", "icon": "iskall.png" },
 			],
 		},
@@ -89,11 +89,11 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-        { "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
+				{ "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
 				{ "pos": [180, 555, 64], "title": "Etho's drowned farm", "icon": "etho.png" },
-        { "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
-        { "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
-				{ "pos": [760, -1200, 64], "title": "Impulse's hostile mob farm", "icon": "grian.png" },
+				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
+				{ "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
+				{ "pos": [760, -1200, 64], "title": "Impulse's hostile mob farm", "icon": "impulse.png" },
 				{ "pos": [-1240, 1050, 64], "title": "Stress's flower forest <3", "icon": "stress.png" },
 				{ "pos": [1304, 47, 64], "title": "Tango's honey farm", "icon": "tango.png" },
 				{ "pos": [1800, 200, 64], "title": "Tango's copper farm", "icon": "tango.png" },
@@ -126,7 +126,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1030, 1130, 64], "title": "Big Eye Stop On In and Buy!", "icon": "bigeye.png" },
 				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
 				{ "pos": [827, -558, 64], "title": "iSOAR", "icon": "impulse.png" },
-        { "pos": [1007, 1242, 64], "title": "Joe's Flower Stall", "icon": "joe.png" },
+				{ "pos": [1007, 1242, 64], "title": "Joe's Flower Stall", "icon": "joe.png" },
 				{ "pos": [853, -714, 64], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
 				{ "pos": [1362, 129, 64], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
@@ -160,7 +160,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1534, -266, 21], "title": "Hermatrix first solution", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
-				{ "pos": [800, -650, 64], "title": "Tango's Cave of Temptations", "icon": "tango.png" },
 				{ "pos": [1225, 530, 64], "title": "Tango's horse breeding area", "icon": "tango.png" },
 				{ "pos": [950, 921, 64], "title": "Tango's turtle breeding area", "icon": "tango.png" },
 				{ "pos": [790, -740, 64], "title": "Tango's Bedrock Service", "icon": "tango.png" },
