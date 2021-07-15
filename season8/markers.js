@@ -97,7 +97,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1240, 1050, 64], "title": "Stress's flower forest <3", "icon": "stress.png" },
 				{ "pos": [1304, 47, 64], "title": "Tango's honey farm", "icon": "tango.png" },
 				{ "pos": [1800, 200, 64], "title": "Tango's copper farm", "icon": "tango.png" },
-				{ "pos": [-1570, -220, 64], "title": "Wels' sugarcane farm", "icon": "tango.png" },
+				{ "pos": [-1570, -220, 64], "title": "Wels' sugarcane farm", "icon": "wels.png" },
 			],
 		},
 	},
