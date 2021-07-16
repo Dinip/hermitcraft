@@ -153,12 +153,12 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [950, -430, 64], "title": "Big Eye Pass N' Gas", "icon": "bigeye.png" },
-				{ "pos": [1073, 215, 64], "title": "Big Eye Pass N' Gas", "icon": "bigeye.png" },
-				{ "pos": [550, 240, 64], "title": "Big Eye Pass N' Gas", "icon": "bigeye.png" },
-				{ "pos": [130, 190, 64], "title": "Big Eye Pass N' Gas", "icon": "bigeye.png" },
-				{ "pos": [650, 650, 64], "title": "Big Eye Pass N' Gas", "icon": "bigeye.png" },
-				{ "pos": [1030, 1130, 64], "title": "Big Eye Pass N' Gas", "icon": "bigeye.png" },
+				{ "pos": [950, -430, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
+				{ "pos": [1073, 215, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
+				{ "pos": [550, 240, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
+				{ "pos": [130, 190, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
+				{ "pos": [650, 650, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
+				{ "pos": [1030, 1130, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
 				
 				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
 				
