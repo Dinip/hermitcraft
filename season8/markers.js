@@ -166,11 +166,12 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [1007, 1242, 64], "title": "Joe's Flower Stall", "icon": "joe.png" },
 				
+				{ "pos": [805, -715, 64], "title": "Harmless Harvests", "icon": "mumbo.png" },
 				{ "pos": [853, -714, 64], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
 				{ "pos": [1362, 129, 64], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
 				{ "pos": [538, 781, 154], "title": "Potato Boy Tater Vendor", "icon": "mumbo.png" },
 				
-				{ "pos": [825, 132, 154], "title": "The Book Nook", "icon": "stress.png" }, 
+				{ "pos": [825, 132, 64], "title": "The Book Nook", "icon": "stress.png" }, 
 				
 				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
 				
