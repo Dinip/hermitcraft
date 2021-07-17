@@ -117,6 +117,8 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos": [1035, -1565, 64], "title": "Snow Bowl", "icon": "poi.png" },
+				
 				{ "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
 				
 				{ "pos": [180, 555, 64], "title": "Etho's drowned farm", "icon": "etho.png" },
