@@ -6,7 +6,7 @@ This repository contains the markers files used in Hermitcraft's [map renders](h
 
 1. Fork this repository
 
-2. Edit respective markers.js file. The format is the following `{"pos" : [X, Z, Y(if unknown set to 64)], "title" : "Marker Title Here", "icon" : "poi.png",`.
+2. Edit respective markers.js file. The format is the following `{ "pos": [X, Z, Y(if unknown set to 64)], "title": "Marker Title Here", "icon": "poi.png" },`.
 Default icon is `poi.png`, there are more icons available in icons folder and you can add more with 24x24 resolution. Markers are also divided by categories, if you want to rearrange those you can, just keep the file organized.
 
 3. After the changes are done **make a pull request**.
