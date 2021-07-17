@@ -21,9 +21,6 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [-1171, 61, 64], "title": "Keralis & Cleo's city (Originally just Keralis's)", "icon": "poi.png" },
-				{ "pos": [1598, 602, 64], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "poi.png" },
-				
 				{ "pos": [1495, -946, 64], "title": "Bdubs' base", "icon": "bdubs.png" },
 				{ "pos": [1787, -891, 64], "title": "Bdubs' clifftop castle", "icon": "bdubs.png" },
 				{ "pos": [1128, -798, 64], "title": "Orignial site of Bdubs' half-mansion", "icon": "bdubs.png" },
@@ -31,6 +28,9 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [190, -1323, 64], "title": "Three Fox Hole (Beef)", "icon": "beef.png" },
 				{ "pos": [-786, -291, 64], "title": "Beef's hacienda and village", "icon": "beef.png" },
 				{ "pos": [-5180, 54, 64], "title": "Beef's vacation home", "icon": "beef.png" },
+
+				{ "pos": [-1171, 61, 64], "title": "Keralis & Cleo's city (Originally just Keralis's)", "icon": "cleo-keralis.png" },
+				{ "pos": [1598, 602, 64], "title": "Cleo & Keralis's zoo (Originally just Cleo's)", "icon": "cleo-keralis.png" },
 
 				{ "pos": [616, 616, 64], "title": "Cub's Great Pyramid", "icon": "cub.png" },
 				{ "pos": [530, 455, 64], "title": "Cub's Pyramid", "icon": "cub.png" },
@@ -369,6 +369,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-44, -45, 64], "title": "Main Street", "icon": "poi.png" },
 				{ "pos": [-3057, -206, 64], "title": "2020 Christmas Advent Calender", "icon": "poi.png" },
 				{ "pos": [76, -148, 64], "title": "AqueTown Theater", "icon": "poi.png" },
+				{ "pos": [513, 1742, 86], "title": "End Portal", "icon": "poi.png" },
 
 				{ "pos": [422, -871, 64], "title": "False's St Jude monument", "icon": "false.png" },
 				{ "pos": [288, -96, 64], "title": "False for Mayor HQ", "icon": "false.png" },
