@@ -157,40 +157,41 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [-1337, -2530, 64], "title": "Impulse and Tango's wool farm", "icon": "poi.png" },
+				{ "pos": [-1354, -2524, 64], "title": "Impulse and Tango's wool farm", "icon": "poi.png" },
 				
 				{ "pos": [-3, 235, 64], "title": "Abandoned Building (Creeper farm)", "icon": "bdubs.png" },
 
-				{ "pos": [845, 1833, 64], "title": "Cub's Early Season Witch Farm", "icon": "cub.png" },
+				{ "pos": [2196, -685, 64], "title": "Cub's Early Season Witch Farm", "icon": "cub.png" },
 
-				{ "pos": [-2986, 318, 63], "title": "Etho's ice fortress", "icon": "etho.png" },
+				{ "pos": [-2980, 318, 63], "title": "Etho's ice fortress", "icon": "etho.png" },
 
 				{ "pos": [2275, -284, 64], "title": "Hypno's witch Farm", "icon": "hypno.png" },
 
-				{ "pos": [-3904, -2032, 64], "title": "Jevin's guardian Farm", "icon": "ijevin.png" },
-				{ "pos": [-1034, -2538, 64], "title": "Jevin's mob Farm", "icon": "ijevin.png" },
+				{ "pos": [-3905, -2033, 64], "title": "Jevin's guardian Farm", "icon": "ijevin.png" },
+				{ "pos": [-1034, -2553, 64], "title": "Jevin's mob Farm", "icon": "ijevin.png" },
 
-				{ "pos": [-1328, -1392, 64], "title": "Impulse's guardian farm", "icon": "impulse.png" },
-				{ "pos": [-2812, 950, 64], "title": "Impulse's ice farm", "icon": "impulse.png" },
-				{ "pos": [-3580, -820, 64], "title": "Impulse's industrial area", "icon": "impulse.png" },
+				{ "pos": [-1329, -1398, 64], "title": "Impulse's guardian farm", "icon": "impulse.png" },
+				{ "pos": [-2815, 962, 64], "title": "Impulse's ice farm", "icon": "impulse.png" },
+				{ "pos": [-3636, -815, 64], "title": "Impulse's industrial area", "icon": "impulse.png" },
 
-				{ "pos": [-3044, 1286, 64], "title": "Iskall's industrial district", "icon": "iskall.png" },
+				{ "pos": [-3073, 1279, 64], "title": "Iskall's industrial district", "icon": "iskall.png" },
 
-				{ "pos": [-3204, 1665, 64], "title": "Mumbo's industrial district", "icon": "mumbo.png" },
-				{ "pos": [-1976, 851, 64], "title": "Mumbo's villager district", "icon": "mumbo.png" },
+				{ "pos": [-3200, 1663, 64], "title": "Mumbo's industrial district", "icon": "mumbo.png" },
+				{ "pos": [-1976, 897, 64], "title": "Mumbo's villager district", "icon": "mumbo.png" },
 
-				{ "pos": [35, 546, 64], "title": "QuadraChopper and Bigger Logz Inc. Storage area", "icon": "rendog.png" },
-				{ "pos": [-351, 1035, 64], "title": "Rendogs Ink Farm", "icon": "rendog.png" },
+				{ "pos": [38, 608, 64], "title": "QuadraChopper and Bigger Logz Inc. Storage area", "icon": "rendog.png" },
+				{ "pos": [-345, 1021, 64], "title": "Rendogs Ink Farm", "icon": "rendog.png" },
 
-				{ "pos": [-4900, 1530, 64], "title": "Stress's industrial area", "icon": "stress.png" },
+				{ "pos": [-4887, 1527, 64], "title": "Stress's industrial area", "icon": "stress.png" },
 				{ "pos": [-4190, 1770, 64], "title": "Stress's ink farm", "icon": "stress.png" },
 
-				{ "pos": [-870, -790, 64], "title": "Wels' mob farm", "icon": "wels.png" },
+				{ "pos": [-868, -754, 64], "title": "Wels' mob farm", "icon": "wels.png" },
 
-				{ "pos": [-2980, -520, 64], "title": "Xisuma's farming village", "icon": "xisuma.png" },
-				{ "pos": [-5048, -3128, 64], "title": "Xisuma's ghast killing chamber", "icon": "xisuma.png" },
-				{ "pos": [-3560, -375, 64], "title": "Xisuma's wandering trader platform", "icon": "xisuma.png" },
-				{ "pos": [-4800, 310, 64], "title": "Xisuma's witch farm", "icon": "xisuma.png" },
+				{ "pos": [-2974, -485, 64], "title": "Xisuma's farming village", "icon": "xisuma.png" },
+				{ "pos": [-5028, -3124, 64], "title": "Xisuma's ghast killing chamber", "icon": "xisuma.png" },
+				{ "pos": [-562, -4349, 64], "title": "Xisuma's hoglin farm (overworld side)", "icon": "xisuma.png" },
+				{ "pos": [-3560, -371, 64], "title": "Xisuma's wandering trader platform", "icon": "xisuma.png" },
+				{ "pos": [-4797, 308, 64], "title": "Xisuma's witch farm", "icon": "xisuma.png" },
 			],
 		},
 	},
