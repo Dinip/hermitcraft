@@ -36,7 +36,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [530, 455, 64], "title": "Cub's Pyramid", "icon": "cub.png" },
 
 				{ "pos": [1130, -817, 64], "title": "Doc's Chateau", "icon": "doc.png" },
-				{ "pos": [906, -513, 120], "title": "Doc's Testificate Tower", "icon": "doc.png" },
+				{ "pos": [906, -513, 64], "title": "Doc's Testificate Tower", "icon": "doc.png" },
 
 				{ "pos": [-1365, -484, 64], "title": "Etho's Monstrosity", "icon": "etho.png" },
 
@@ -119,7 +119,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [1470, 1066, 64], "title": "Head Games arena", "icon": "cleo.png" },
 
-				{ "pos": [-2664, 247, 70], "title": "Hurtin' Hermits", "icon": "etho.png" },
+				{ "pos": [-2664, 247, 64], "title": "Hurtin' Hermits", "icon": "etho.png" },
 
 				{ "pos": [-1241, 1477, 64], "title": "Barge Quest puzzle box", "icon": "grian.png" },
 				{ "pos": [-2315, 1022, 64], "title": "Barge Quest trident course", "icon": "grian.png" },
@@ -161,14 +161,14 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-3, 235, 64], "title": "Abandoned Building (Creeper farm)", "icon": "bdubs.png" },
 
-				{ "pos": [845, 1833, 65], "title": "Cub's Early Season Witch Farm", "icon": "cub.png" },
+				{ "pos": [845, 1833, 64], "title": "Cub's Early Season Witch Farm", "icon": "cub.png" },
 
 				{ "pos": [-2986, 318, 63], "title": "Etho's ice fortress", "icon": "etho.png" },
 
 				{ "pos": [2275, -284, 64], "title": "Hypno's witch Farm", "icon": "hypno.png" },
 
 				{ "pos": [-3904, -2032, 64], "title": "Jevin's guardian Farm", "icon": "ijevin.png" },
-				{ "pos": [-1034, -2538, 128], "title": "Jevin's mob Farm", "icon": "ijevin.png" },
+				{ "pos": [-1034, -2538, 64], "title": "Jevin's mob Farm", "icon": "ijevin.png" },
 
 				{ "pos": [-1328, -1392, 64], "title": "Impulse's guardian farm", "icon": "impulse.png" },
 				{ "pos": [-2812, 950, 64], "title": "Impulse's ice farm", "icon": "impulse.png" },
@@ -211,97 +211,98 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [99, 28, 64], "title": "The Boomers (Bdubs, Impulse, Tango)", "icon": "poi.png" },
-				{ "pos": [-177, -4, 64], "title": "Color Complete (Impulse, Tango)", "icon": "poi.png" },
-				{ "pos": [-115, 80, 64], "title": "Concrete shop (Xisuma, Keralis)", "icon": "poi.png" },
-				{ "pos": [-140, -20, 64], "title": "Hermiton Herald (Cleo, Cub)", "icon": "poi.png" },
-				{ "pos": [-102, -38, 64], "title": "Lamps Plus (Impulse, Bdubs)", "icon": "poi.png" },
-				{ "pos": [-8, -64, 64], "title": "Little Etho's Little Music Box (Beef, Etho)", "icon": "poi.png" },
-				{ "pos": [237, 327, 64], "title": "Pacific (Iskall, Mumbo)", "icon": "poi.png" },
-				{ "pos": [-135, -50, 64], "title": "Red Zone (xB, Bdubs)", "icon": "poi.png" },
-				{ "pos": [5, -176, 64], "title": "AqueTown", "icon": "poi.png" },
+				{ "pos": [99, 22, 64], "title": "The Boomers (Bdubs, Impulse, Tango)", "icon": "poi.png" },
+				{ "pos": [-168, -4, 64], "title": "Color Complete (Impulse, Tango)", "icon": "poi.png" },
+				{ "pos": [-73, 81, 64], "title": "Concrete shop (Xisuma, Keralis)", "icon": "poi.png" },
+				{ "pos": [-143, -28, 64], "title": "Hermiton Herald (Cleo, Cub)", "icon": "poi.png" },
+				{ "pos": [-106, -42, 64], "title": "Lamps Plus (Impulse, Bdubs)", "icon": "poi.png" },
+				{ "pos": [-4, -54, 64], "title": "Little Etho's Little Music Box (Beef, Etho)", "icon": "poi.png" },
+				{ "pos": [234, 325, 64], "title": "Pacific (Iskall, Mumbo)", "icon": "poi.png" },
+				{ "pos": [-140, -60, 64], "title": "Red Zone (xB, Bdubs)", "icon": "poi.png" },
+				{ "pos": [24, -201, 64], "title": "AqueTown", "icon": "poi.png" },
 
-				{ "pos": [99, 0, 64], "title": "Unused Concrete shop", "icon": "bdubs.png" },
-				{ "pos": [99, 16, 64], "title": "Stargazers", "icon": "bdubs.png" },
-				{ "pos": [12, -215, 64], "title": "Snips (Dr. Renstines Office on second floor)", "icon": "bdubs.png" },
-				{ "pos": [9, -235, 64], "title": "TNT Shop", "icon": "bdubs.png" },
-				{ "pos": [-20, -235, 64], "title": "Wool Shop", "icon": "bdubs.png" },
-				{ "pos": [-15, -165, 64], "title": "BDubs' Perfect Realty", "icon": "bdubs.png" },
+				{ "pos": [100, -18, 64], "title": "Unused Concrete shop", "icon": "bdubs.png" },
+				{ "pos": [100, 15, 64], "title": "Stargazers", "icon": "bdubs.png" },
+				{ "pos": [11, -218, 64], "title": "Snips (Dr. Renstines Office on second floor)", "icon": "bdubs.png" },
+				{ "pos": [11, -232, 64], "title": "TNT Shop", "icon": "bdubs.png" },
+				{ "pos": [-14, -231, 64], "title": "Wool Shop", "icon": "bdubs.png" },
+				{ "pos": [-9, -170, 64], "title": "BDubs' Perfect Realty", "icon": "bdubs.png" },
 				
-				{ "pos": [-8, -81, 64], "title": "Beefy 2ns", "icon": "beef.png" },
-				{ "pos": [2, -30, 64], "title": "Bone Zone", "icon": "beef.png" },
-				{ "pos": [40, -67, 64], "title": "Podzol Plus", "icon": "beef.png" },
-				{ "pos": [16, -77, 64], "title": "The Spitz", "icon": "beef.png" },
-				{ "pos": [30, -100, 64], "title": "Wallpaper Shop", "icon": "beef.png" },
+				{ "pos": [-5, -73, 64], "title": "Beefy 2ns", "icon": "beef.png" },
+				{ "pos": [4, -36, 64], "title": "Bone Zone", "icon": "beef.png" },
+				{ "pos": [39, -62, 64], "title": "Podzol Plus", "icon": "beef.png" },
+				{ "pos": [12, -76, 64], "title": "The Spitz", "icon": "beef.png" },
+				{ "pos": [30, -98, 64], "title": "Wallpaper Shop", "icon": "beef.png" },
 
-				{ "pos": [51, 1, 65], "title": "Kick the Puppet (Zombie Cleo's Armor stand shop)", "icon": "cleo.png" },
+				{ "pos": [49, -8, 64], "title": "Kick the Puppet (Zombie Cleo's Armor stand shop)", "icon": "cleo.png" },
 
-				{ "pos": [-3, 4, 64], "title": "Origin", "icon": "cub.png" },
-				{ "pos": [17, 8, 64], "title": "Cinnabun", "icon": "cub.png" },
-				{ "pos": [11, -117, 64], "title": "Gold Rush", "icon": "cub.png" },
+				{ "pos": [-1, -1, 64], "title": "Origin", "icon": "cub.png" },
+				{ "pos": [27, 10, 64], "title": "Cinnabun", "icon": "cub.png" },
+				{ "pos": [13, -116, 64], "title": "Gold Rush", "icon": "cub.png" },
 
-				{ "pos": [-16, -25, 64], "title": "Five Goats", "icon": "doc.png" },
+				{ "pos": [-18, -32, 64], "title": "Five Goats", "icon": "doc.png" },
 
-				{ "pos": [103, 50, 64], "title": "Ice-E-E's", "icon": "etho.png" },
-				{ "pos": [150, 100, 64], "title": "Shade-E-E's", "icon": "etho.png" },
-				{ "pos": [210, 57, 64], "title": "Brain-E-E's", "icon": "etho.png" },
-				{ "pos": [12, -200, 64], "title": "Order-Lee-E's", "icon": "etho.png" },
+				{ "pos": [102, 81, 64], "title": "Ice-E-E's", "icon": "etho.png" },
+				{ "pos": [153, 113, 64], "title": "Shade-E-E's", "icon": "etho.png" },
+				{ "pos": [210, 67, 64], "title": "Brain-E-E's", "icon": "etho.png" },
+				{ "pos": [12, -210, 64], "title": "Order-Lee-E's", "icon": "etho.png" },
 
-				{ "pos": [140, -35, 64], "title": "End & Nether Shop", "icon": "false.png" },
-				{ "pos": [70, 150, 64], "title": "Terracotta Cove", "icon": "false.png" },
-				{ "pos": [192, -18, 64], "title": "Wishing Well", "icon": "false.png" },
+				{ "pos": [141, -91, 64], "title": "The Warped Realm (End & Nether Shop)", "icon": "false.png" },
+				{ "pos": [59, 162, 64], "title": "Terracotta Cove", "icon": "false.png" },
+				{ "pos": [191, -19, 64], "title": "Wishing Well", "icon": "false.png" },
 
-				{ "pos": [-80, 0, 64], "title": "The Barge", "icon": "grian.png" },
-				{ "pos": [80, -35, 64], "title": "Jrumbot", "icon": "grian.png" },
+				{ "pos": [-74, 0, 64], "title": "The Barge", "icon": "grian.png" },
+				{ "pos": [76, -47, 64], "title": "Jrumbot", "icon": "grian.png" },
 				
+				{ "pos": [84, 15, 64], "title": "The Diamond Store", "icon": "hypno.png" },
+				{ "pos": [79, 70, 64], "title": "Trident shop", "icon": "hypno.png" },
 
-				{ "pos": [84, 16, 64], "title": "The Diamond Store", "icon": "hypno.png" },
+				{ "pos": [47, -29, 64], "title": "Sky Zone (Elytra Shop)", "icon": "ijevin.png" },
+				{ "pos": [-20, 112, 64], "title": "Spongebot Sponge Emporium", "icon": "ijevin.png" },
+				{ "pos": [-36,18, 64], "title": "TNT shop", "icon": "ijevin.png" },
+				{ "pos": [1114, 28, 64], "title": "Trader Jev's", "icon": "ijevin.png" },
+				{ "pos": [-33, 160, 64], "title": "Wither Shop", "icon": "ijevin.png" },
 
-				{ "pos": [49, -28, 64], "title": "Sky Zone Elytra Shop", "icon": "ijevin.png" },
-				{ "pos": [-25, 125, 64], "title": "Spongebot Sponge Emporium", "icon": "ijevin.png" },
-				{ "pos": [-38, 13, 64], "title": "TNT shop", "icon": "ijevin.png" },
-				{ "pos": [112, 28, 64], "title": "Trader Jev's", "icon": "ijevin.png" },
-				{ "pos": [-30, 150, 64], "title": "Wither Shop", "icon": "ijevin.png" },
-
-				{ "pos": [22, -28, 64], "title": "Em and Em's Emporium", "icon": "impulse.png" },
-				{ "pos": [-19, -215, 64], "title": "50 Shades Tower (Office of the BOVE)", "icon": "impulse.png" },
+				{ "pos": [28, -31, 64], "title": "Em and Em's Emporium", "icon": "impulse.png" },
+				{ "pos": [-12, -214, 64], "title": "50 Shades Tower (Office of the BOVE)", "icon": "impulse.png" },
 				
-				{ "pos": [20, 60, 64], "title": "Omega Store", "icon": "iskall.png" },
-				{ "pos": [40, 40, 64], "title": "Slime Shop", "icon": "iskall.png" },
+				{ "pos": [25, 62, 64], "title": "Omega Store", "icon": "iskall.png" },
+				{ "pos": [40, 38, 64], "title": "Slime Shop", "icon": "iskall.png" },
 
-				{ "pos": [88, 50, 64], "title": "Lookie Lookie at my Bookie", "icon": "keralis.png" },
-				{ "pos": [73, 55, 64], "title": "Lookie Lookie at my Cookie", "icon": "keralis.png" },
+				{ "pos": [81, 79, 64], "title": "Lookie Lookie at my Bookie", "icon": "keralis.png" },
+				{ "pos": [69, 73, 64], "title": "Lookie Lookie at my Cookie", "icon": "keralis.png" },
+				{ "pos": [-13, -190, 64], "title": "Lookie Lookie at my Bookie v2", "icon": "keralis.png" },
 
-				{ "pos": [104, 84, 64], "title": "Industrial Day Pass store", "icon": "mumbo.png" },
-				{ "pos": [66, 96, 64], "title": "ODEA", "icon": "mumbo.png" },
+				{ "pos": [103, 93, 64], "title": "Industrial Day Pass store", "icon": "mumbo.png" },
+				{ "pos": [71, 97, 64], "title": "ODEA", "icon": "mumbo.png" },
+
+				{ "pos": [19, 182, 64], "title": "Bigger Logz, Inc.", "icon": "rendog.png" },
+
+				{ "pos": [150, 13, 64], "title": "The Chest Monster Shop", "icon": "scar.png" },
+				{ "pos": [-89, 174, 64], "title": "The Little Shop of Scars", "icon": "scar.png" },
+				{ "pos": [76, -225, 64], "title": "Threads By Scarra", "icon": "scar.png" },
+				{ "pos": [-41, -176, 64], "title": "MooPop Cafe", "icon": "scar.png" },
+				{ "pos": [7, -170, 64], "title": "Good Times Realty", "icon": "scar.png" },
+
+				{ "pos": [79, -16, 64], "title": "Glass shop", "icon": "stress.png" },
+				{ "pos": [33, 107, 64], "title": "Monster's Brew", "icon": "stress.png" },
+
+				{ "pos": [-37, 193, 64], "title": "The Iron Works", "icon": "tango.png" },
+				{ "pos": [-54, 119, 64], "title": "Warped Crimson", "icon": "tango.png" },
+				{ "pos": [-55, 47, 64], "title": "PyroTEKnics", "icon": "tango.png" },
+
+				{ "pos": [-118, -64, 64], "title": "Junk 4 Junk ", "icon": "xb.png" },
+
+				{ "pos": [-101, 48, 64], "title": "Rocks Shop", "icon": "xisuma.png" },
+				{ "pos": [-163, 31, 64], "title": "The Block Exchange", "icon": "xisuma.png" },
+				{ "pos": [-97, 60, 64], "title": "Honey Pot (Bee Shop)", "icon": "xisuma.png" },
+				{ "pos": [-184, 101, 64], "title": "Ender Crystal Shop", "icon": "xisuma.png" },
+				{ "pos": [-151, 93, 64], "title": "Blackstone Shop", "icon": "xisuma.png" },
+				{ "pos": [-41, -235, 64], "title": "Brick and Morty", "icon": "xisuma.png" },
+				{ "pos": [-42, -217, 64], "title": "Flower Shop", "icon": "xisuma.png" },
+				{ "pos": [-65, -208, 64], "title": "Aquarium Shop", "icon": "xisuma.png" },
 				
-				{ "pos": [20, 180, 64], "title": "Bigger Logz, Inc.", "icon": "rendog.png" },
-
-				{ "pos": [152, 16, 64], "title": "The Chest Monster Shop", "icon": "scar.png" },
-				{ "pos": [-115, 180, 64], "title": "The Little Shop of Scars", "icon": "scar.png" },
-				{ "pos": [70, -210, 64], "title": "Threads By Scarra", "icon": "scar.png" },
-				{ "pos": [-55, -165, 64], "title": "Moopop Cafe", "icon": "scar.png" },
-				{ "pos": [-10, -165, 64], "title": "Good Times Realty", "icon": "scar.png" },
-
-				{ "pos": [84, -16, 64], "title": "Glass shop", "icon": "stress.png" },
-				{ "pos": [27, 116, 64], "title": "Monster's Brew", "icon": "stress.png" },
-
-				{ "pos": [-30, 190, 64], "title": "The Iron Works", "icon": "tango.png" },
-				{ "pos": [-55, 123, 64], "title": "Warped Crimson", "icon": "tango.png" },
-				{ "pos": [-48, 48, 64], "title": "PyroTEKnics", "icon": "tango.png" },
-
-				{ "pos": [-114, -61, 64], "title": "Junk 4 Junk ", "icon": "xb.png" },
-
-				{ "pos": [-98, 60, 64], "title": "Rocks Shop", "icon": "xisuma.png" },
-				{ "pos": [-180, 40, 64], "title": "The Block Exchange", "icon": "xisuma.png" },
-				{ "pos": [-93, 60, 64], "title": "Honey Pot (Bee Shop)", "icon": "xisuma.png" },
-				{ "pos": [-183, 108, 64], "title": "Ender Crystal Shop", "icon": "xisuma.png" },
-				{ "pos": [-135, 56, 64], "title": "Blackstone Shop", "icon": "xisuma.png" },
-				{ "pos": [-45, -235, 64], "title": "Brick and Morty", "icon": "xisuma.png" },
-				{ "pos": [-45, -210, 64], "title": "Flower Shop", "icon": "xisuma.png" },
-				{ "pos": [-55, -210, 64], "title": "Aquarium Shop", "icon": "xisuma.png" },
-				
-				{ "pos": [-106, -25, 64], "title": "Zed's Zouchers", "icon": "zedaph.png" },
+				{ "pos": [-109, -29, 64], "title": "Zed's Zouchers", "icon": "zedaph.png" },
 			],
 		},
 	},
@@ -385,8 +386,8 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-344, 205, 64], "title": "Get Gorgeous campaign HQ", "icon": "stress.png" },
 
-				{ "pos": [-1406, 246, 72], "title": "The Brewery", "icon": "xisuma.png" },
-				{ "pos": [-1343, -40, 69], "title": "Xisuma's Museum", "icon": "xisuma.png" },
+				{ "pos": [-1406, 246, 64], "title": "The Brewery", "icon": "xisuma.png" },
+				{ "pos": [-1343, -40, 64], "title": "Xisuma's Museum", "icon": "xisuma.png" },
 			],
 		},
 	},
