@@ -72,7 +72,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-1358, 815, 64], "title": "Scar's Cursed Nether Portal", "icon": "scar.png" },
 				{ "pos": [-1293, 825, 64], "title": "Scar's Magical village", "icon": "scar.png" },
-				{ "pos": [-1662, 177, 64], "title": "ScarX (Scar)", "icon": "scar.png" },
+				{ "pos": [-1663, 689, 64], "title": "ScarX (Scar)", "icon": "scar.png" },
 
 				{ "pos": [-963, 802, 64], "title": "Stress's rainbow jungle", "icon": "stress.png" },
 
@@ -113,7 +113,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [138, -828, 64], "title": "Tango & Zedaph's Build Battle", "icon": "poi.png" },
 				{ "pos": [-2284, -246, 64], "title": "The Netherlands", "icon": "poi.png" },
 				{ "pos": [-15, 411, 64], "title": "Turf War finale minigames", "icon": "poi.png" },
-				{ "pos": [-7, 72, 64], "title": "Impulse and Tango Halloween store", "icon": "poi.png" },
+				{ "pos": [-7, 56, 64], "title": "Impulse and Tango's Trick-or-Treat House", "icon": "poi.png" },
 
 				{ "pos": [-149, -90, 64], "title": "Turf Time", "icon": "bdubs.png" },
 
@@ -131,7 +131,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-10, 82, 64], "title": "HWF Arena", "icon": "rendog.png" },
 
-				{ "pos": [45, 144, 64], "title": "Frankenstein's Monster", "icon": "stress.png" },
+				{ "pos": [5, 115, 64], "title": "Frankenstein's Monster", "icon": "stress.png" },
 				{ "pos": [-4339, 1594, 64], "title": "Stressed Out", "icon": "stress.png" },
 
 				{ "pos": [-222, -4, 64], "title": "Decked Out", "icon": "tango.png" },
@@ -159,7 +159,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [-1354, -2524, 64], "title": "Impulse and Tango's wool farm", "icon": "poi.png" },
 				
-				{ "pos": [-3, 235, 64], "title": "Abandoned Building (Creeper farm)", "icon": "bdubs.png" },
+				{ "pos": [-2, -231, 64], "title": "Abandoned Building (Creeper farm)", "icon": "bdubs.png" },
 
 				{ "pos": [2196, -685, 64], "title": "Cub's Early Season Witch Farm", "icon": "cub.png" },
 
@@ -243,12 +243,12 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-18, -32, 64], "title": "Five Goats", "icon": "doc.png" },
 
-				{ "pos": [102, 81, 64], "title": "Ice-E-E's", "icon": "etho.png" },
+				{ "pos": [102, 50, 64], "title": "Ice-E-E's", "icon": "etho.png" },
 				{ "pos": [153, 113, 64], "title": "Shade-E-E's", "icon": "etho.png" },
 				{ "pos": [210, 67, 64], "title": "Brain-E-E's", "icon": "etho.png" },
 				{ "pos": [12, -210, 64], "title": "Order-Lee-E's", "icon": "etho.png" },
 
-				{ "pos": [141, -91, 64], "title": "The Warped Realm (End & Nether Shop)", "icon": "false.png" },
+				{ "pos": [141, -31, 64], "title": "The Warped Realm (End & Nether Shop)", "icon": "false.png" },
 				{ "pos": [59, 162, 64], "title": "Terracotta Cove", "icon": "false.png" },
 				{ "pos": [191, -19, 64], "title": "Wishing Well", "icon": "false.png" },
 
@@ -256,12 +256,12 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [76, -47, 64], "title": "Jrumbot", "icon": "grian.png" },
 				
 				{ "pos": [84, 15, 64], "title": "The Diamond Store", "icon": "hypno.png" },
-				{ "pos": [79, 70, 64], "title": "Trident shop", "icon": "hypno.png" },
+				{ "pos": [79, -3, 64], "title": "Trident shop", "icon": "hypno.png" },
 
 				{ "pos": [47, -29, 64], "title": "Sky Zone (Elytra Shop)", "icon": "ijevin.png" },
 				{ "pos": [-20, 112, 64], "title": "Spongebot Sponge Emporium", "icon": "ijevin.png" },
 				{ "pos": [-36,18, 64], "title": "TNT shop", "icon": "ijevin.png" },
-				{ "pos": [1114, 28, 64], "title": "Trader Jev's", "icon": "ijevin.png" },
+				{ "pos": [114, 28, 64], "title": "Trader Jev's", "icon": "ijevin.png" },
 				{ "pos": [-33, 160, 64], "title": "Wither Shop", "icon": "ijevin.png" },
 
 				{ "pos": [28, -31, 64], "title": "Em and Em's Emporium", "icon": "impulse.png" },
@@ -270,8 +270,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [25, 62, 64], "title": "Omega Store", "icon": "iskall.png" },
 				{ "pos": [40, 38, 64], "title": "Slime Shop", "icon": "iskall.png" },
 
-				{ "pos": [81, 79, 64], "title": "Lookie Lookie at my Bookie", "icon": "keralis.png" },
-				{ "pos": [69, 73, 64], "title": "Lookie Lookie at my Cookie", "icon": "keralis.png" },
+				{ "pos": [76, 51, 64], "title": "Lookie Lookie at my Bookie", "icon": "keralis.png" },
+				{ "pos": [69, 62, 64], "title": "Lookie Lookie at my Cookie", "icon": "keralis.png" },
 				{ "pos": [-13, -190, 64], "title": "Lookie Lookie at my Bookie v2", "icon": "keralis.png" },
 
 				{ "pos": [103, 93, 64], "title": "Industrial Day Pass store", "icon": "mumbo.png" },
@@ -298,7 +298,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-163, 31, 64], "title": "The Block Exchange", "icon": "xisuma.png" },
 				{ "pos": [-97, 60, 64], "title": "Honey Pot (Bee Shop)", "icon": "xisuma.png" },
 				{ "pos": [-184, 101, 64], "title": "Ender Crystal Shop", "icon": "xisuma.png" },
-				{ "pos": [-151, 93, 64], "title": "Blackstone Shop", "icon": "xisuma.png" },
+				{ "pos": [-151, 39, 64], "title": "Blackstone Shop", "icon": "xisuma.png" },
 				{ "pos": [-41, -235, 64], "title": "Brick and Morty", "icon": "xisuma.png" },
 				{ "pos": [-42, -217, 64], "title": "Flower Shop", "icon": "xisuma.png" },
 				{ "pos": [-65, -208, 64], "title": "Aquarium Shop", "icon": "xisuma.png" },
@@ -327,7 +327,7 @@ var MAPCRAFTER_MARKERS = [
 				//HEP (Grass)
 				{ "pos": [-280, -86, 64], "title": "HEP Factory", "icon": "grass.png" },
 				{ "pos": [-266, 61, 64], "title": "HEP Laser Drill", "icon": "grass.png" },
-				{ "pos": [-130, -142, 64], "title": "HEP HQ", "icon": "grass.png" },
+				{ "pos": [-130, -127, 64], "title": "HEP HQ", "icon": "grass.png" },
 				{ "pos": [-103, -86, 64], "title": "HEP Training Area", "icon": "grass.png" },
 
 				//Mycelium Resistance
@@ -358,13 +358,13 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
-				{ "pos": [-6065, -141, 64], "title": "Christmas District", "icon": "poi.png" },
+				{ "pos": [-3065, -141, 64], "title": "Christmas District", "icon": "poi.png" },
 				{ "pos": [-1794, 2814, 64], "title": "Get Gorgeous Map", "icon": "poi.png" },
 				{ "pos": [2122, 2368, 64], "title": "Map District", "icon": "poi.png" },
 				{ "pos": [-368, 33, 64], "title": "Mumbo for Mayor HQ/Grumbot", "icon": "poi.png" },
 				{ "pos": [256, 187, 64], "title": "Spawn", "icon": "poi.png" },
 				{ "pos": [-45, -86, 64], "title": "Town Hall", "icon": "poi.png" },
-				{ "pos": [-95, -99, 64], "title": "Mt. Scarmore", "icon": "poi.png" },
+				{ "pos": [-97, -121, 64], "title": "Mt. Scarmore", "icon": "poi.png" },
 				{ "pos": [-3363, -1726, 64], "title": "Iskall and Impulse's secret doomsday bunker", "icon": "poi.png" },
 				{ "pos": [-44, -45, 64], "title": "Main Street", "icon": "poi.png" },
 				{ "pos": [-3057, -206, 64], "title": "2020 Christmas Advent Calender", "icon": "poi.png" },
