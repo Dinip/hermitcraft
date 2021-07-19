@@ -178,6 +178,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1352, 83, 64], "title": "Copper n Candles", "icon": "tango.png" },
 				
 				{ "pos": [1655, 1505, 64], "title": "Glow Inc!", "icon": "xb.png" },
+				
+				{ "pos": [1275, -255, 64], "title": "The Evil Emporium", "icon": "xisuma.png" },
 			],
 		},
 	},
