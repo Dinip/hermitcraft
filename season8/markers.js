@@ -38,16 +38,19 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [560, 172, 70], "title": "Gemini's Cottagecore House", "icon": "gemini.png" },
 				
 				{ "pos": [888, -700, 64], "title": "Grian's starter base", "icon": "grian.png" },
+				{ "pos": [965, -820, 64], "title": "Grian's Diagon Alley-inspired base", "icon": "grian.png" },
 				
 				{ "pos": [1416, 1417, 64], "title": "Hypno's starter base", "icon": "hypno.png" },
 				
 				{ "pos": [950, 500, 64], "title": "iJevin's starter base", "icon": "ijevin.png" },
 				
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
+				{ "pos": [810, -700, 64], "title": "Impulse's mega base", "icon": "impulse.png" },
 				
 				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
 				
 				{ "pos": [835, -715, 64], "title": "Mumbo's tiny house/Treesa", "icon": "mumbo.png" },
+				{ "pos": [850, -860, 64], "title": "Mumbo's Sustainable Utopia", "icon": "mumbo.png" },
 				
 				{ "pos": [850, -622, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
 				
@@ -129,6 +132,8 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [760, -1200, 64], "title": "Impulse's hostile mob farm", "icon": "impulse.png" },
 				
+				{ "pos": [128, 1232, 64], "title": "Iskall's guardian farm", "icon": "iskall.png" },
+				
 				{ "pos": [-1240, 1050, 64], "title": "Stress's flower forest <3", "icon": "stress.png" },
 				
 				{ "pos": [1304, 47, 64], "title": "Tango's honey farm", "icon": "tango.png" },
@@ -162,7 +167,10 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [650, 650, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
 				{ "pos": [1030, 1130, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
 				
-				{ "pos": [867, -680, 64], "title": "The Grian Train", "icon": "grian.png" },
+				{ "pos": [-4930, -290, 64], "title": "RenDoc Industrial District", "icon": "doc-rendog.png" },
+				
+				{ "pos": [867, -680, 64], "title": "The Original G-Train", "icon": "grian.png" },
+				{ "pos": [955, -745, 64], "title": "The G-Train", "icon": "grian.png" },
 				
 				{ "pos": [827, -558, 64], "title": "iSOAR", "icon": "impulse.png" },
 				
@@ -204,6 +212,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [829, -681, 64], "title": "Boatem Pole and Boatem Hole", "icon": "poi.png" },
 				{ "pos": [1443, 762, 64], "title": "Deadman Bay named after Henry Deadman", "icon": "poi.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix first solution", "icon": "poi.png" },
+				{ "pos": [-1546, -2548, 64], "title": "Hermatrix \"L\" book coords", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "doc-rendog.png" },
