@@ -27,7 +27,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "cleo-joe.png" },
 				
-				{ "pos": [1175, -605, 64], "title": "Cub's starter hole", "icon": "cub.png" },
+				{ "pos": [1175, -605, 64], "title": "Cub's Dripstone Canyon", "icon": "cub.png" },
 				
 				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter bus", "icon": "doc-rendog.png"},
 				
@@ -45,7 +45,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [950, 500, 64], "title": "iJevin's starter base", "icon": "ijevin.png" },
 				
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
-				{ "pos": [810, -700, 64], "title": "Impulse's mega base", "icon": "impulse.png" },
+				{ "pos": [710, -800, 64], "title": "Impulse's Factory", "icon": "impulse.png" },
 				
 				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
 				
@@ -123,6 +123,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1035, -1565, 64], "title": "Snow Bowl", "icon": "poi.png" },
 				
 				{ "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
+				
+				{ "pos": [55, -290, 64], "title": "Doc's Shulker Farm (overworld side)", "icon": "doc.png" },
 				
 				{ "pos": [180, 555, 64], "title": "Etho's drowned farm", "icon": "etho.png" },
 				
