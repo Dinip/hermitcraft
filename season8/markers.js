@@ -67,7 +67,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1650, 1500, 70], "title": "xB's starter base", "icon": "xb.png" },
 				
 				{ "pos": [1300, -310, 90], "title": "EvilXisuma's Tower of Terror", "icon": "xisuma.png" },
-				{ "pos": [1525, -275, 64], "title": "Xisuma's giant statue", "icon": "xisuma.png" },
 				{ "pos": [1590, -265, 75], "title": "Xisuma's starter base", "icon": "xisuma.png" },
 				
 				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" },
@@ -141,7 +140,9 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1304, 47, 64], "title": "Tango's honey farm", "icon": "tango.png" },
 				{ "pos": [1800, 200, 64], "title": "Tango's copper farm", "icon": "tango.png" },
 				
-				{ "pos": [-1570, -220, 64], "title": "Wels' sugarcane farm", "icon": "wels.png" },
+				{ "pos": [-1570, -220, 64], "title": "Wels's sugarcane farm", "icon": "wels.png" },
+				
+				{ "pos": [-760, -2264, 64], "title": "X's witch farm", "icon": "xisuma.png" },
 			],
 		},
 	},
