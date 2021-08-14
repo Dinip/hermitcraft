@@ -27,7 +27,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [943, 1312, 82], "title": "Cleo and Joe's base", "icon": "cleo-joe.png" },
 				
-				{ "pos": [1175, -605, 64], "title": "Cub's starter hole", "icon": "cub.png" },
+				{ "pos": [1175, -605, 64], "title": "Cub's Dripstone Canyon", "icon": "cub.png" },
 				
 				{ "pos": [425, -130, 64], "title": "Doc and Ren's starter bus", "icon": "doc-rendog.png"},
 				
@@ -45,7 +45,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [950, 500, 64], "title": "iJevin's starter base", "icon": "ijevin.png" },
 				
 				{ "pos": [810, -700, 64], "title": "Impulse's starter base", "icon": "impulse.png" },
-				{ "pos": [810, -700, 64], "title": "Impulse's mega base", "icon": "impulse.png" },
+				{ "pos": [710, -800, 64], "title": "Impulse's Factory", "icon": "impulse.png" },
 				
 				{ "pos": [1475, 175, 64], "title": "Keralis' island", "icon": "keralis.png" },
 				
@@ -67,7 +67,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1650, 1500, 70], "title": "xB's starter base", "icon": "xb.png" },
 				
 				{ "pos": [1300, -310, 90], "title": "EvilXisuma's Tower of Terror", "icon": "xisuma.png" },
-				{ "pos": [1525, -275, 64], "title": "Xisuma's giant statue", "icon": "xisuma.png" },
 				{ "pos": [1590, -265, 75], "title": "Xisuma's starter base", "icon": "xisuma.png" },
 				
 				{ "pos": [1750, 625, 80], "title": "Zedaph's laboratory", "icon": "zedaph.png" },
@@ -124,6 +123,8 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
 				
+				{ "pos": [55, -290, 64], "title": "Doc's Shulker Farm (overworld side)", "icon": "doc.png" },
+				
 				{ "pos": [180, 555, 64], "title": "Etho's drowned farm", "icon": "etho.png" },
 				
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
@@ -139,7 +140,9 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1304, 47, 64], "title": "Tango's honey farm", "icon": "tango.png" },
 				{ "pos": [1800, 200, 64], "title": "Tango's copper farm", "icon": "tango.png" },
 				
-				{ "pos": [-1570, -220, 64], "title": "Wels' sugarcane farm", "icon": "wels.png" },
+				{ "pos": [-1570, -220, 64], "title": "Wels's sugarcane farm", "icon": "wels.png" },
+				
+				{ "pos": [-760, -2264, 64], "title": "X's witch farm", "icon": "xisuma.png" },
 			],
 		},
 	},
