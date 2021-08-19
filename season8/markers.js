@@ -125,6 +125,8 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [55, -290, 64], "title": "Doc's Shulker Farm (overworld side)", "icon": "doc.png" },
 				
+				{ "pos": [-4930, -290, 64], "title": "RenDoc Industrial District", "icon": "doc-rendog.png" },
+				
 				{ "pos": [180, 555, 64], "title": "Etho's drowned farm", "icon": "etho.png" },
 				
 				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
@@ -170,7 +172,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [650, 650, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
 				{ "pos": [1030, 1130, 64], "title": "Big Eyes Pass N' Gas", "icon": "bigeye.png" },
 				
-				{ "pos": [-4930, -290, 64], "title": "RenDoc Industrial District", "icon": "doc-rendog.png" },
+				{ "pos": [500, -480, 64], "title": "Octagon Inc. Island", "icon": "doc-rendog.png" },
 				
 				{ "pos": [867, -680, 64], "title": "The Original G-Train", "icon": "grian.png" },
 				{ "pos": [955, -745, 64], "title": "The G-Train", "icon": "grian.png" },
