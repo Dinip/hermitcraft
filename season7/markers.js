@@ -390,6 +390,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-1406, 246, 64], "title": "The Brewery", "icon": "xisuma.png" },
 				{ "pos": [-1343, -40, 64], "title": "Xisuma's Museum", "icon": "xisuma.png" },
+				{ "pos": [-28, 11, 64], "title": "HermitCraft Big Base Swap", "icon": "poi.png" },
 			],
 		},
 	},
