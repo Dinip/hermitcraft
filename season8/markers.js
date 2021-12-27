@@ -53,10 +53,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [850, -860, 64], "title": "Mumbo's Sustainable Utopia", "icon": "mumbo.png" },
 				
 				{ "pos": [850, -622, 64], "title": "Pearl's starter base", "icon": "pearl.png" },
-				{ "pos": [1030, -760, 64], "title": "Pearl's mountains", "icon": "pearl.png" },
 				
 				{ "pos": [900, -630, 64], "title": "Scar's starter base", "icon": "scar.png" },
-				{ "pos": [990, -815, 64], "title": "Scar's snow-capped peaks", "icon": "scar.png" },
 				
 				{ "pos": [835, 101, 55], "title": "Stress' ravine", "icon": "stress.png" },
 				
@@ -230,6 +228,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1225, 530, 64], "title": "Tango's horse breeding area", "icon": "tango.png" },
 				{ "pos": [950, 921, 64], "title": "Tango's turtle breeding area", "icon": "tango.png" },
 				{ "pos": [790, -740, 64], "title": "Tango's Bedrock Service", "icon": "tango.png" },
+				{ "pos": [1700, -60, 64], "title": "Tango's HASA Headquaters", "icon": "tango.png" },
 				{ "pos": [976, -267, 65], "title": "TFC's One Night Stand", "icon": "tfc.png" },
 			],
 		},
