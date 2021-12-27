@@ -1,0 +1,17 @@
+name: "Generate markers to 3D map"
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    name: Commit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: npm install
+      - uses: ./.github/actions/commit-action
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        id: commit
