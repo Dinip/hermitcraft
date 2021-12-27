@@ -1,0 +1,6 @@
+name: "commit-action"
+description: "Generate markers to 3D map"
+author: "dinip"
+runs:
+  using: "node16"
+  main: "./commit.js"
