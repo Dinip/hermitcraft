@@ -101,6 +101,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-56, 466, 64], "title": "Yes Wings Club", "icon": "impulse-wels.png" },
 				
 				{ "pos": [540, 760, 121], "title": "Iskall's No Wings Club", "icon": "iskall.png" },
+				
+				{ "pos": [1131, 90, -301], "title": "Cubfan's Leaf Spleef", "icon": "cub.png" },
 			],
 		},
 	},
@@ -147,6 +149,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1570, -220, 64], "title": "Wels's sugarcane farm", "icon": "wels.png" },
 				
 				{ "pos": [-760, -2264, 64], "title": "X's witch farm", "icon": "xisuma.png" },
+				{ "pos": [1131, 90, -301], "title": "Cubfan's Leaf Spleef", "icon": "cub.png" },
 			],
 		},
 	},
@@ -195,6 +198,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1655, 1505, 64], "title": "Glow Inc!", "icon": "xb.png" },
 				
 				{ "pos": [1275, -255, 64], "title": "The Evil Emporium", "icon": "xisuma.png" },
+				
+				{ "pos": [1346, 61, -566], "title": "Cubfan's Slime Shop", "icon": "cub.png" },
 			],
 		},
 	},
@@ -231,6 +236,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [950, 921, 64], "title": "Tango's turtle breeding area", "icon": "tango.png" },
 				{ "pos": [790, -740, 64], "title": "Tango's Bedrock Service", "icon": "tango.png" },
 				{ "pos": [976, -267, 65], "title": "TFC's One Night Stand", "icon": "tfc.png" },
+				{ "pos": [1123, 40, -545], "title": "Cubfan's Final Tegg Puzzle", "icon": "cub.png" },
 			],
 		},
 	},
