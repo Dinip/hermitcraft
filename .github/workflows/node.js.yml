@@ -2,7 +2,7 @@ name: "Generate markers to 3D map"
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
