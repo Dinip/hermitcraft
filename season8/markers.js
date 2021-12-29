@@ -131,7 +131,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [180, 555, 64], "title": "Etho's drowned farm", "icon": "etho.png" },
 				
-				{ "pos": [894, -524, 64], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
+				{ "pos": [975, -870, 36], "title": "Grian's Villager Trading Area", "icon": "grian.png" },
 				
 				{ "pos": [1591, 1271, 64], "title": "Horse Head Farms", "icon": "hypno-xb.png" },
 				
