@@ -217,11 +217,13 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
 				{ "pos": [829, -681, 64], "title": "Boatem Pole and Boatem Hole", "icon": "poi.png" },
+				{ "pos": [904, -786, 65], "title": "Boatem Diamond Hourglasses", "icon": "poi.png" },
 				{ "pos": [1443, 762, 64], "title": "Deadman Bay named after Henry Deadman", "icon": "poi.png" },
+				{ "pos": [997, -833, 150], "title": "Grian's Observatory", "icon": "grian.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix first solution", "icon": "poi.png" },
 				{ "pos": [-1546, -2548, 64], "title": "Hermatrix \"L\" book coords", "icon": "poi.png" },
+				{ "pos": [769, -776, 66], "title": "Mumbo's Moon Missles", "icon": "mumbo.png" }
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
-				{ "pos": [904, -786, 65], "title": "Boatem Diamond Hourglasses", "icon": "poi.png" }
 				
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "doc-rendog.png" },
 				{ "pos": [765, -520, 64], "title": "Goat sanctuary", "icon": "doc-rendog.png" },
@@ -233,9 +235,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [790, -740, 64], "title": "Tango's Bedrock Service", "icon": "tango.png" },
 				{ "pos": [976, -267, 65], "title": "TFC's One Night Stand", "icon": "tfc.png" },
 				
-				{ "pos": [997, -833, 150], "title": "Grian's Observatory", "icon": "grian.png" }
-				
-				{ "pos": [769, -776, 66], "title": "Mumbo's Moon Missles", "icon": "mumbo.png" }
 			],
 		},
 	},
