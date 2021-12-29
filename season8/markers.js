@@ -233,6 +233,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [976, -267, 65], "title": "TFC's One Night Stand", "icon": "tfc.png" },
 				
 				{ "pos": [997, -833, 150], "title": "Grian's Observatory", "icon": "grian.png" }
+				{ "pos": [769, -776, 66], "title": "Mumbo's Moon Missles", "icon": "mumbo.png" }
 			],
 		},
 	},
