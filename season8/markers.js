@@ -222,7 +222,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [997, -833, 150], "title": "Grian's Observatory", "icon": "grian.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix first solution", "icon": "poi.png" },
 				{ "pos": [-1546, -2548, 64], "title": "Hermatrix \"L\" book coords", "icon": "poi.png" },
-				{ "pos": [769, -776, 66], "title": "Mumbo's Moon Missles", "icon": "mumbo.png" }
+				{ "pos": [769, -776, 66], "title": "Mumbo's Moon Missles", "icon": "mumbo.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "doc-rendog.png" },
