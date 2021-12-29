@@ -231,6 +231,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [950, 921, 64], "title": "Tango's turtle breeding area", "icon": "tango.png" },
 				{ "pos": [790, -740, 64], "title": "Tango's Bedrock Service", "icon": "tango.png" },
 				{ "pos": [976, -267, 65], "title": "TFC's One Night Stand", "icon": "tfc.png" },
+				
+				{ "pos": [997, -833, 150], "title": "Grian's Observatory", "icon": "grian.png" }
 			],
 		},
 	},
