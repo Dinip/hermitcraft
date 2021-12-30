@@ -219,16 +219,18 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [829, -681, 64], "title": "Boatem Pole and Boatem Hole", "icon": "poi.png" },
 				{ "pos": [904, -786, 65], "title": "Boatem Diamond Hourglasses", "icon": "poi.png" },
 				{ "pos": [1443, 762, 64], "title": "Deadman Bay named after Henry Deadman", "icon": "poi.png" },
-				{ "pos": [997, -833, 150], "title": "Grian's Observatory", "icon": "grian.png" },
 				{ "pos": [1534, -266, 21], "title": "Hermatrix first solution", "icon": "poi.png" },
 				{ "pos": [-1546, -2548, 64], "title": "Hermatrix \"L\" book coords", "icon": "poi.png" },
-				{ "pos": [769, -776, 66], "title": "Mumbo's Moon Missles", "icon": "mumbo.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
 				
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "doc-rendog.png" },
 				{ "pos": [765, -520, 64], "title": "Goat sanctuary", "icon": "doc-rendog.png" },
 				
 				{ "pos": [280, -184, 64], "title": "Doc's Cursed Chunk", "icon": "doc.png" },
+				
+				{ "pos": [997, -833, 150], "title": "Grian's Observatory", "icon": "grian.png" },
+				
+				{ "pos": [769, -776, 66], "title": "Mumbo's Moon Missles", "icon": "mumbo.png" },
 				
 				{ "pos": [1225, 530, 64], "title": "Tango's horse breeding area", "icon": "tango.png" },
 				{ "pos": [950, 921, 64], "title": "Tango's turtle breeding area", "icon": "tango.png" },
