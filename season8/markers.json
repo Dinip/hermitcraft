@@ -435,6 +435,20 @@
           "maxDistance": 10000000
         },
         {
+          "id": "Cubfan_s_Leaf_Spleef",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 1131,
+            "y": -301,
+            "z": 90
+          },
+          "label": "Cubfan's Leaf Spleef",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cub.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
           "id": "Gemini_s_parkour_challenge",
           "type": "poi",
           "map": "world",
@@ -523,6 +537,20 @@
           },
           "label": "Cleo's Graveyard (bee farm)",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cleo.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Cubfan_s_Leaf_Spleef",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 1131,
+            "y": -301,
+            "z": 90
+          },
+          "label": "Cubfan's Leaf Spleef",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cub.png",
           "minDistance": 0,
           "maxDistance": 10000000
         },
@@ -801,6 +829,20 @@
           "maxDistance": 10000000
         },
         {
+          "id": "Cubfan_s_Slime_Shop",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 1346,
+            "y": -566,
+            "z": 61
+          },
+          "label": "Cubfan's Slime Shop",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cub.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
           "id": "The_Original_G_Train",
           "type": "poi",
           "map": "world",
@@ -1057,6 +1099,20 @@
           },
           "label": "Spawn",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Cubfan_s_Final_Tegg_Puzzle",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 1123,
+            "y": -545,
+            "z": 40
+          },
+          "label": "Cubfan's Final Tegg Puzzle",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cub.png",
           "minDistance": 0,
           "maxDistance": 10000000
         },
