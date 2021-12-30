@@ -601,9 +601,9 @@
           "type": "poi",
           "map": "world",
           "position": {
-            "x": 894,
-            "y": 64,
-            "z": -524
+            "x": 975,
+            "y": 36,
+            "z": -870
           },
           "label": "Grian's Villager Trading Area",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/grian.png",
@@ -1047,6 +1047,20 @@
           "maxDistance": 10000000
         },
         {
+          "id": "Boatem_Diamond_Hourglasses",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 904,
+            "y": 65,
+            "z": -786
+          },
+          "label": "Boatem Diamond Hourglasses",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
           "id": "Deadman_Bay_named_after_Henry_Deadman",
           "type": "poi",
           "map": "world",
@@ -1155,6 +1169,34 @@
           },
           "label": "Doc's Cursed Chunk",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/doc.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Grian_s_Observatory",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 997,
+            "y": 150,
+            "z": -833
+          },
+          "label": "Grian's Observatory",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/grian.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Mumbo_s_Moon_Missles",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 769,
+            "y": 66,
+            "z": -776
+          },
+          "label": "Mumbo's Moon Missles",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/mumbo.png",
           "minDistance": 0,
           "maxDistance": 10000000
         },
