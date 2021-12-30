@@ -94,6 +94,8 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [1190, 510, 64], "title": "Horse Course", "icon": "bdubs-etho.png" },
 				
+				{ "pos": [1131, 90, -301], "title": "Cubfan's Leaf Spleef", "icon": "cub.png" },
+				
 				{ "pos": [537, 158, 25], "title": "Gemini's parkour challenge", "icon": "gemini.png" },
 				
 				{ "pos": [853, -724, 64], "title": "Tegg", "icon": "grian.png" },
@@ -124,6 +126,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1035, -1565, 64], "title": "Snow Bowl", "icon": "poi.png" },
 				
 				{ "pos": [1000, 1220, 64], "title": "Cleo's Graveyard (bee farm)", "icon": "cleo.png" },
+				
+				{ "pos": [1131, 90, -301], "title": "Cubfan's Leaf Spleef", "icon": "cub.png" },
 				
 				{ "pos": [55, -290, 64], "title": "Doc's Shulker Farm (overworld side)", "icon": "doc.png" },
 				
@@ -176,6 +180,8 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [500, -480, 64], "title": "Octagon Inc. Island", "icon": "doc-rendog.png" },
 				
+				{ "pos": [1346, 61, -566], "title": "Cubfan's Slime Shop", "icon": "cub.png" },
+				
 				{ "pos": [867, -680, 64], "title": "The Original G-Train", "icon": "grian.png" },
 				{ "pos": [955, -745, 64], "title": "The G-Train", "icon": "grian.png" },
 				
@@ -194,7 +200,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [1655, 1505, 64], "title": "Glow Inc!", "icon": "xb.png" },
 				
-				{ "pos": [1275, -255, 64], "title": "The Evil Emporium", "icon": "xisuma.png" },
+				{ "pos": [1275, -255, 64], "title": "The Evil Emporium", "icon": "xisuma.png" },				
 			],
 		},
 	},
@@ -221,6 +227,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1534, -266, 21], "title": "Hermatrix first solution", "icon": "poi.png" },
 				{ "pos": [-1546, -2548, 64], "title": "Hermatrix \"L\" book coords", "icon": "poi.png" },
 				{ "pos": [135, 163, 64], "title": "Spawn", "icon": "poi.png" },
+
+				{ "pos": [1123, 40, -545], "title": "Cubfan's Final Tegg Puzzle", "icon": "cub.png" },
 				
 				{ "pos": [740, -600, 64], "title": "Goatem Pole", "icon": "doc-rendog.png" },
 				{ "pos": [765, -520, 64], "title": "Goat sanctuary", "icon": "doc-rendog.png" },
