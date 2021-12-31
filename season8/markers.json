@@ -639,6 +639,20 @@
           "maxDistance": 10000000
         },
         {
+          "id": "Mumbo_s_Lava_Farm",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 958,
+            "y": 64,
+            "z": -10959
+          },
+          "label": "Mumbo's Lava Farm",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cleo.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
           "id": "Iskall_s_guardian_farm",
           "type": "poi",
           "map": "world",
