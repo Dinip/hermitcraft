@@ -23,11 +23,11 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [-1800, 1900, 80], "title": "Bdubs's Monolith", "icon": "bdubs.png" },
 
-				//{ "pos": [,,], "title": "Beef's starter base", "icon": "beef.png" },
+				{ "pos": [-1746, 1589, 71], "title": "Beef's starter base", "icon": "beef.png" },
 				
 				//{ "pos": [,,], "title": "Cleo's starter base", "icon": "cleo.png" },
 				
-				//{ "pos": [,,], "title": "Cubfan's starter base", "icon": "cub.png" },
+				{ "pos": [-1863, 1572, 70], "title": "Cub and Ren's Pie Factory", "icon": "cub-rendog.png" },
 				
 				//{ "pos": [,,], "title": "Doc's starter base", "icon": "doc.png"},
 				
@@ -37,7 +37,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1632, 1764, 71], "title": "Gem's starter tree", "icon": "gemini.png" },
 				
-				//{ "pos": [,,], "title": "Grian's Entity", "icon": "grian.png" },
+				{ "pos": [-1746, 1698, 73], "title": "Grian's Entity", "icon": "grian.png" },
 				
 				//{ "pos": [,,], "title": "Hypno's starter base", "icon": "hypno.png" },
 				
@@ -45,33 +45,31 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1724, 1809, 68], "title": "Impulse's starter base", "icon": "impulse.png" },
 				
-				//{ "pos": [,,], "title": "Iskall's starter base", "icon": "iskall.png" },
+				{ "pos": [-1636, 1421, 103], "title": "Iskall's starter base", "icon": "iskall.png" },
 				
-				//{ "pos": [,,], "title": "Joe's starter base", "icon": "joe.png" },
+				{ "pos": [-1822, 1793, 73], "title": "Joe's starter base", "icon": "joe.png" },
 				
-				//{ "pos": [,,], "title": "Keralis' starter base", "icon": "keralis.png" },
+				{ "pos": [-1569, 1716, 64], "title": "Keralis' starter base", "icon": "keralis.png" },
 				
-				//{ "pos": [,,], "title": "Mumbo's starter base", "icon": "mumbo.png" },
+				{ "pos": [-1736, 1652, 72], "title": "Mumbo's starter base", "icon": "mumbo.png" },
 				
 				{ "pos": [-1685, 1747, 68], "title": "Pearl's starter base", "icon": "pearl.png" },
 				
-				{ "pos": [-1863, 1572, 70], "title": "Rendog's Pie Factory", "icon": "rendog.png" },
-				
-				//{ "pos": [,,], "title": "Scar's starter tree", "icon": "scar.png" },
+				{ "pos": [-1660, 1660, 75], "title": "Scar's starter tree", "icon": "scar.png" },
 				
 				{ "pos": [-1853, 1520, 72], "title": "Stress' starter teapot", "icon": "stress.png" },
 				
 				{ "pos": [-1676, 1801, 68], "title": "Tango's starter base", "icon": "tango.png" },
 				
-				//{ "pos": [,,], "title": "TFC's starter base", "icon": "tfc.png"},
+				{ "pos": [-1786, 1535, 63], "title": "TFC's starter base", "icon": "tfc.png"},
 				
 				{ "pos": [-1741, 1367, 69], "title": "Wels' starter base", "icon": "wels.png" },
 				
 				//{ "pos": [,,], "title": "xB's starter base", "icon": "xb.png" },
 				
-				//{ "pos": [,,], "title": "Xisuma's starter base", "icon": "xisuma.png" },
+				{ "pos": [-1637, 1550, 72], "title": "Xisuma's starter base", "icon": "xisuma.png" },
 				
-				//{ "pos": [,,], "title": "Zedaph's starter rock", "icon": "zedaph.png" },
+				{ "pos": [-1724, 1500, 66], "title": "Zedaph's starter rock", "icon": "zedaph.png" },
 			],
 		},
 	},
