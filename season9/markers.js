@@ -176,6 +176,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
 				{ "pos": [-1770, 1525, 64], "title": "Spawn", "icon": "poi.png" },
+				{ "pos": [-1770, 1520, 65], "title": "HHH supply tent", "icon": "poi.png" },
 			],
 		},
 	},
