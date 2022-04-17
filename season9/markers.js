@@ -25,11 +25,11 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-1746, 1589, 71], "title": "Beef's starter base", "icon": "beef.png" },
 				
-				//{ "pos": [,,], "title": "Cleo's starter base", "icon": "cleo.png" },
+				{ "pos": [-1750,1895,64], "title": "Cleo's starter base", "icon": "cleo.png" },
 				
 				{ "pos": [-1863, 1572, 70], "title": "Cub and Ren's Pie Factory", "icon": "cub-rendog.png" },
 				
-				//{ "pos": [,,], "title": "Doc's starter base", "icon": "doc.png"},
+				{ "pos": [-1805,1750,64], "title": "Doc's starter base", "icon": "doc.png"},
 				
 				//{ "pos": [,,], "title": "Etho's starter base", "icon": "etho.png"},
 				
@@ -39,7 +39,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1746, 1698, 73], "title": "Grian's Entity", "icon": "grian.png" },
 				
-				//{ "pos": [,,], "title": "Hypno's starter base", "icon": "hypno.png" },
+				{ "pos": [-1605,1460,64], "title": "Hypno's starter base", "icon": "hypno.png" },
 				
 				{ "pos": [-1845, 1730, 77], "title": "Jevin's starter base", "icon": "ijevin.png" },
 				
@@ -65,11 +65,38 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1741, 1367, 69], "title": "Wels' starter base", "icon": "wels.png" },
 				
-				//{ "pos": [,,], "title": "xB's starter base", "icon": "xb.png" },
+				{ "pos": [-1785,1458,64], "title": "xB's starter base", "icon": "xb.png" },
 				
 				{ "pos": [-1637, 1550, 72], "title": "Xisuma's starter base", "icon": "xisuma.png" },
 				
 				{ "pos": [-1724, 1500, 66], "title": "Zedaph's starter rock", "icon": "zedaph.png" },
+				
+				{ "pos": [70, 1890, 66], "title": "Impulse's Megabase Underground Planed", "icon": "impulse.png" },
+				
+				{ "pos": [70, 1870, 66], "title": "Gem's Megabase Planed", "icon": "gemini.png" },
+				
+				{ "pos": [50, 1970, 66], "title": "Pearl's Megabase Planed", "icon": "pearl.png" },
+				
+				{ "pos": [-445, 1414, 66], "title": "xB's Megabase Underground", "icon": "xb.png" },
+				
+				{ "pos": [-1994, 1127, 66], "title": "Iskall's Megabase Underground", "icon": "iskall.png" },
+				
+				{ "pos": [-1233, 2768, 66], "title": "Doc's The Perimeter", "icon": "doc.png" },
+				
+				{ "pos": [-1012, 2112, 66], "title": "Grian's Megabase", "icon": "grian.png" },
+				
+				{ "pos": [-1300, 1909, 66], "title": "Zed's The Hole of Fame", "icon": "zedaph.png" },
+				
+				{ "pos": [-100, 1135, 66], "title": "Keralis' Megabase Planed", "icon": "keralis.png" },
+				
+				{ "pos": [-545, 2150, 66], "title": "Tango's Megabase Planed", "icon": "tango.png" },
+				
+				{ "pos": [-475, 860, 66], "title": "Hypno's Megabase Planed", "icon": "hypno.png" },
+				
+				{ "pos": [-1810, 1055, 66], "title": "False's Megabase", "icon": "false.png" },
+				
+				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's Megabase", "icon": "stress.png" },
+			
 			],
 		},
 	},
