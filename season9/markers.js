@@ -71,6 +71,28 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1724, 1500, 66], "title": "Zedaph's starter rock", "icon": "zedaph.png" },
 				
+			
+			],
+		},
+	},
+	/*
+	// Bases
+	{
+		// id of the marker group, without spaces/other special chars
+		"id": "bases",
+		// name of the marker group, displayed in the webinterface
+		"name": "Bases",
+		// icon of the markers belonging to that group (optional)
+		"icon": "poi.png",
+		// size of that icon
+		"iconSize": [24, 24],
+		// whether this marker group is shown by default (optional)
+		"showDefault": true,
+		// markers of this marker group...
+		"markers": {
+			// ...in the world "world"
+			"world": [
+			
 				{ "pos": [70, 1890, 66], "title": "Impulse's Megabase Underground Planed", "icon": "impulse.png" },
 				
 				{ "pos": [70, 1870, 66], "title": "Gem's Megabase Planed", "icon": "gemini.png" },
@@ -96,27 +118,10 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1810, 1055, 66], "title": "False's Megabase", "icon": "false.png" },
 				
 				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's Megabase", "icon": "stress.png" },
-			
-			],
-		},
-	},
-	/*
-	// Bases
-	{
-		// id of the marker group, without spaces/other special chars
-		"id": "bases",
-		// name of the marker group, displayed in the webinterface
-		"name": "Bases",
-		// icon of the markers belonging to that group (optional)
-		"icon": "poi.png",
-		// size of that icon
-		"iconSize": [24, 24],
-		// whether this marker group is shown by default (optional)
-		"showDefault": true,
-		// markers of this marker group...
-		"markers": {
-			// ...in the world "world"
-			"world": [
+				
+				{ "pos": [-2410, 2755, 66], "title": "JoeHills' Megabase Planed", "icon": "joe.png" },
+				
+				
 			],
 		},
 	},
