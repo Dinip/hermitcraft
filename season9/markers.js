@@ -5,7 +5,7 @@
 
 var MAPCRAFTER_MARKERS = [
 
-	// Bases
+	// Starter Bases
 	{
 		// id of the marker group, without spaces/other special chars
 		"id": "starters",
@@ -22,14 +22,16 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [-1800, 1900, 80], "title": "Bdubs's Monolith", "icon": "bdubs.png" },
+				
+				{ "pos": [-1850, 1910, 80], "title": "The Tree of Whimsy", "icon": "bdubs.png" },
 
 				{ "pos": [-1746, 1589, 71], "title": "Beef's starter base", "icon": "beef.png" },
 				
-				{ "pos": [-1750,1895,64], "title": "Cleo's starter base", "icon": "cleo.png" },
+				{ "pos": [-1750, 1895, 64], "title": "Cleo's starter base", "icon": "cleo.png" },
 				
 				{ "pos": [-1863, 1572, 70], "title": "Cub and Ren's Pie Factory", "icon": "cub-rendog.png" },
 				
-				{ "pos": [-1805,1750,64], "title": "Doc's starter base", "icon": "doc.png"},
+				{ "pos": [-1805, 1750, 64], "title": "Doc's starter base", "icon": "doc.png"},
 				
 				//{ "pos": [,,], "title": "Etho's starter base", "icon": "etho.png"},
 				
@@ -37,9 +39,9 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1632, 1764, 71], "title": "Gem's starter tree", "icon": "gemini.png" },
 				
-				{ "pos": [-1746, 1698, 73], "title": "Grian's Entity", "icon": "grian.png" },
+				{ "pos": [-1700, 1700, 73], "title": "Grian's starter base", "icon": "grian.png" },
 				
-				{ "pos": [-1605,1460,64], "title": "Hypno's starter base", "icon": "hypno.png" },
+				{ "pos": [-1645, 1470, 64], "title": "Hypno's starter base", "icon": "hypno.png" },
 				
 				{ "pos": [-1845, 1730, 77], "title": "Jevin's starter base", "icon": "ijevin.png" },
 				
@@ -55,6 +57,8 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1685, 1747, 68], "title": "Pearl's starter base", "icon": "pearl.png" },
 				
+				{ "pos": [-1730, 1630, 70], "title": "Ren's paddlesteamer", "icon": "rendog.png" },
+				
 				{ "pos": [-1660, 1660, 75], "title": "Scar's starter tree", "icon": "scar.png" },
 				
 				{ "pos": [-1853, 1520, 72], "title": "Stress' starter teapot", "icon": "stress.png" },
@@ -65,7 +69,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1741, 1367, 69], "title": "Wels' starter base", "icon": "wels.png" },
 				
-				{ "pos": [-1785,1458,64], "title": "xB's starter base", "icon": "xb.png" },
+				{ "pos": [-1785, 1458, 64], "title": "xB's starter base", "icon": "xb.png" },
 				
 				{ "pos": [-1637, 1550, 72], "title": "Xisuma's starter base", "icon": "xisuma.png" },
 				
@@ -75,13 +79,13 @@ var MAPCRAFTER_MARKERS = [
 			],
 		},
 	},
-	/*
-	// Bases
+	
+	// Main Bases
 	{
 		// id of the marker group, without spaces/other special chars
 		"id": "bases",
 		// name of the marker group, displayed in the webinterface
-		"name": "Bases",
+		"name": "Main Bases",
 		// icon of the markers belonging to that group (optional)
 		"icon": "poi.png",
 		// size of that icon
@@ -92,41 +96,40 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-			
-				{ "pos": [70, 1890, 66], "title": "Impulse's Megabase Underground Planed", "icon": "impulse.png" },
 				
-				{ "pos": [70, 1870, 66], "title": "Gem's Megabase Planed", "icon": "gemini.png" },
+				{ "pos": [-1233, 2768, 66], "title": "The Perimeter", "icon": "doc.png" },
 				
-				{ "pos": [50, 1970, 66], "title": "Pearl's Megabase Planed", "icon": "pearl.png" },
+				{ "pos": [-1810, 1055, 66], "title": "False's megabase", "icon": "false.png" },
 				
-				{ "pos": [-445, 1414, 66], "title": "xB's Megabase Underground", "icon": "xb.png" },
+				{ "pos": [70, 1870, 66], "title": "Gem's elven megabase", "icon": "gemini.png" },
 				
-				{ "pos": [-1994, 1127, 66], "title": "Iskall's Megabase Underground", "icon": "iskall.png" },
+				{ "pos": [-1012, 2112, 66], "title": "Grian's megabase (\"Dwayne\")", "icon": "grian.png" },
 				
-				{ "pos": [-1233, 2768, 66], "title": "Doc's The Perimeter", "icon": "doc.png" },
+				{ "pos": [-475, 860, 66], "title": "Hypno's planned megabase", "icon": "hypno.png" },
 				
-				{ "pos": [-1012, 2112, 66], "title": "Grian's Megabase", "icon": "grian.png" },
+				{ "pos": [70, 1890, 66], "title": "Impulse's dwarven city (underground)", "icon": "impulse.png" },
 				
-				{ "pos": [-1300, 1909, 66], "title": "Zed's The Hole of Fame", "icon": "zedaph.png" },
+				{ "pos": [-1994, 1127, 66], "title": "Iskall's megabase (underground)", "icon": "iskall.png" },
 				
-				{ "pos": [-100, 1135, 66], "title": "Keralis' Megabase Planed", "icon": "keralis.png" },
+				{ "pos": [-2410, 2755, 66], "title": "JoeHills' planned megabase", "icon": "joe.png" },
 				
-				{ "pos": [-545, 2150, 66], "title": "Tango's Megabase Planed", "icon": "tango.png" },
+				{ "pos": [-100, 1135, 66], "title": "Keralis' planned megabase", "icon": "keralis.png" },
 				
-				{ "pos": [-475, 860, 66], "title": "Hypno's Megabase Planed", "icon": "hypno.png" },
+				{ "pos": [50, 1970, 66], "title": "Pearl's planned megabase", "icon": "pearl.png" },
 				
-				{ "pos": [-1810, 1055, 66], "title": "False's Megabase", "icon": "false.png" },
+				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's megabase", "icon": "stress.png" },
 				
-				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's Megabase", "icon": "stress.png" },
+				{ "pos": [-545, 2150, 66], "title": "Tango's planned megabase", "icon": "tango.png" },
 				
-				{ "pos": [-2410, 2755, 66], "title": "JoeHills' Megabase Planed", "icon": "joe.png" },
+				{ "pos": [-445, 1414, 66], "title": "xB's planned megabase", "icon": "xb.png" },
 				
+				{ "pos": [-1500, 600, 66], "title": "Xisuma's planned megabase", "icon": "joe.png" },
 				
+				{ "pos": [-1300, 1909, 66], "title": "The Hole of Fame", "icon": "zedaph.png" },
 			],
 		},
 	},
-	*/
-	/*
+	
 	// Minigames
 	{
 		// id of the marker group, without spaces/other special chars
@@ -143,11 +146,19 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+			
+				{ "pos": [-3150, -3190, 66], "title": "Bdubs' Adventures: Shroomlight Ruins", "icon": "bdubs.png" },
+				// you might need a bigger map for this one lol
+				{ "pos": [-1850, 1410, 66], "title": "Easter egg hunt", "icon": "ijevin.png" },
+				
+				{ "pos": [-1670, 1860, 66], "title": "Locked Out: A Ravager's Revenge", "icon": "scar.png" },
+				
+				{ "pos": [-1900, 1400, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },
+			
 			],
 		},
 	},
-	*/
-	/*
+	
 	// Farms
 	{
 		// id of the marker group, without spaces/other special chars
@@ -164,11 +175,18 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				
+				{ "pos": [-406, 2842, 66], "title": "Grian, Scar & Tango's villager farms", "icon": "poi.png" },
+				
+				{ "pos": [1136, 2112, 66], "title": "Keralis and X's raid farm", "icon": "poi.png" },
+				
+				{ "pos": [1136, 2112, 66], "title": "Gem's guardian farm", "icon": "gemini.png" },
+				
 			],
 		},
 	},
-	*/
-	/*
+
+	
 	// Shops:
 	{
 		// id of the marker group, without spaces/other special chars
@@ -185,10 +203,23 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				
+				{ "pos": [-1877, 1387, 66], "title": "Team Rocket rocket shop", "icon": "poi.png" },
+				// whose is this? can someone add the correct icon please? ty x
+				{ "pos": [-2145, 1510, 66], "title": "False Beans", "icon": "false.png" },
+				
+				{ "pos": [-1746, 1698, 66], "title": "Grian's Entity", "icon": "grian.png" },
+				
+				{ "pos": [-1710, 1465, 66], "title": "Super Wings shop", "icon": "iskall.png" },
+				
+				{ "pos": [-1560, 1590, 66], "title": "Legendary Super Tommy's Carrots", "icon": "iskall.png" },
+				
+				{ "pos": [-1625, 1625, 66], "title": "Scar's cookie factory", "icon": "scar.png" },
+				
 			],
 		},
 	},
-	*/
+	
 	
 	// Other:
 	{
@@ -207,8 +238,12 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [0, 0, 64], "title": "(0, 0)", "icon": "poi.png" },
+				
 				{ "pos": [-1770, 1525, 64], "title": "Spawn", "icon": "poi.png" },
+				
 				{ "pos": [-1770, 1520, 65], "title": "HHH supply tent", "icon": "poi.png" },
+				
+				
 			],
 		},
 	},
