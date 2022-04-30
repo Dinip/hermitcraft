@@ -75,7 +75,7 @@ var MAPCRAFTER_MARKERS = [
 			],
 		},
 	},
-	/*
+	
 	// Bases
 	{
 		// id of the marker group, without spaces/other special chars
@@ -93,39 +93,59 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 			
-				{ "pos": [70, 1890, 66], "title": "Impulse's Megabase Underground Planed", "icon": "impulse.png" },
+				//{ "pos": [,,], "title": "Bdub's Megabase", "icon": "bdubs.png"},
 				
-				{ "pos": [70, 1870, 66], "title": "Gem's Megabase Planed", "icon": "gemini.png" },
+				//{ "pos": [,,], "title": "Beef's Megabase", "icon": "beef.png"},
 				
-				{ "pos": [50, 1970, 66], "title": "Pearl's Megabase Planed", "icon": "pearl.png" },
+				//{ "pos": [,,], "title": "Cleo's Megabase", "icon": "cleo.png"},
 				
-				{ "pos": [-445, 1414, 66], "title": "xB's Megabase Underground", "icon": "xb.png" },
-				
-				{ "pos": [-1994, 1127, 66], "title": "Iskall's Megabase Underground", "icon": "iskall.png" },
+				//{ "pos": [,,], "title": "Cub's Megabase", "icon": "cub.png"},
 				
 				{ "pos": [-1233, 2768, 66], "title": "Doc's The Perimeter", "icon": "doc.png" },
 				
-				{ "pos": [-1012, 2112, 66], "title": "Grian's Megabase", "icon": "grian.png" },
-				
-				{ "pos": [-1300, 1909, 66], "title": "Zed's The Hole of Fame", "icon": "zedaph.png" },
-				
-				{ "pos": [-100, 1135, 66], "title": "Keralis' Megabase Planed", "icon": "keralis.png" },
-				
-				{ "pos": [-545, 2150, 66], "title": "Tango's Megabase Planed", "icon": "tango.png" },
-				
-				{ "pos": [-475, 860, 66], "title": "Hypno's Megabase Planed", "icon": "hypno.png" },
+				//{ "pos": [,,], "title": "Etho's Megabase", "icon": "etho.png"},
 				
 				{ "pos": [-1810, 1055, 66], "title": "False's Megabase", "icon": "false.png" },
 				
+				{ "pos": [70, 1870, 66], "title": "Gem's Megabase", "icon": "gemini.png" },
+				
+				{ "pos": [-1030, 2275, 66], "title": "Grian's Megabase", "icon": "grian.png" },
+				
+				{ "pos": [-525, 855, 66], "title": "Hypno's Megabase", "icon": "hypno.png" },
+				
+				//{ "pos": [,,], "title": "iJevin's Megabase", "icon": "ijevin.png"},
+				
+				{ "pos": [70, 1890, 66], "title": "Impulse's The Impyre", "icon": "impulse.png" },
+				
+				{ "pos": [-1994, 1127, 66], "title": "Iskall's Megabase Underground", "icon": "iskall.png" },
+				
+				{ "pos": [-2295, 2645, 66], "title": "JoeHills' Pinball Machine", "icon": "joe.png" },
+				
+				{ "pos": [-100, 1135, 66], "title": "Keralis' Megabase", "icon": "keralis.png" },
+				
+				{ "pos": [-1012, 2112, 66], "title": "Mumbo's Megabase", "icon": "mumbo.png" },
+				
+				{ "pos": [50, 1970, 66], "title": "Pearl's Megabase", "icon": "pearl.png" },
+				
+				//{ "pos": [,,], "title": "Scar's Megabase", "icon": "scar.png"},
+				
 				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's Megabase", "icon": "stress.png" },
 				
-				{ "pos": [-2410, 2755, 66], "title": "JoeHills' Megabase Planed", "icon": "joe.png" },
+				{ "pos": [-545, 2150, 66], "title": "Tango's Megabase", "icon": "tango.png" },
 				
+				//{ "pos": [,,], "title": "TFC's mega base", "icon": "tfc.png"},
+				
+				//{ "pos": [,,], "title": "Wels' mega base", "icon": "wels.png" },
+				
+				{ "pos": [-445, 1414, 66], "title": "xB's Megabase Underground", "icon": "xb.png" },
+				
+				{ "pos": [-1575, 745, 72], "title": "Xisuma's mega base", "icon": "xisuma.png" },
+				
+				{ "pos": [-1300, 1909, 66], "title": "Zed's The Hole of Fame", "icon": "zedaph.png" },
 				
 			],
 		},
 	},
-	*/
 	/*
 	// Minigames
 	{
@@ -147,7 +167,7 @@ var MAPCRAFTER_MARKERS = [
 		},
 	},
 	*/
-	/*
+	
 	// Farms
 	{
 		// id of the marker group, without spaces/other special chars
@@ -164,10 +184,13 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				
+			{ "pos": [-395,2855,64], "title": "Scar & Grian's villager ship", "icon": "scar.png"},	
+				
 			],
 		},
 	},
-	*/
+	
 	/*
 	// Shops:
 	{
