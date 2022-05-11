@@ -21,9 +21,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [-1800, 1900, 80], "title": "Bdubs's Monolith", "icon": "bdubs.png" },
-				
-				{ "pos": [-1850, 1910, 80], "title": "The Tree of Whimsy", "icon": "bdubs.png" },
+				{ "pos": [-1800, 1900, 80], "title": "Bdubs' Monolith", "icon": "bdubs.png" },
 
 				{ "pos": [-1746, 1589, 71], "title": "Beef's starter base", "icon": "beef.png" },
 				
@@ -32,6 +30,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1863, 1572, 70], "title": "Cub and Ren's Pie Factory", "icon": "cub-rendog.png" },
 				
 				{ "pos": [-1805, 1750, 64], "title": "Doc's starter base", "icon": "doc.png"},
+				
+				{ "pos": [-1020, 1318, 64], "title": "Doc's starter village", "icon": "doc.png"},
 				
 				//{ "pos": [,,], "title": "Etho's starter base", "icon": "etho.png"},
 				
@@ -57,9 +57,9 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1685, 1747, 68], "title": "Pearl's starter base", "icon": "pearl.png" },
 				
-				{ "pos": [-1730, 1630, 70], "title": "Ren's paddlesteamer", "icon": "rendog.png" },
+				{ "pos": [-1790, 1580, 70], "title": "Ren's Spirit of the Hermissippi", "icon": "rendog.png" },
 				
-				{ "pos": [-1660, 1660, 75], "title": "Scar's starter tree", "icon": "scar.png" },
+				{ "pos": [-1660, 1660, 75], "title": "Scar's starter tree (Cub's base underneath)", "icon": "scar.png" },
 				
 				{ "pos": [-1853, 1520, 72], "title": "Stress' starter teapot", "icon": "stress.png" },
 				
@@ -125,7 +125,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1500, 600, 66], "title": "Xisuma's planned megabase", "icon": "joe.png" },
 				
-				{ "pos": [-1300, 1909, 66], "title": "The Hole of Fame", "icon": "zedaph.png" },
+				{ "pos": [-1300, 1909, 66], "title": "Zedaph's Hole of Fame", "icon": "zedaph.png" },
 			],
 		},
 	},
@@ -149,11 +149,19 @@ var MAPCRAFTER_MARKERS = [
 			
 				{ "pos": [-3150, -3190, 66], "title": "Bdubs' Adventures: Shroomlight Ruins", "icon": "bdubs.png" },
 				// you might need a bigger map for this one lol
-				{ "pos": [-1850, 1410, 66], "title": "Easter egg hunt", "icon": "ijevin.png" },
+				{ "pos": [-1850, 1410, 66], "title": "Easter Egg Hunt", "icon": "ijevin.png" },
 				
 				{ "pos": [-1670, 1860, 66], "title": "Locked Out: A Ravager's Revenge", "icon": "scar.png" },
 				
-				{ "pos": [-1900, 1400, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },
+				{ "pos": [-1900, 1400, 66], "title": "Lil' Coppy, the copper golem", "icon": "tango.png" },
+				
+				{ "pos": [-1302, 1264, 66], "title": "Gary the Goat", "icon": "iskall.png" },
+				
+				{ "pos": [-1322, 1424, 66], "title": "Gemini Slay arena", "icon": "tango.png" },
+				
+				{ "pos": [-1795, 1467, 66], "title": "OctoDrop", "icon": "xb.png" },
+				
+				{ "pos": [-1850, 1910, 80], "title": "The Tree of Whimsy", "icon": "bdubs.png" },
 			
 			],
 		},
@@ -182,6 +190,8 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [1136, 2112, 66], "title": "Gem's guardian farm", "icon": "gemini.png" },
 				
+				{ "pos": [-1615, 2828, 66], "title": "Mumbo's ineffecient slime farm", "icon": "mumbo.png" },
+				
 			],
 		},
 	},
@@ -204,17 +214,27 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				
-				{ "pos": [-1877, 1387, 66], "title": "Team Rocket rocket shop", "icon": "poi.png" },
-				// whose is this? can someone add the correct icon please? ty x
-				{ "pos": [-2145, 1510, 66], "title": "False Beans", "icon": "false.png" },
+				{ "pos": [-1877, 1387, 66], "title": "Team Rocket rocket shop", "icon": "ijevin.png" },
 				
-				{ "pos": [-1746, 1698, 66], "title": "Grian's Entity", "icon": "grian.png" },
+				{ "pos": [-2040, 1518, 66], "title": "False Beans", "icon": "false.png" },
 				
-				{ "pos": [-1710, 1465, 66], "title": "Super Wings shop", "icon": "iskall.png" },
+				{ "pos": [-1746, 1698, 66], "title": "The Entity", "icon": "grian.png" },
+				
+				{ "pos": [-1710, 1465, 66], "title": "Super Wings", "icon": "iskall.png" },
 				
 				{ "pos": [-1560, 1590, 66], "title": "Legendary Super Tommy's Carrots", "icon": "iskall.png" },
 				
 				{ "pos": [-1625, 1625, 66], "title": "Scar's cookie factory", "icon": "scar.png" },
+				
+				{ "pos": [-1955, 1891, 66], "title": "GigaLogs (Ren, Keralis)", "icon": "poi.png" },
+				
+				{ "pos": [-2145, 1910, 66], "title": "The Oreiginal Shop", "icon": "cub.png" },
+				
+				{ "pos": [-2080, 1932, 66], "title": "iLuminate", "icon": "impulse.png" },
+				
+				{ "pos": [-1756, 1811, 66], "title": "iEmMortal", "icon": "impulse.png" },
+				
+				{ "pos": [-1795, 1708, 66], "title": "Jevin's Coral Adventure", "icon": "ijevin.png" },
 				
 			],
 		},
@@ -242,6 +262,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1770, 1525, 64], "title": "Spawn", "icon": "poi.png" },
 				
 				{ "pos": [-1770, 1520, 65], "title": "HHH supply tent", "icon": "poi.png" },
+				
+				{ "pos": [-4143, 397, 65], "title": "Old Hammersmith Mine", "icon": "cub.png" },
 				
 				
 			],
