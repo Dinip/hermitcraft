@@ -162,6 +162,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1795, 1467, 66], "title": "OctoDrop", "icon": "xb.png" },
 				
 				{ "pos": [-1850, 1910, 80], "title": "The Tree of Whimsy", "icon": "bdubs.png" },
+				
+				{ "pos": [-1915, 1760, 80], "title": "Hermit Dares", "icon": "iskall.png" },
 			
 			],
 		},
