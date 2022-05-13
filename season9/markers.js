@@ -57,7 +57,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1685, 1747, 68], "title": "Pearl's starter base", "icon": "pearl.png" },
 				
-				{ "pos": [-1790, 1580, 70], "title": "Ren's Spirit of the Hermissippi", "icon": "rendog.png" },
+				{ "pos": [-1781, 1633, 70], "title": "Ren's Spirit of the Hermissippi", "icon": "rendog.png" },
 				
 				{ "pos": [-1660, 1660, 75], "title": "Scar's starter tree (Cub's base underneath)", "icon": "scar.png" },
 				
