@@ -97,33 +97,53 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				
+				//{ "pos": [,,], "title": "Bdub's Megabase", "icon": "bdubs.png"},
+				
+				//{ "pos": [,,], "title": "Beef's Megabase", "icon": "beef.png"},
+				
+				//{ "pos": [,,], "title": "Cleo's Megabase", "icon": "cleo.png"},
+				
+				//{ "pos": [,,], "title": "Cub's Megabase", "icon": "cub.png"},
+				
 				{ "pos": [-1233, 2768, 66], "title": "The Perimeter", "icon": "doc.png" },
+				
+				//{ "pos": [,,], "title": "Etho's Megabase", "icon": "etho.png"},
 				
 				{ "pos": [-1810, 1055, 66], "title": "False's megabase", "icon": "false.png" },
 				
 				{ "pos": [70, 1870, 66], "title": "Gem's elven megabase", "icon": "gemini.png" },
 				
-				{ "pos": [-1012, 2112, 66], "title": "Grian's megabase (\"Dwayne\")", "icon": "grian.png" },
+				{ "pos": [-1030, 2275, 66], "title": "Grian's megabase (\"Dwayne\")", "icon": "grian.png" },
 				
-				{ "pos": [-475, 860, 66], "title": "Hypno's planned megabase", "icon": "hypno.png" },
+				{ "pos": [-525, 855, 66], "title": "Hypno's planned megabase", "icon": "hypno.png" },
 				
-				{ "pos": [70, 1890, 66], "title": "Impulse's dwarven city (underground)", "icon": "impulse.png" },
+				//{ "pos": [,,], "title": "iJevin's Megabase", "icon": "ijevin.png"},
+				
+				{ "pos": [70, 1890, 66], "title": "Impulse's dwarven city (\"The Impyre\") (underground)", "icon": "impulse.png" },
 				
 				{ "pos": [-1994, 1127, 66], "title": "Iskall's megabase (underground)", "icon": "iskall.png" },
 				
-				{ "pos": [-2410, 2755, 66], "title": "JoeHills' planned megabase", "icon": "joe.png" },
+				{ "pos": [-2295, 2645, 66], "title": "JoeHills' Pinball Machine", "icon": "joe.png" },
 				
 				{ "pos": [-100, 1135, 66], "title": "Keralis' planned megabase", "icon": "keralis.png" },
 				
+				{ "pos": [-1012, 2112, 66], "title": "Mumbo's Megabase", "icon": "mumbo.png" },
+				
 				{ "pos": [50, 1970, 66], "title": "Pearl's planned megabase", "icon": "pearl.png" },
+				
+				//{ "pos": [,,], "title": "Scar's Megabase", "icon": "scar.png"},
 				
 				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's megabase", "icon": "stress.png" },
 				
 				{ "pos": [-545, 2150, 66], "title": "Tango's planned megabase", "icon": "tango.png" },
 				
+				//{ "pos": [,,], "title": "TFC's mega base", "icon": "tfc.png"},
+				
+				//{ "pos": [,,], "title": "Wels' mega base", "icon": "wels.png" },
+				
 				{ "pos": [-445, 1414, 66], "title": "xB's planned megabase", "icon": "xb.png" },
 				
-				{ "pos": [-1500, 600, 66], "title": "Xisuma's planned megabase", "icon": "joe.png" },
+				{ "pos": [-1500, 600, 66], "title": "Xisuma's planned megabase", "icon": "xisuma.png" },
 				
 				{ "pos": [-1300, 1909, 66], "title": "The Hole of Fame", "icon": "zedaph.png" },
 			],
