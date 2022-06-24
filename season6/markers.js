@@ -294,6 +294,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [+8039, -313, 64], "title": "Quick Draw", "icon": "poi.png" },
 				{ "pos": [+8042, -359, 64], "title": "Duck!!", "icon": "poi.png" },
 				{ "pos": [+8050, -395, 64], "title": "Ravager's Run", "icon": "cub.png" },
+				{ "pos": [+8053, -682, 64], "title": “Boombox”, "icon": “tango.png” }
 				{ "pos": [+8065, -379, 64], "title": "Guess Who", "icon": "poi.png" },
 				{ "pos": [+8115, -319, 64], "title": "RGB", "icon": "poi.png" },
 			],
