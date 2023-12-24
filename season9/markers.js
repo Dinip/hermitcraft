@@ -97,11 +97,11 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				
-				//{ "pos": [,,], "title": "Bdub's Megabase", "icon": "bdubs.png"},
+				{ "pos": [-1750,2029, 64], "title": "Bdub's Megabase", "icon": "bdubs.png"},
 				
 				//{ "pos": [,,], "title": "Beef's Megabase", "icon": "beef.png"},
 				
-				//{ "pos": [,,], "title": "Cleo's Megabase", "icon": "cleo.png"},
+				{ "pos": [-2704,2243, 64], "title": "Cleo's Megabase", "icon": "cleo.png"},
 				
 				//{ "pos": [,,], "title": "Cub's Megabase", "icon": "cub.png"},
 				
@@ -131,7 +131,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [50, 1970, 66], "title": "Pearl's planned megabase", "icon": "pearl.png" },
 				
-				//{ "pos": [,,], "title": "Scar's Megabase", "icon": "scar.png"},
+				{ "pos": [-1384, 2395, 64], "title": "Scar's Megabase", "icon": "scar.png"},
 				
 				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's megabase", "icon": "stress.png" },
 				
