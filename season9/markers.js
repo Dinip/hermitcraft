@@ -131,7 +131,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [50, 1970, 66], "title": "Pearl's planned megabase", "icon": "pearl.png" },
 				
-				//{ "pos": [,,], "title": "Scar's Megabase", "icon": "scar.png"},
+				{ "pos": [-1500,2300,66], "title": "Scarland", "icon": "scar.png"},
 				
 				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's megabase", "icon": "stress.png" },
 				
