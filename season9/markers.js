@@ -103,17 +103,17 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-2704,2243, 64], "title": "Cleo's Megabase", "icon": "cleo.png"},
 				
-				//{ "pos": [,,], "title": "Cub's Megabase", "icon": "cub.png"},
+				{ "pos": [-1654,1679,56], "title": "Cub's Primary Base", "icon": "cub.png"},
 				
 				{ "pos": [-1233, 2768, 66], "title": "The Perimeter", "icon": "doc.png" },
 				
-				//{ "pos": [,,], "title": "Etho's Megabase", "icon": "etho.png"},
+				{ "pos": [-2387,3377,78], "title": "Etho's Base", "icon": "etho.png"},
 				
 				{ "pos": [-1810, 1055, 66], "title": "False's megabase", "icon": "false.png" },
 				
 				{ "pos": [70, 1870, 66], "title": "Gem's elven megabase", "icon": "gemini.png" },
 				
-				{ "pos": [-1030, 2275, 66], "title": "Grian's megabase (\"Dwayne\")", "icon": "grian.png" },
+				{ "pos": [-1027, 2239, 101], "title": "Grian's megabase (\"Dwayne\")", "icon": "grian.png" },
 				
 				{ "pos": [-525, 855, 66], "title": "Hypno's planned megabase", "icon": "hypno.png" },
 				
@@ -132,6 +132,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [50, 1970, 66], "title": "Pearl's planned megabase", "icon": "pearl.png" },
 				
 				{ "pos": [-1384, 2395, 64], "title": "Scar's Megabase", "icon": "scar.png"},
+
+				{ "pos": [-1168, 2297, 77], "title": "Scarland Entrance", "icon": "scar.png"},
 				
 				{ "pos": [-2075, 1265, 66], "title": "Stressmonster's megabase", "icon": "stress.png" },
 				
@@ -174,6 +176,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1670, 1860, 66], "title": "Locked Out: A Ravager's Revenge", "icon": "scar.png" },
 				
 				{ "pos": [-1900, 1400, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },
+
+				{ "pos": [-524, 2058, 105], "title": "Decked Out Entrance", "icon": "tango.png" },
 			
 			],
 		},
@@ -262,6 +266,10 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1770, 1525, 64], "title": "Spawn", "icon": "poi.png" },
 				
 				{ "pos": [-1770, 1520, 65], "title": "HHH supply tent", "icon": "poi.png" },
+
+				{ "pos": [-1021, 2166, 2], "title": "Grian's Inventory (And Grumbot)", "icon": "grian.png" },
+
+				{ "pos": [-1775, 1515, 63], "title": "Cub's Inventory and Coord Guide", "icon": "cub.png" },
 				
 				
 			],
