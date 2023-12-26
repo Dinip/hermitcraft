@@ -1,0 +1,1116 @@
+{
+  "markerSets": [
+    {
+      "id": "starters",
+      "label": "Starter Bases",
+      "toggleable": true,
+      "defaultHide": false,
+      "marker": [
+        {
+          "id": "Bdubs_s_Monolith",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1800,
+            "y": 80,
+            "z": 1900
+          },
+          "label": "Bdubs's Monolith",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/bdubs.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "The_Tree_of_Whimsy",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1850,
+            "y": 80,
+            "z": 1910
+          },
+          "label": "The Tree of Whimsy",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/bdubs.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Beef_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1746,
+            "y": 71,
+            "z": 1589
+          },
+          "label": "Beef's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/beef.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Cleo_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1750,
+            "y": 64,
+            "z": 1895
+          },
+          "label": "Cleo's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cleo.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Cub_and_Ren_s_Pie_Factory",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1863,
+            "y": 70,
+            "z": 1572
+          },
+          "label": "Cub and Ren's Pie Factory",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cub-rendog.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Doc_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1805,
+            "y": 64,
+            "z": 1750
+          },
+          "label": "Doc's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/doc.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Etho_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1831,
+            "y": 49,
+            "z": 1898
+          },
+          "label": "Etho's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/etho.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "False_s_starter_eagle",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1866,
+            "y": 76,
+            "z": 1632
+          },
+          "label": "False's starter eagle",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/false.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Gem_s_starter_tree",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1632,
+            "y": 71,
+            "z": 1764
+          },
+          "label": "Gem's starter tree",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/gemini.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Grian_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1700,
+            "y": 73,
+            "z": 1700
+          },
+          "label": "Grian's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/grian.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Hypno_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1645,
+            "y": 64,
+            "z": 1470
+          },
+          "label": "Hypno's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/hypno.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Jevin_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1845,
+            "y": 77,
+            "z": 1730
+          },
+          "label": "Jevin's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/ijevin.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Impulse_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1724,
+            "y": 68,
+            "z": 1809
+          },
+          "label": "Impulse's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/impulse.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Iskall_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1636,
+            "y": 103,
+            "z": 1421
+          },
+          "label": "Iskall's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/iskall.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Joe_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1822,
+            "y": 73,
+            "z": 1793
+          },
+          "label": "Joe's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/joe.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Keralis__starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1569,
+            "y": 64,
+            "z": 1716
+          },
+          "label": "Keralis' starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/keralis.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Mumbo_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1736,
+            "y": 72,
+            "z": 1652
+          },
+          "label": "Mumbo's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/mumbo.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Pearl_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1685,
+            "y": 68,
+            "z": 1747
+          },
+          "label": "Pearl's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/pearl.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Ren_s_paddlesteamer",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1730,
+            "y": 70,
+            "z": 1630
+          },
+          "label": "Ren's paddlesteamer",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/rendog.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Scar_s_starter_tree",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1660,
+            "y": 75,
+            "z": 1660
+          },
+          "label": "Scar's starter tree",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Stress__starter_teapot",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1853,
+            "y": 72,
+            "z": 1520
+          },
+          "label": "Stress' starter teapot",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/stress.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Tango_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1676,
+            "y": 68,
+            "z": 1801
+          },
+          "label": "Tango's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/tango.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "TFC_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1786,
+            "y": 63,
+            "z": 1535
+          },
+          "label": "TFC's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/tfc.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Wels__starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1741,
+            "y": 69,
+            "z": 1367
+          },
+          "label": "Wels' starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/wels.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "xB_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1785,
+            "y": 64,
+            "z": 1458
+          },
+          "label": "xB's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/xb.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Xisuma_s_starter_base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1637,
+            "y": 72,
+            "z": 1550
+          },
+          "label": "Xisuma's starter base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/xisuma.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Zedaph_s_starter_rock",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1724,
+            "y": 66,
+            "z": 1500
+          },
+          "label": "Zedaph's starter rock",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/zedaph.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        }
+      ]
+    },
+    {
+      "id": "bases",
+      "label": "Main Bases",
+      "toggleable": true,
+      "defaultHide": false,
+      "marker": [
+        {
+          "id": "Bdub_s_Megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1750,
+            "y": 64,
+            "z": 2029
+          },
+          "label": "Bdub's Megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/bdubs.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Beef_s_Megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -7092,
+            "y": 40,
+            "z": 984
+          },
+          "label": "Beef's Megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/beef.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Cleo_s_Megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -2704,
+            "y": 64,
+            "z": 2243
+          },
+          "label": "Cleo's Megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cleo.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Cub_s_Primary_Base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1654,
+            "y": 56,
+            "z": 1679
+          },
+          "label": "Cub's Primary Base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cub.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "The_Perimeter",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1233,
+            "y": 66,
+            "z": 2768
+          },
+          "label": "The Perimeter",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/doc.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Etho_s_Base",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -2387,
+            "y": 78,
+            "z": 3377
+          },
+          "label": "Etho's Base",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/etho.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "False_s_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1810,
+            "y": 66,
+            "z": 1055
+          },
+          "label": "False's megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/false.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Gem_s_elven_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 70,
+            "y": 66,
+            "z": 1870
+          },
+          "label": "Gem's elven megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/gemini.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Grian_s_megabase___Dwayne__",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1027,
+            "y": 101,
+            "z": 2239
+          },
+          "label": "Grian's megabase (\"Dwayne\")",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/grian.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Hypno_s_planned_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -525,
+            "y": 66,
+            "z": 855
+          },
+          "label": "Hypno's planned megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/hypno.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "iJevin_s_Megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1224,
+            "y": 150,
+            "z": 1673
+          },
+          "label": "iJevin's Megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/ijevin.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Impulse_s_dwarven_city___The_Impyre____underground_",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 70,
+            "y": 66,
+            "z": 1890
+          },
+          "label": "Impulse's dwarven city (\"The Impyre\") (underground)",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/impulse.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Iskall_s_megabase__underground_",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1994,
+            "y": 66,
+            "z": 1127
+          },
+          "label": "Iskall's megabase (underground)",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/iskall.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "JoeHills__Pinball_Machine",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -2295,
+            "y": 66,
+            "z": 2645
+          },
+          "label": "JoeHills' Pinball Machine",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/joe.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Keralis__planned_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -100,
+            "y": 66,
+            "z": 1135
+          },
+          "label": "Keralis' planned megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/keralis.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Mumbo_s_Megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1012,
+            "y": 66,
+            "z": 2112
+          },
+          "label": "Mumbo's Megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/mumbo.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Pearl_s_planned_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 50,
+            "y": 66,
+            "z": 1970
+          },
+          "label": "Pearl's planned megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/pearl.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Scar_s_Megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1384,
+            "y": 64,
+            "z": 2395
+          },
+          "label": "Scar's Megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Scarland_Entrance",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1168,
+            "y": 77,
+            "z": 2297
+          },
+          "label": "Scarland Entrance",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Stressmonster_s_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -2075,
+            "y": 66,
+            "z": 1265
+          },
+          "label": "Stressmonster's megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/stress.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Tango_s_planned_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -545,
+            "y": 66,
+            "z": 2150
+          },
+          "label": "Tango's planned megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/tango.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "xB_s_planned_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -445,
+            "y": 66,
+            "z": 1414
+          },
+          "label": "xB's planned megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/xb.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Xisuma_s_planned_megabase",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1500,
+            "y": 66,
+            "z": 600
+          },
+          "label": "Xisuma's planned megabase",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/xisuma.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "The_Hole_of_Fame",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1300,
+            "y": 66,
+            "z": 1909
+          },
+          "label": "The Hole of Fame",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/zedaph.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        }
+      ]
+    },
+    {
+      "id": "minigames",
+      "label": "Minigames & Event Locations",
+      "toggleable": true,
+      "defaultHide": false,
+      "marker": [
+        {
+          "id": "Bdubs__Adventures__Shroomlight_Ruins",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -3150,
+            "y": 66,
+            "z": -3190
+          },
+          "label": "Bdubs' Adventures: Shroomlight Ruins",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/bdubs.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Easter_egg_hunt",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1850,
+            "y": 66,
+            "z": 1410
+          },
+          "label": "Easter egg hunt",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/ijevin.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Locked_Out__A_Ravager_s_Revenge",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1670,
+            "y": 66,
+            "z": 1860
+          },
+          "label": "Locked Out: A Ravager's Revenge",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Coppy__the_copper_golem",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1900,
+            "y": 66,
+            "z": 1400
+          },
+          "label": "Coppy, the copper golem",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/tango.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Decked_Out_Entrance",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -524,
+            "y": 105,
+            "z": 2058
+          },
+          "label": "Decked Out Entrance",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/tango.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Bdubs_and_Etho_s_Horse_track",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1665,
+            "y": 100,
+            "z": 413
+          },
+          "label": "Bdubs and Etho's Horse track",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Impulse_s_Dunk_Tank",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1660,
+            "y": 100,
+            "z": 289
+          },
+          "label": "Impulse's Dunk Tank",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/impulse.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Etho_s_Battle_Bane",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1747,
+            "y": 100,
+            "z": 282
+          },
+          "label": "Etho's Battle Bane",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/etho.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Scar_s_Panda_Rescue",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1808,
+            "y": 100,
+            "z": 64
+          },
+          "label": "Scar's Panda Rescue",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        }
+      ]
+    },
+    {
+      "id": "farms",
+      "label": "Farms",
+      "toggleable": true,
+      "defaultHide": false,
+      "marker": [
+        {
+          "id": "Grian__Scar___Tango_s_villager_farms",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -406,
+            "y": 66,
+            "z": 2842
+          },
+          "label": "Grian, Scar & Tango's villager farms",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Keralis_and_X_s_raid_farm",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 1136,
+            "y": 66,
+            "z": 2112
+          },
+          "label": "Keralis and X's raid farm",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Gem_s_guardian_farm",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 1136,
+            "y": 66,
+            "z": 2112
+          },
+          "label": "Gem's guardian farm",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/gemini.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Impulse_s_Industrial_District",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 688,
+            "y": 100,
+            "z": 2188
+          },
+          "label": "Impulse's Industrial District",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/impulse.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "iJevin_s_Shulker_Farm",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -2481,
+            "y": 100,
+            "z": 3587
+          },
+          "label": "iJevin's Shulker Farm",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/ijevin.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        }
+      ]
+    },
+    {
+      "id": "shops",
+      "label": "Shops",
+      "toggleable": true,
+      "defaultHide": false,
+      "marker": [
+        {
+          "id": "Team_Rocket_rocket_shop",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1877,
+            "y": 66,
+            "z": 1387
+          },
+          "label": "Team Rocket rocket shop",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "False_Beans",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -2145,
+            "y": 66,
+            "z": 1510
+          },
+          "label": "False Beans",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/false.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Grian_s_Entity",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1746,
+            "y": 66,
+            "z": 1698
+          },
+          "label": "Grian's Entity",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/grian.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Super_Wings_shop",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1710,
+            "y": 66,
+            "z": 1465
+          },
+          "label": "Super Wings shop",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/iskall.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Legendary_Super_Tommy_s_Carrots",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1560,
+            "y": 66,
+            "z": 1590
+          },
+          "label": "Legendary Super Tommy's Carrots",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/iskall.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Scar_s_cookie_factory",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1625,
+            "y": 66,
+            "z": 1625
+          },
+          "label": "Scar's cookie factory",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "toggleable": true,
+      "defaultHide": false,
+      "marker": [
+        {
+          "id": "_0__0_",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": 0,
+            "y": 64,
+            "z": 0
+          },
+          "label": "(0, 0)",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Spawn",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1770,
+            "y": 64,
+            "z": 1525
+          },
+          "label": "Spawn",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "HHH_supply_tent",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1770,
+            "y": 65,
+            "z": 1520
+          },
+          "label": "HHH supply tent",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Grian_s_Inventory__And_Grumbot_",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1021,
+            "y": 2,
+            "z": 2166
+          },
+          "label": "Grian's Inventory (And Grumbot)",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/grian.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Cub_s_Inventory_and_Coord_Guide",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1775,
+            "y": 63,
+            "z": 1515
+          },
+          "label": "Cub's Inventory and Coord Guide",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cub.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        }
+      ]
+    }
+  ]
+}
