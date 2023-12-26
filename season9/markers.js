@@ -143,7 +143,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				//{ "pos": [,,], "title": "Wels' mega base", "icon": "wels.png" },
 				
-				{ "pos": [-445, 1414, 66], "title": "xB's planned megabase", "icon": "xb.png" },
+				{ "pos": [-506, 1338, -43], "title": "xB's Megabase", "icon": "xb.png" },
 				
 				{ "pos": [-1500, 600, 66], "title": "Xisuma's planned megabase", "icon": "xisuma.png" },
 				
@@ -171,21 +171,25 @@ var MAPCRAFTER_MARKERS = [
 			
 				{ "pos": [-3150, -3190, 66], "title": "Bdubs' Adventures: Shroomlight Ruins", "icon": "bdubs.png" },
 				// you might need a bigger map for this one lol
+				// Looks like it didnt make it to the world download.
 				{ "pos": [-1850, 1410, 66], "title": "Easter egg hunt", "icon": "ijevin.png" },
+				//There is nothing at the marked location but water. was it removed?
 				
-				{ "pos": [-1670, 1860, 66], "title": "Locked Out: A Ravager's Revenge", "icon": "scar.png" },
+				{ "pos": [-1683, 1825, 64], "title": "Locked Out: A Ravager's Revenge", "icon": "scar.png" },
 				
-				{ "pos": [-1900, 1400, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },
+				{ "pos": [-1899, 1406, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },
 
 				{ "pos": [-524, 2058, 105], "title": "Decked Out Entrance", "icon": "tango.png" },
 
-				{ "pos": [-1665, 413, 100], "title": "Bdubs and Etho's Horse track", "icon": "poi.png" },
+				{ "pos": [-1707, 460, 123], "title": "Bdubs and Etho's Horse track", "icon": "poi.png" },
 
-				{ "pos": [-1660, 289, 100], "title": "Impulse's Dunk Tank", "icon": "impulse.png" },
+				{ "pos": [-1662, 270, 95], "title": "Impulse's Dunk Tank", "icon": "impulse.png" },
 
 				{ "pos": [-1747, 282, 100], "title": "Etho's Battle Bane", "icon": "etho.png" },
 
-				{ "pos": [-1808, 64, 100], "title": "Scar's Panda Rescue", "icon": "scar.png" },
+				{ "pos": [-1817, 58, 63], "title": "Scar's Panda Rescue", "icon": "scar.png" },
+
+				{ "pos": [-1424, 64, 5899], "title": "Blue River Raceway", "icon": "poi.png" },
 			
 			],
 		},
