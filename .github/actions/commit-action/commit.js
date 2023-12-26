@@ -4,7 +4,7 @@ const fs = require('fs')
 
 async function run () {
   try {
-    eval(fs.readFileSync('./season8/markers.js', 'utf-8'))
+    eval(fs.readFileSync('./season9/markers.js', 'utf-8'))
 
     const GITHUB_TOKEN = core.getInput('GITHUB_TOKEN')
     const octokit = github.getOctokit(GITHUB_TOKEN)
@@ -54,7 +54,7 @@ async function run () {
     const blobSha = blobResponse.data.sha
     const tree = []
     tree.push({
-      path: 'season8/markers.json',
+      path: 'season9/markers.json',
       mode: '100644',
       type: 'blob',
       sha: blobSha,
