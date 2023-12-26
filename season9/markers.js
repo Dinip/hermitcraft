@@ -33,7 +33,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1805, 1750, 64], "title": "Doc's starter base", "icon": "doc.png"},
 				
-				//{ "pos": [,,], "title": "Etho's starter base", "icon": "etho.png"},
+				{ "pos": [-1831, 1898, 49], "title": "Etho's starter base", "icon": "etho.png"},
 				
 				{ "pos": [-1866, 1632, 76], "title": "False's starter eagle", "icon": "false.png" },
 				
@@ -99,7 +99,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-1750,2029, 64], "title": "Bdub's Megabase", "icon": "bdubs.png"},
 				
-				//{ "pos": [,,], "title": "Beef's Megabase", "icon": "beef.png"},
+				{ "pos": [-7092,984, 40], "title": "Beef's Megabase", "icon": "beef.png"},
 				
 				{ "pos": [-2704,2243, 64], "title": "Cleo's Megabase", "icon": "cleo.png"},
 				
@@ -117,7 +117,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-525, 855, 66], "title": "Hypno's planned megabase", "icon": "hypno.png" },
 				
-				//{ "pos": [,,], "title": "iJevin's Megabase", "icon": "ijevin.png"},
+				{ "pos": [-1224, 1673, 150], "title": "iJevin's Megabase", "icon": "ijevin.png"},
 				
 				{ "pos": [70, 1890, 66], "title": "Impulse's dwarven city (\"The Impyre\") (underground)", "icon": "impulse.png" },
 				
@@ -178,6 +178,14 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1900, 1400, 66], "title": "Coppy, the copper golem", "icon": "tango.png" },
 
 				{ "pos": [-524, 2058, 105], "title": "Decked Out Entrance", "icon": "tango.png" },
+
+				{ "pos": [-1665, 413, 100], "title": "Bdubs and Etho's Horse track", "icon": "poi.png" },
+
+				{ "pos": [-1660, 289, 100], "title": "Impulse's Dunk Tank", "icon": "impulse.png" },
+
+				{ "pos": [-1747, 282, 100], "title": "Etho's Battle Bane", "icon": "etho.png" },
+
+				{ "pos": [-1808, 64, 100], "title": "Scar's Panda Rescue", "icon": "scar.png" },
 			
 			],
 		},
@@ -205,6 +213,10 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1136, 2112, 66], "title": "Keralis and X's raid farm", "icon": "poi.png" },
 				
 				{ "pos": [1136, 2112, 66], "title": "Gem's guardian farm", "icon": "gemini.png" },
+
+				{ "pos": [688, 2188, 100], "title": "Impulse's Industrial District", "icon": "impulse.png" },
+
+				{ "pos": [-2481, 3587, 100], "title": "iJevin's Shulker Farm", "icon": "ijevin.png"},
 				
 			],
 		},
