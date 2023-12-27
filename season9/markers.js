@@ -216,7 +216,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [1136, 2112, 66], "title": "Keralis and X's raid farm", "icon": "poi.png" },
 				
-				{ "pos": [1136, 2112, 66], "title": "Gem's guardian farm", "icon": "gemini.png" },
+				{ "pos": [741, 1300, 64], "title": "Gem's guardian farm", "icon": "gemini.png" },
 
 				{ "pos": [688, 2188, 100], "title": "Impulse's Industrial District", "icon": "impulse.png" },
 
