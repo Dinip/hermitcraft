@@ -1,6 +1,6 @@
 # Hermitcraft's coords for online maps
 
-This repository contains the markers files used in Hermitcraft's [map renders](https://hermitcraftmaps.confusion.pt/).
+This repository contains the markers files used in Hermitcraft's [map renders](https://maps.hermitcraft.dinip.pt/).
 
 ## Add or edit coordinates and icons
 
