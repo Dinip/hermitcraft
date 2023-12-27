@@ -687,15 +687,15 @@
           "maxDistance": 10000000
         },
         {
-          "id": "xB_s_planned_megabase",
+          "id": "xB_s_Megabase",
           "type": "poi",
           "map": "world",
           "position": {
-            "x": -445,
-            "y": 66,
-            "z": 1414
+            "x": -506,
+            "y": -43,
+            "z": 1338
           },
-          "label": "xB's planned megabase",
+          "label": "xB's Megabase",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/xb.png",
           "minDistance": 0,
           "maxDistance": 10000000
@@ -769,9 +769,9 @@
           "type": "poi",
           "map": "world",
           "position": {
-            "x": -1670,
-            "y": 66,
-            "z": 1860
+            "x": -1683,
+            "y": 64,
+            "z": 1825
           },
           "label": "Locked Out: A Ravager's Revenge",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
@@ -783,9 +783,9 @@
           "type": "poi",
           "map": "world",
           "position": {
-            "x": -1900,
+            "x": -1899,
             "y": 66,
-            "z": 1400
+            "z": 1406
           },
           "label": "Coppy, the copper golem",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/tango.png",
@@ -811,9 +811,9 @@
           "type": "poi",
           "map": "world",
           "position": {
-            "x": -1665,
-            "y": 100,
-            "z": 413
+            "x": -1707,
+            "y": 123,
+            "z": 460
           },
           "label": "Bdubs and Etho's Horse track",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
@@ -825,9 +825,9 @@
           "type": "poi",
           "map": "world",
           "position": {
-            "x": -1660,
-            "y": 100,
-            "z": 289
+            "x": -1662,
+            "y": 95,
+            "z": 270
           },
           "label": "Impulse's Dunk Tank",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/impulse.png",
@@ -853,12 +853,26 @@
           "type": "poi",
           "map": "world",
           "position": {
-            "x": -1808,
-            "y": 100,
-            "z": 64
+            "x": -1817,
+            "y": 63,
+            "z": 58
           },
           "label": "Scar's Panda Rescue",
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/scar.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Blue_River_Raceway",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1424,
+            "y": 5899,
+            "z": 64
+          },
+          "label": "Blue River Raceway",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
           "minDistance": 0,
           "maxDistance": 10000000
         }
