@@ -190,6 +190,20 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-1817, 58, 63], "title": "Scar's Panda Rescue", "icon": "scar.png" },
 
 				{ "pos": [-1424, 64, 5899], "title": "Blue River Raceway", "icon": "poi.png" },
+
+				{ "pos": [-2182, 1816, 100], "title": "Pearl's Bin-Go", "icon": "pearl.png" },
+
+				{ "pos": [-1602, 142, 100], "title": "tango's Basalt Assault", "icon": "tango.png" },
+
+				{ "pos": [-1802, 314, 100], "title": "impulse's Derailed", "icon": "impulse.png" },
+
+				{ "pos": [-1185, 1225, 10], "title": "xisuma's Elytra Cave Course", "icon": "xisuma.png" },
+
+				{ "pos": [-1755, 2130, 100], "title": "Bdubs Horse Pop", "icon": "bdubs.png" },
+
+				{ "pos": [-1881, 127, 194], "title": "cleo's Lab Escape Room", "icon": "cleo.png" },
+
+				{ "pos": [-1557, -267, 200], "title": "xisuma's Tunnel Rats", "icon": "xisuma.png" },
 			
 			],
 		},
