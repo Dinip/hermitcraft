@@ -875,6 +875,104 @@
           "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/poi.png",
           "minDistance": 0,
           "maxDistance": 10000000
+        },
+        {
+          "id": "Pearl_s_Bin_Go",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -2182,
+            "y": 100,
+            "z": 1816
+          },
+          "label": "Pearl's Bin-Go",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/pearl.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "tango_s_Basalt_Assault",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1602,
+            "y": 100,
+            "z": 142
+          },
+          "label": "tango's Basalt Assault",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/tango.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "impulse_s_Derailed",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1802,
+            "y": 100,
+            "z": 314
+          },
+          "label": "impulse's Derailed",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/impulse.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "xisuma_s_Elytra_Cave_Course",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1185,
+            "y": 10,
+            "z": 1225
+          },
+          "label": "xisuma's Elytra Cave Course",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/xisuma.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "Bdubs_Horse_Pop",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1755,
+            "y": 100,
+            "z": 2130
+          },
+          "label": "Bdubs Horse Pop",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/bdubs.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "cleo_s_Lab_Escape_Room",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1881,
+            "y": 194,
+            "z": 127
+          },
+          "label": "cleo's Lab Escape Room",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/cleo.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
+        },
+        {
+          "id": "xisuma_s_Tunnel_Rats",
+          "type": "poi",
+          "map": "world",
+          "position": {
+            "x": -1557,
+            "y": 200,
+            "z": -267
+          },
+          "label": "xisuma's Tunnel Rats",
+          "icon": "https://raw.githubusercontent.com/Dinip/hermitcraft/master/icons/xisuma.png",
+          "minDistance": 0,
+          "maxDistance": 10000000
         }
       ]
     },
