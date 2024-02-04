@@ -32,7 +32,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				//{ "pos": [0, 0, 64], "title": "Doc's", "icon": "doc.png"},//
 				
-				{ "pos": [-844, 40, 49], "title": "Etho's, "icon": "etho.png"},
+				{ "pos": [-844, 40, 49], "title": "Etho's", "icon": "etho.png"},
 				
 				{ "pos": [-316, 361, 76], "title": "False's", "icon": "false.png" },
 				
