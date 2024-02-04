@@ -21,6 +21,60 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				
+				{ "pos": [-439, -1067, 80], "title": "Bdubs's", "icon": "bdubs.png" },
+
+				{ "pos": [-173, 201, 71], "title": "Beef's", "icon": "beef.png" },
+				
+				{ "pos": [-450, 309, 64], "title": "Cleo's", "icon": "cleo.png" },
+				
+				{ "pos": [-758, 218, 70], "title": "Cub's", "icon": "cub.png" },
+				
+				//{ "pos": [0, 0, 64], "title": "Doc's", "icon": "doc.png"},//
+				
+				{ "pos": [-844, 40, 49], "title": "Etho's, "icon": "etho.png"},
+				
+				{ "pos": [-316, 361, 76], "title": "False's", "icon": "false.png" },
+				
+				{ "pos": [-777, -278, 71], "title": "Gem's", "icon": "gemini.png" },
+				
+				{ "pos": [-804, -448, 73], "title": "Grian's", "icon": "grian.png" },
+				
+				//{ "pos": [0, 0, 64], "title": "Hypno's", "icon": "hypno.png" },//
+				
+				{ "pos": [-221, -172, 77], "title": "Jevin's", "icon": "ijevin.png" },
+				
+				{ "pos": [-535, -347, 68], "title": "Impulse's", "icon": "impulse.png" },
+				
+				{ "pos": [-352, 103, 103], "title": "Iskall's", "icon": "iskall.png" },
+				
+				//{ "pos": [0, 0, 73], "title": "Joe's", "icon": "joe.png" },//
+				
+				{ "pos": [12, 334, 64], "title": "Keralis'", "icon": "keralis.png" },
+				
+				{ "pos": [-634, -637, 72], "title": "Mumbo's", "icon": "mumbo.png" },
+				
+				{ "pos": [-617, -35, 68], "title": "Pearl's", "icon": "pearl.png" },
+				
+				{ "pos": [-273, 130, 70], "title": "Ren's", "icon": "rendog.png" },
+				
+				{ "pos": [-871, -654, 75], "title": "Scar's", "icon": "scar.png" },
+
+				{ "pos": [-699, -221, 75], "title": "Skizzleman's", "icon": "poi.png" },
+
+				{ "pos": [-533, -465, 75], "title": "Smallishbeans'", "icon": "poi.png" },
+				
+				{ "pos": [-412, 147, 72], "title": "Stress'", "icon": "stress.png" },
+				
+				{ "pos": [-722, -61, 68], "title": "Tango's", "icon": "tango.png" },
+				
+				{ "pos": [214, -21, 69], "title": "Wels'", "icon": "wels.png" },
+				
+				{ "pos": [-83, 374, 64], "title": "xB's", "icon": "xb.png" },
+				
+				{ "pos": [104, 97, 72], "title": "Xisuma's", "icon": "xisuma.png" },
+				
+				{ "pos": [-1238, -100, 66], "title": "Zedaph's", "icon": "zedaph.png" },
 
 			],
 		},
