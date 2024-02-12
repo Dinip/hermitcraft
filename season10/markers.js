@@ -138,6 +138,8 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+
+				{ "pos" : [1704, -1516, 64], "title" : "Mumbo's Slime Farm", "icon" : "mumbo.png" },
 								
 			],
 		},
