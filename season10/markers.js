@@ -1,7 +1,11 @@
-//Please add markers in Alphabetical order, First .png file, after that marker name, so ZombieCleo is a C because her .png file is cleo.png.
+//Please add markers in Alphabetical order, First .png file, after that marker name, 
+//so ZombieCleo is a C because her .png file is cleo.png
 //Poi markers are on top. Ignore the names in ()
 
 //Empty format to Copy, Paste { "pos" : [X, Z, 64], "title" : "", "icon" : ".png" },
+
+//Season 10: updated bdubs' and cub's skins/icons
+// !! use bdubs2.png and cub2.png instead !!
 
 var MAPCRAFTER_MARKERS = [
 
@@ -22,13 +26,13 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				
-				{ "pos": [-439, -1067, 80], "title": "Bdubs's", "icon": "bdubs.png" },
+				{ "pos": [-439, -1067, 80], "title": "Bdubs's", "icon": "bdubs2.png" },
 
 				{ "pos": [-173, 201, 71], "title": "Beef's", "icon": "beef.png" },
 				
 				{ "pos": [-450, 309, 64], "title": "Cleo's", "icon": "cleo.png" },
 				
-				{ "pos": [-758, 218, 70], "title": "Cub's", "icon": "cub.png" },
+				{ "pos": [-758, 218, 70], "title": "Cub's", "icon": "cub2.png" },
 				
 				//{ "pos": [0, 0, 64], "title": "Doc's", "icon": "doc.png"},//
 				
