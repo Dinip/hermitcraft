@@ -1,0 +1,35 @@
+name: Purge cache on markers update
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  post_merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+
+      - name: Get modified files
+        id: get_files
+        run: echo "::set-output name=files::$(git diff --name-only HEAD^..HEAD)"
+
+      - name: Find markers.js file
+        id: find_markers
+        run: |
+          if grep -q "markers.js" <<< "${{ steps.get_files.outputs.files }}"; then
+            echo "::set-output name=markers_path::$(grep "markers.js" <<< "${{ steps.get_files.outputs.files }}")"
+          fi
+
+      - name: Make curl POST request to Cloudflare
+        if: steps.find_markers.outputs.markers_path != ''
+        run: |
+          markers_path="${{ steps.find_markers.outputs.markers_path }}"
+          curl -X POST \
+            -H "Content-Type: application/json" \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            -d "{\"files\": [\"https://gitcdn.dinip.pt/Dinip/hermitcraft/master/$markers_path\"]}" \
+            "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_IDENTIFIER }}/purge_cache"
