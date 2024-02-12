@@ -30,7 +30,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-173, 201, 71], "title": "Beef's", "icon": "beef.png" },
 				
-				{ "pos": [-450, 309, 64], "title": "Cleo's", "icon": "cleo.png" },
+				{ "pos": [-527, 310, 64], "title": "Cleo's", "icon": "cleo.png" },
 				
 				{ "pos": [-758, 218, 70], "title": "Cub's", "icon": "cub2.png" },
 				
@@ -44,7 +44,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-804, -448, 73], "title": "Grian's", "icon": "grian.png" },
 				
-				//{ "pos": [0, 0, 64], "title": "Hypno's", "icon": "hypno.png" },//
+				{ "pos": [69, -14, 64], "title": "Hypno's", "icon": "hypno.png" },
 				
 				{ "pos": [-221, -172, 77], "title": "Jevin's", "icon": "ijevin.png" },
 				
@@ -52,7 +52,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-352, 103, 103], "title": "Iskall's", "icon": "iskall.png" },
 				
-				//{ "pos": [0, 0, 73], "title": "Joe's", "icon": "joe.png" },//
+				{ "pos": [-999, 371, 73], "title": "Joe's", "icon": "joe.png" },
 				
 				{ "pos": [12, 334, 64], "title": "Keralis'", "icon": "keralis.png" },
 				
@@ -64,9 +64,9 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-871, -654, 75], "title": "Scar's", "icon": "scar.png" },
 
-				{ "pos": [-699, -221, 75], "title": "Skizzleman's", "icon": "poi.png" },
+				{ "pos": [-686, -328, 75], "title": "Skizzleman's", "icon": "skizz.png" },
 
-				{ "pos": [-533, -465, 75], "title": "Smallishbeans'", "icon": "poi.png" },
+				{ "pos": [-533, -465, 75], "title": "Smallishbeans'", "icon": "joel.png" },
 				
 				{ "pos": [-412, 147, 72], "title": "Stress'", "icon": "stress.png" },
 				
@@ -76,7 +76,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [-83, 374, 64], "title": "xB's", "icon": "xb.png" },
 				
-				{ "pos": [104, 97, 72], "title": "Xisuma's", "icon": "xisuma.png" },
+				{ "pos": [-128, -93, 72], "title": "Xisuma's", "icon": "xisuma.png" },
 				
 				{ "pos": [-1238, -100, 66], "title": "Zedaph's", "icon": "zedaph.png" },
 
@@ -143,6 +143,8 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 
+				{ "pos": [-235, -4429, 64], "title": "Doc's swamp farms", "icon": "doc.png"},
+				
 				{ "pos" : [1704, -1516, 64], "title" : "Mumbo's Slime Farm", "icon" : "mumbo.png" },
 								
 			],
