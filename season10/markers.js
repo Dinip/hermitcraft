@@ -121,7 +121,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-
+				{ "pos": [-565, 675, 64], "title": "The Gaming District", "icon": "poi.png" }
 			],
 		},
 	},
