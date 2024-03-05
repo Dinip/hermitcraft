@@ -144,7 +144,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 
 				{ "pos": [-235, -4429, 64], "title": "Doc's swamp farms", "icon": "doc.png"},
-				
+				{ "pos": [8274, 812, 64], "title": "Keralis's dye farms", "icon": "keralis.png"},
 				{ "pos" : [1704, -1516, 64], "title" : "Mumbo's Slime Farm", "icon" : "mumbo.png" },
 								
 			],
