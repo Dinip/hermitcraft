@@ -148,12 +148,12 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-235, -4429, 64], "title": "Doc's swamp farms", "icon": "doc.png"},
 
-				{ "pos" : [8280, 800, 64], "title" : "Keralis' dye farms", "icon" : "keralis.png" },
+        { "pos" : [8280, 800, 64], "title" : "Keralis' dye farms", "icon" : "keralis.png" },
 				
 				{ "pos" : [1704, -1516, 64], "title" : "Mumbo's slime farm", "icon" : "mumbo.png" },
 
 				{ "pos" : [-3810, -2150, 64], "title" : "Tango's raid farm", "icon" : "tango.png" },
-								
+        
 			],
 		},
 	},
