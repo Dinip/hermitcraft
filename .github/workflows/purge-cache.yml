@@ -6,30 +6,33 @@ on:
       - master
 
 jobs:
-  post_merge:
+  purge-cache:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Check out repository
+      - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
-      - name: Get modified files
-        id: get_files
-        run: echo "::set-output name=files::$(git diff --name-only HEAD^..HEAD)"
-
-      - name: Find markers.js file
-        id: find_markers
+      - name: Get modified markers.js files
         run: |
-          if grep -q "markers.js" <<< "${{ steps.get_files.outputs.files }}"; then
-            echo "::set-output name=markers_path::$(grep "markers.js" <<< "${{ steps.get_files.outputs.files }}")"
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'markers.js$' | while read file; do
+            echo "https://gitcdn.dinip.pt/Dinip/hermitcraft/master/$file"
+          done > modified_files.txt
+          if [ -s modified_files.txt ]; then
+            echo "FILES_JSON=$(cat modified_files.txt | jq -R . | jq -cs .)" >> $GITHUB_ENV
+          else
+            echo "FILES_JSON=[]" >> $GITHUB_ENV
           fi
 
-      - name: Make curl POST request to Cloudflare
-        if: steps.find_markers.outputs.markers_path != ''
+      - name: Files to purge
+        run: echo $FILES_JSON | jq .
+      
+      - name: Purge Cloudflare cache
+        if: env.FILES_JSON != '[]'
         run: |
-          markers_path="${{ steps.find_markers.outputs.markers_path }}"
           curl -X POST \
             -H "Content-Type: application/json" \
             -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
-            -d "{\"files\": [\"https://gitcdn.dinip.pt/Dinip/hermitcraft/master/$markers_path\"]}" \
+            -d "{\"files\": $FILES_JSON}" \
             "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_IDENTIFIER }}/purge_cache"
