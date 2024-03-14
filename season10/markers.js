@@ -181,7 +181,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [-240, 295, 64], "title": "False Enterprises", "icon": "false.png" },
 
-				{ "pos": [210, 160, 64], "title": "Kitty Café (Cleo)", "icon": "cleo.png" },
+				{ "pos": [204, 169, 64], "title": "Kitty Café (Cleo)", "icon": "cleo.png" },
 				
 				{ "pos": [285, 225, 64], "title": "Doc's hourglass", "icon": "doc.png" },
 								
