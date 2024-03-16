@@ -218,6 +218,8 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-295, 60, 64], "title": "Iskall's monstrosity/monolith", "icon": "iskall.png" },
 
+				{ "pos": [300, -2100, 64], "title": "Hermitcraft Holmdel (Joe)", "icon": "joe.png" },
+
 				{ "pos": [-540, -100, 64], "title": "Hermit Post Co.", "icon": "pearl.png" },
 			],
 		},
