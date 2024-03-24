@@ -10,26 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Get modified markers.js files
-        run: |
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep 'markers.js$' | while read file; do
-            echo "https://gitcdn.dinip.pt/Dinip/hermitcraft/master/$file"
-          done > modified_files.txt
-          if [ -s modified_files.txt ]; then
-            echo "FILES_JSON=$(cat modified_files.txt | jq -R . | jq -cs .)" >> $GITHUB_ENV
-          else
-            echo "FILES_JSON=[]" >> $GITHUB_ENV
-          fi
-
-      - name: Files to purge
-        run: echo $FILES_JSON | jq .
+      - name: Filter markers.js files
+        uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          list-files: json
+          filters: |
+            markers: 
+              - '**/markers.js'
       
+      - name: Format files list
+        id: format
+        if: steps.filter.outputs.markers == 'true'
+        run: |
+          echo FILES_JSON=$(echo '${{ steps.filter.outputs.markers_files }}' | jq '. | map("https://gitcdn.dinip.pt/Dinip/hermitcraft/master/" + .)')  >> $GITHUB_ENV
+
       - name: Purge Cloudflare cache
-        if: env.FILES_JSON != '[]'
+        if: steps.filter.outputs.markers == 'true'
         run: |
           curl -X POST \
             -H "Content-Type: application/json" \
