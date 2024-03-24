@@ -25,7 +25,6 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				
 				{ "pos": [-439, -1067, 80], "title": "Bdubs's starter base", "icon": "bdubs2.png" },
 
 				{ "pos": [-173, 201, 71], "title": "Beef's home on the range", "icon": "beef.png" },
@@ -53,6 +52,8 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-352, 103, 103], "title": "Iskall's area", "icon": "iskall.png" },
 				
 				{ "pos": [-999, 371, 73], "title": "Joe's tiny house", "icon": "joe.png" },
+
+				{ "pos": [-533, -465, 75], "title": "Smallishbeans' City", "icon": "joel.png" },
 				
 				{ "pos": [12, 334, 64], "title": "Keralis' yacht", "icon": "keralis.png" },
 				
@@ -65,8 +66,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-871, -654, 75], "title": "Scar's zoo train", "icon": "scar.png" },
 
 				{ "pos": [-686, -328, 75], "title": "Skizz Crack", "icon": "skizz.png" },
-
-				{ "pos": [-533, -465, 75], "title": "Smallishbeans' City", "icon": "joel.png" },
 				
 				{ "pos": [-412, 147, 72], "title": "Stress' area", "icon": "stress.png" },
 				
@@ -79,7 +78,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-128, -93, 72], "title": "Xisuma's temple", "icon": "xisuma.png" },
 				
 				{ "pos": [-1238, -100, 66], "title": "Zedaph's crevice", "icon": "zedaph.png" },
-
 			],
 		},
 	},
@@ -105,7 +103,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [-220, 77, 64], "title": "Ren's exoplanetary outpost", "icon": "rendog.png" },
 
 				{ "pos": [-670, -180, 64], "title": "Skizz's pyramid", "icon": "skizz.png" },
-
 			],
 		},
 	},
@@ -147,7 +144,6 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-
 				{ "pos": [-235, -4429, 64], "title": "Doc's swamp farms", "icon": "doc.png"},
 
 				{ "pos" : [8280, 800, 64], "title" : "Keralis' dye farms", "icon" : "keralis.png" },
@@ -157,7 +153,6 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos" : [-3810, -2150, 64], "title" : "Tango's raid farm", "icon" : "tango.png" },
 
 				{ "pos" : [-240, -320, 64], "title" : "Log Land (Xisuma)", "icon" : "xisuma.png" },
-        
 			],
 		},
 	},
@@ -179,12 +174,11 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [-240, 295, 64], "title": "False Enterprises", "icon": "false.png" },
-
 				{ "pos": [204, 169, 64], "title": "Kitty Café (Cleo)", "icon": "cleo.png" },
 				
 				{ "pos": [285, 225, 64], "title": "Doc's hourglass", "icon": "doc.png" },
-								
+
+				{ "pos": [-240, 295, 64], "title": "False Enterprises", "icon": "false.png" },
 			],
 		},
 	},
@@ -215,7 +209,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [210, 240, 64], "title": "Permit shuffler", "icon": "cub2.png" },
 
 				{ "pos": [500, 215, 64], "title": "Department of Hermit Permits", "icon": "grian.png" },
-
+				
 				{ "pos": [-295, 60, 64], "title": "Iskall's monstrosity/monolith", "icon": "iskall.png" },
 
 				{ "pos": [300, -2100, 64], "title": "Hermitcraft Holmdel (Joe)", "icon": "joe.png" },
