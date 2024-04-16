@@ -189,7 +189,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [-1817, 58, 63], "title": "Scar's Panda Rescue", "icon": "scar.png" },
 
-				{ "pos": [-1424, 64, 5899], "title": "Blue River Raceway", "icon": "poi.png" },
+				{ "pos": [-1424, 5899, 64], "title": "Blue River Raceway", "icon": "poi.png" },
 
 				{ "pos": [-2182, 1816, 100], "title": "Pearl's Bin-Go", "icon": "pearl.png" },
 
