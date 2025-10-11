@@ -52,7 +52,6 @@ done
 echo ""
 
 while IFS= read -r file; do
-    echo "  ⚡ Checking syntax..."
     SYNTAX_ERROR=$(node -c "$file" 2>&1)
     SYNTAX_EXIT_CODE=$?
     HAS_SYNTAX_ERROR=false
@@ -81,8 +80,8 @@ while IFS= read -r file; do
     else
         echo "  ✅ Syntax OK"
     fi
-    
-    echo "  🎨 Checking icon references..."
+    echo ""
+    echo ""
     
     REFERENCED_ICONS=$(grep -v '^[[:space:]]*\/\/' "$file" | grep -o '"icon"[[:space:]]*:[[:space:]]*"[^"]*\.png"' | sed 's/.*"icon"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/' | grep -v '^\.png$' | sort -u)
     

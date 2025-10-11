@@ -100,7 +100,7 @@ var MAPCRAFTER_MARKERS = [
 			"world": [
 				{ "pos": [-280, 345, 64], "title": "False's base", "icon": "false.png" },
 
-				{ "pos": [-815, -255, 64], "title": "Gem's village", "icon": "gem.png" },
+				{ "pos": [-815, -255, 64], "title": "Gem's village", "icon": "gemini.png" },
 
 				{ "pos": [-124, -220, 64], "title": "Jevin's castle", "icon": "ijevin.png" },
 
@@ -237,11 +237,11 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [124, 216, 64], "title": "Cub's goat horn shop", "icon": "cub2.png" },
 
-				{ "pos": [200, 262, 64], "title": "CuBOOM Fireworks", "icon": "cub2.png" }
+				{ "pos": [200, 262, 64], "title": "CuBOOM Fireworks", "icon": "cub2.png" },
 				
 				{ "pos": [289, 213, 64], "title": "Big Wood (Doc)", "icon": "doc.png" },
 
-				{ "pos": [252, 366, 64], "title": "Ren's beacon shop", "icon": "rendog.png" }
+				{ "pos": [252, 366, 64], "title": "Ren's beacon shop", "icon": "rendog.png" },
 
 				{ "pos": [646, 189, 64], "title": "Gem's trident shop", "icon": "gemini.png" },
 
