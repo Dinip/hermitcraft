@@ -13,7 +13,6 @@ TEMP_FILE="/tmp/validation_errors_$$"
 
 echo "🔍 Starting markers validation..."
 
-# Get list of files to validate
 if [ $# -gt 0 ]; then
     # Files specified as parameters
     CHANGED_FILES=""
@@ -52,31 +51,36 @@ done
 
 echo ""
 
-# Validate each file
 while IFS= read -r file; do
     echo "🔧 Validating $file..."
     
-    # Check if file exists
-    if [ ! -f "$file" ]; then
-        echo "❌ File not found: $file"
-        echo "1" >> "$TEMP_FILE"
-        continue
-    fi
-    
-    # 1. Check JavaScript syntax
     echo "  ⚡ Checking syntax..."
-    if ! node -c "$file" 2>/dev/null; then
-        echo "❌ Syntax error in $file"
-        echo "   Run: node -c $file"
+    SYNTAX_ERROR=$(node -c "$file" 2>&1)
+    if [ $? -ne 0 ]; then
+        echo "❌ Syntax error in $file:"
+        # Extract only the code snippet and error message (excluding filename and stack trace)
+        echo "$SYNTAX_ERROR" | sed -n '2,/^$/p' | head -n -1 | sed 's/^/   /'
+        
+        # Provide helpful suggestions for common errors
+        if echo "$SYNTAX_ERROR" | grep -q "Unexpected token '{'"; then
+            echo ""
+            echo "   💡 Tip: This usually means a missing comma on the previous line."
+            echo "   Example fix:"
+            echo '      { "pos": [x, z, y], "title": "Name", "icon": "file.png" }  ← missing comma'
+            echo '      { "pos": [x, z, y], "title": "Name", "icon": "file.png" }, ← add comma here'
+        elif echo "$SYNTAX_ERROR" | grep -q "Unexpected token ']'"; then
+            echo ""
+            echo "   💡 Tip: This might be an extra comma before a closing bracket."
+            echo "   Example fix: Remove trailing comma before ] or }"
+        fi
+        
         echo "1" >> "$TEMP_FILE"
         continue
     fi
     echo "  ✅ Syntax OK"
     
-    # 2. Check icon references
     echo "  🎨 Checking icon references..."
     
-    # Extract icon filenames from the markers.js file (exclude comments and template lines)
     REFERENCED_ICONS=$(grep -v '^[[:space:]]*\/\/' "$file" | grep -o '"icon"[[:space:]]*:[[:space:]]*"[^"]*\.png"' | sed 's/.*"icon"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/' | grep -v '^\.png$' | sort -u)
     
     if [ -z "$REFERENCED_ICONS" ]; then
@@ -104,17 +108,14 @@ while IFS= read -r file; do
     echo ""
 done <<< "$CHANGED_FILES"
 
-# Count total errors
 if [ -f "$TEMP_FILE" ]; then
     ERRORS=$(awk '{sum += $1} END {print sum}' "$TEMP_FILE")
     rm -f "$TEMP_FILE"
 fi
 
-# Final result
 if [ "$ERRORS" -eq 0 ]; then
     echo "🎉 All validations passed!"
     
-    # Output summary for GitHub Actions
     if [ -n "$GITHUB_ACTIONS" ]; then
         echo "VALIDATION_STATUS=success" >> "$GITHUB_OUTPUT"
         echo "VALIDATION_SUMMARY=✅ All markers.js files validated successfully" >> "$GITHUB_OUTPUT"
@@ -123,7 +124,6 @@ if [ "$ERRORS" -eq 0 ]; then
 else
     echo "💥 Validation failed with $ERRORS errors"
     
-    # Output summary for GitHub Actions
     if [ -n "$GITHUB_ACTIONS" ]; then
         echo "VALIDATION_STATUS=failure" >> "$GITHUB_OUTPUT"
         echo "VALIDATION_SUMMARY=❌ Validation failed with $ERRORS errors" >> "$GITHUB_OUTPUT"
