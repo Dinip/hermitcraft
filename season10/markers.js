@@ -231,17 +231,17 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [574, 346, 64], "title": "Bdubs' potion shop", "icon": "bdubs.png" },
+				{ "pos": [574, 346, 64], "title": "Bdubs' potion shop", "icon": "test.png" },
 				
 				{ "pos": [204, 169, 64], "title": "Kitty Café (Cleo)", "icon": "cleo.png" },
 
 				{ "pos": [124, 216, 64], "title": "Cub's goat horn shop", "icon": "cub2.png" },
 
-				{ "pos": [200, 262, 64], "title": "CuBOOM Fireworks", "icon": "cub2.png" },
+				{ "pos": [200, 262, 64], "title": "CuBOOM Fireworks", "icon": "cub2.png" }
 				
 				{ "pos": [289, 213, 64], "title": "Big Wood (Doc)", "icon": "doc.png" },
 
-				{ "pos": [252, 366, 64], "title": "Ren's beacon shop", "icon": "rendog.png" },
+				{ "pos": [252, 366, 64], "title": "Ren's beacon shop", "icon": "rendog.png" }
 
 				{ "pos": [646, 189, 64], "title": "Gem's trident shop", "icon": "gemini.png" },
 
