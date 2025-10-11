@@ -81,7 +81,6 @@ while IFS= read -r file; do
         echo "  ✅ Syntax OK"
     fi
     echo ""
-    echo ""
     
     REFERENCED_ICONS=$(grep -v '^[[:space:]]*\/\/' "$file" | grep -o '"icon"[[:space:]]*:[[:space:]]*"[^"]*\.png"' | sed 's/.*"icon"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/' | grep -v '^\.png$' | sort -u)
     
