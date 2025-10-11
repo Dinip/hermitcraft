@@ -1,0 +1,84 @@
+name: Validate File Integrity
+
+on:
+  pull_request:
+    types: 
+      - opened
+      - synchronize
+      - reopened
+    branches:
+      - master
+
+jobs:
+  validate-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Detect changes in markers.js files
+        uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          list-files: shell
+          filters: |
+            markers: 
+              - '**/markers.js'
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        if: steps.filter.outputs.markers == 'true'
+        with:
+          node-version: '22'
+      
+      - name: Validate markers.js files
+        if: steps.filter.outputs.markers == 'true'
+        id: validation
+        run: |
+          echo "Changed markers.js files: "
+          echo '${{ steps.filter.outputs.markers_files }}'
+          
+          set +e
+          OUTPUT=$(./scripts/validate-markers.sh ${{ steps.filter.outputs.markers_files }} 2>&1)
+          VALIDATION_EXIT_CODE=$?
+          set -e
+          
+          echo "VALIDATION_OUTPUT<<EOF" >> $GITHUB_OUTPUT
+          echo "$OUTPUT" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          
+          echo "VALIDATION_EXIT_CODE=$VALIDATION_EXIT_CODE" >> $GITHUB_OUTPUT
+          
+          exit $VALIDATION_EXIT_CODE
+      
+      - name: Find existing validation comment
+        if: steps.filter.outputs.markers == 'true' && always()
+        uses: peter-evans/find-comment@v4
+        id: find-comment
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: 'github-actions[bot]'
+          body-includes: '<!-- markers-validation-comment -->'
+      
+      - name: Create or update PR comment
+        if: steps.filter.outputs.markers == 'true' && always()
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          comment-id: ${{ steps.find-comment.outputs.comment-id }}
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            <!-- markers-validation-comment -->
+            ## 🔍 Markers Validation Results
+            
+            **Files validated:** `${{ steps.filter.outputs.markers_files }}`
+            
+            ### Validation Output
+            ```
+            ${{ steps.validation.outputs.VALIDATION_OUTPUT }}
+            ```
+            
+            ---
+            <sub>🤖 This comment is automatically updated when markers.js files are changed</sub>
+          edit-mode: replace
