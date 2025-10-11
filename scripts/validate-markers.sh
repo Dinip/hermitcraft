@@ -52,13 +52,13 @@ done
 echo ""
 
 while IFS= read -r file; do
-    echo "🔧 Validating $file..."
-    
     echo "  ⚡ Checking syntax..."
     SYNTAX_ERROR=$(node -c "$file" 2>&1)
-    if [ $? -ne 0 ]; then
+    SYNTAX_EXIT_CODE=$?
+    HAS_SYNTAX_ERROR=false
+    
+    if [ $SYNTAX_EXIT_CODE -ne 0 ]; then
         echo "❌ Syntax error in $file:"
-        # Extract only the code snippet and error message (excluding filename and stack trace)
         echo "$SYNTAX_ERROR" | sed -n '2,/^$/p' | head -n -1 | sed 's/^/   /'
         
         # Provide helpful suggestions for common errors
@@ -66,8 +66,8 @@ while IFS= read -r file; do
             echo ""
             echo "   💡 Tip: This usually means a missing comma on the previous line."
             echo "   Example fix:"
-            echo '      { "pos": [x, z, y], "title": "Name", "icon": "file.png" }  ← missing comma'
-            echo '      { "pos": [x, z, y], "title": "Name", "icon": "file.png" }, ← add comma here'
+            echo '      { "pos": [x, z, y], "title": "Marker in previous line", "icon": "icon.png" }  ← missing comma'
+            echo '      { "pos": [x, z, y], "title": "Marker in previous line", "icon": "icon.png" }, ← add comma here'
         elif echo "$SYNTAX_ERROR" | grep -q "Unexpected token ']'"; then
             echo ""
             echo "   💡 Tip: This might be an extra comma before a closing bracket."
@@ -75,34 +75,40 @@ while IFS= read -r file; do
         fi
         
         echo "1" >> "$TEMP_FILE"
-        continue
+        HAS_SYNTAX_ERROR=true
+        echo ""
+        echo "   ⚠️  Note: There may be additional syntax errors not shown here. Please double-check the entire file."
+    else
+        echo "  ✅ Syntax OK"
     fi
-    echo "  ✅ Syntax OK"
     
     echo "  🎨 Checking icon references..."
     
     REFERENCED_ICONS=$(grep -v '^[[:space:]]*\/\/' "$file" | grep -o '"icon"[[:space:]]*:[[:space:]]*"[^"]*\.png"' | sed 's/.*"icon"[[:space:]]*:[[:space:]]*"\([^"]*\)".*/\1/' | grep -v '^\.png$' | sort -u)
     
     if [ -z "$REFERENCED_ICONS" ]; then
-        echo "  ⚠️  No icon references found"
-        continue
-    fi
-    
-    MISSING_ICONS=""
-    FILE_ERRORS=0
-    while IFS= read -r icon; do
-        if [ -n "$icon" ] && [ ! -f "$ICONS_DIR/$icon" ]; then
-            MISSING_ICONS="${MISSING_ICONS}    - $icon\n"
-            FILE_ERRORS=$((FILE_ERRORS + 1))
+        if [ "$HAS_SYNTAX_ERROR" = true ]; then
+            echo "  ⚠️  No icon references found (possibly due to syntax error)"
+        else
+            echo "  ⚠️  No icon references found"
         fi
-    done <<< "$REFERENCED_ICONS"
-    
-    if [ -n "$MISSING_ICONS" ]; then
-        echo "❌ Missing icons in $file:"
-        echo -e "$MISSING_ICONS"
-        echo "$FILE_ERRORS" >> "$TEMP_FILE"
     else
-        echo "  ✅ All icons exist"
+        MISSING_ICONS=""
+        FILE_ERRORS=0
+        while IFS= read -r icon; do
+            if [ -n "$icon" ] && [ ! -f "$ICONS_DIR/$icon" ]; then
+                MISSING_ICONS="${MISSING_ICONS}    - $icon\n"
+                FILE_ERRORS=$((FILE_ERRORS + 1))
+            fi
+        done <<< "$REFERENCED_ICONS"
+        
+        if [ -n "$MISSING_ICONS" ]; then
+            echo "❌ Missing icons in $file:"
+            echo -e "$MISSING_ICONS"
+            echo "$FILE_ERRORS" >> "$TEMP_FILE"
+        else
+            echo "  ✅ All icons exist"
+        fi
     fi
     
     echo ""

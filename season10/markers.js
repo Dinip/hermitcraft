@@ -231,7 +231,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
-				{ "pos": [574, 346, 64], "title": "Bdubs' potion shop", "icon": "test.png" },
+				{ "pos": [574, 346, 64], "title": "Bdubs' potion shop", "icon": "bdubs.png" },
 				
 				{ "pos": [204, 169, 64], "title": "Kitty Café (Cleo)", "icon": "cleo.png" },
 
