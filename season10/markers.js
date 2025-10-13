@@ -108,7 +108,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [1668, -1809, 64], "title": "Keralis' arctic base", "icon": "keralis.png" },
 
-				{ "pos": [-575, -604, 64], "title": "Mumbo's village", "icon": "skizz.png" },
+				{ "pos": [-575, -604, 64], "title": "Mumbo's village", "icon": "mumbo.png" },
 				
 				{ "pos": [-220, 77, 64], "title": "Ren's exoplanetary outpost", "icon": "rendog.png" },
 
@@ -120,7 +120,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [1167, -817, 40], "title": "Xb's Guardian Base", "icon": "xb.png" },
 
-				{ "pos": [-484, -287, 64], "title": "Pixelpulse City (Impulse and Bdubs)", "icon": "poi.png" }
+				{ "pos": [-484, -287, 64], "title": "Pixelpulse Valley (Impulse and Bdubs)", "icon": "poi.png" }
 			],
 		},
 	},
@@ -241,6 +241,8 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [289, 213, 64], "title": "Big Wood (Doc)", "icon": "doc.png" },
 
+				{ "pos": [342, 182, 64], "title": "Trims (Doc)", "icon": "doc.png" },
+
 				{ "pos": [252, 366, 64], "title": "Ren's beacon shop", "icon": "rendog.png" },
 
 				{ "pos": [646, 189, 64], "title": "Gem's trident shop", "icon": "gemini.png" },
@@ -261,7 +263,7 @@ var MAPCRAFTER_MARKERS = [
 				
 				{ "pos": [510, 480, 64], "title": "Xisuma's copper shop", "icon": "xisuma.png" },
 
-				{ "pos": [285, 225, 64], "title": "Joel's music shop/Mind Your Banners (Skizz)", "icon": "poi.png" },
+				{ "pos": [153, 126, 64], "title": "Joel's music shop/Mind Your Banners (Skizz)", "icon": "poi.png" },
 
 				{ "pos": [153, 383, 64], "title": "Wool Street", "icon": "poi.png" },
 
@@ -290,6 +292,8 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos": [86, 107, 64], "title": "Tall Claims Court", "icon": "bdubs2.png" },
+
+				{ "pos": [300, -287, 64], "title": "Doc's Skyblock", "icon": "doc.png" },
 				
 				//{ "pos": [210, 240, 64], "title": "Permit shuffler", "icon": "cub2.png" },
 
