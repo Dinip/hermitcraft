@@ -9,6 +9,9 @@ on:
     branches:
       - master
 
+permissions:
+  pull-requests: write
+
 jobs:
   validate-pr:
     runs-on: ubuntu-latest
