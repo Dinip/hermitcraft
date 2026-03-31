@@ -64,7 +64,7 @@ var MAPCRAFTER_MARKERS = [
 
 				{ "pos": [1465, 278, 64], "title": "Keralis' starter base", "icon": "keralis.png" },
 
-				{ "pos": [2421, 821, 64], "title": "Bdub's starter base", "icon": "bdubss2.png" },
+				{ "pos": [2421, 821, 64], "title": "Bdub's starter base", "icon": "bdubs2.png" },
 			],
 		},
 	},
