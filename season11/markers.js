@@ -61,6 +61,10 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos": [1200, 1750, 66], "title": "Xisuma's starter base", "icon": "xisuma.png" },
 				
 				{ "pos": [1650, 1250, 64], "title": "Zedaph's starter base", "icon": "zedaph.png" },
+
+				{ "pos": [1465, 278, 64], "title": "Keralis' starter base", "icon": "keralis.png" },
+
+				{ "pos": [2421, 821, 64], "title": "Bdub's starter base", "icon": "bdubs2.png" },
 			],
 		},
 	},
