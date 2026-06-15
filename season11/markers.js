@@ -85,6 +85,10 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos" : [1200, 2100, 64], "title" : "gem's castle's", "icon" : "gemini.png" },
+				{ "pos" : [1350, 1720, 64], "title" : "", "grian's observatory" : "grian.png" },
+				{ "pos" : [660, 1970, 64], "title" : "impluse's silo", "icon" : "impluse.png" },
+				{ "pos" : [540, 2000, 64], "title" : "skizz's base", "icon" : "skizz.png" },
 
 			],
 		},
@@ -106,6 +110,7 @@ var MAPCRAFTER_MARKERS = [
 		"markers": {
 			// ...in the world "world"
 			"world": [
+				{ "pos" : [550, 24, 64], "title" : "decked out 3", "icon" : ".png" },
 
 			],
 		},
