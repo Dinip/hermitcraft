@@ -115,7 +115,7 @@ var MAPCRAFTER_MARKERS = [
 			// ...in the world "world"
 			"world": [
 				{ "pos" : [2900, 400, 64], "title" : "Shattered Plains", "icon" : "bdubs2.png" },
-				{ "pos" : [550, 24, 64], "title" : "decked out 3", "icon" : "DO3.png" },
+				{ "pos" : [550, 2400, 64], "title" : "decked out 3", "icon" : "DO3.png" },
 				{ "pos" : [ 1600, 800, 64], "title" : " is that sheep looking at me", "icon" : "zedaph.png" },
 
 			],
